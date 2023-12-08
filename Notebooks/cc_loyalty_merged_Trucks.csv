@@ -1,0 +1,1819 @@
+,timestamp_full,location,price,date,fullname,CarID,CurrentEmploymentType,CurrentEmploymentTitle
+0,2014-01-06 07:28:00,Brew've Been Served,11.34,2014-01-06,Edvard Vann,34.0,Security,Perimeter Control
+1,2014-01-06 13:23:00,Hippokampos,13.26,2014-01-06,Edvard Vann,34.0,Security,Perimeter Control
+2,2014-01-07 07:33:00,Brew've Been Served,7.09,2014-01-07,Edvard Vann,34.0,Security,Perimeter Control
+3,2014-01-07 13:33:00,Kalami Kafenion,18.06,2014-01-07,Edvard Vann,34.0,Security,Perimeter Control
+4,2014-01-07 20:10:00,Guy's Gyros,26.82,2014-01-07,Edvard Vann,34.0,Security,Perimeter Control
+5,2014-01-08 08:00:00,Brew've Been Served,32.3,2014-01-08,Edvard Vann,34.0,Security,Perimeter Control
+6,2014-01-08 13:15:00,Hippokampos,9.03,2014-01-08,Edvard Vann,34.0,Security,Perimeter Control
+7,2014-01-09 07:48:00,Brew've Been Served,5.13,2014-01-09,Edvard Vann,34.0,Security,Perimeter Control
+8,2014-01-09 13:21:00,Gelatogalore,23.45,2014-01-09,Edvard Vann,34.0,Security,Perimeter Control
+9,2014-01-09 20:19:00,General Grocer,285.34,2014-01-09,Edvard Vann,34.0,Security,Perimeter Control
+10,2014-01-10 07:56:00,Brew've Been Served,97.25,2014-01-10,Edvard Vann,34.0,Security,Perimeter Control
+11,2014-01-10 13:20:00,Hippokampos,79.26,2014-01-10,Edvard Vann,34.0,Security,Perimeter Control
+12,2014-01-10 14:41:00,Octavio's Office Supplies,139.72,2014-01-10,Edvard Vann,34.0,Security,Perimeter Control
+13,2014-01-10 19:54:00,Guy's Gyros,27.78,2014-01-10,Edvard Vann,34.0,Security,Perimeter Control
+14,2014-01-11 16:24:00,Ahaggo Museum,89.32,2014-01-11,Edvard Vann,34.0,Security,Perimeter Control
+15,2014-01-11 19:29:00,Hippokampos,63.21,2014-01-11,Edvard Vann,34.0,Security,Perimeter Control
+16,2014-01-13 07:43:00,Brew've Been Served,18.71,2014-01-13,Edvard Vann,34.0,Security,Perimeter Control
+17,2014-01-13 13:37:00,Ouzeri Elian,95.03,2014-01-13,Edvard Vann,34.0,Security,Perimeter Control
+18,2014-01-13 20:11:00,Guy's Gyros,20.47,2014-01-13,Edvard Vann,34.0,Security,Perimeter Control
+19,2014-01-14 07:31:00,Brew've Been Served,4.72,2014-01-14,Edvard Vann,34.0,Security,Perimeter Control
+20,2014-01-14 13:34:00,Katerina’s Café,29.1,2014-01-14,Edvard Vann,34.0,Security,Perimeter Control
+21,2014-01-14 20:01:00,Guy's Gyros,23.59,2014-01-14,Edvard Vann,34.0,Security,Perimeter Control
+22,2014-01-15 07:57:00,Brew've Been Served,4.92,2014-01-15,Edvard Vann,34.0,Security,Perimeter Control
+23,2014-01-16 07:53:00,Brew've Been Served,4.7,2014-01-16,Edvard Vann,34.0,Security,Perimeter Control
+24,2014-01-16 13:39:00,Abila Zacharo,69.27,2014-01-16,Edvard Vann,34.0,Security,Perimeter Control
+25,2014-01-16 19:40:00,Guy's Gyros,37.8,2014-01-16,Edvard Vann,34.0,Security,Perimeter Control
+26,2014-01-17 07:59:00,Brew've Been Served,19.39,2014-01-17,Edvard Vann,34.0,Security,Perimeter Control
+27,2014-01-17 13:27:00,Hippokampos,14.57,2014-01-17,Edvard Vann,34.0,Security,Perimeter Control
+28,2014-01-17 19:53:00,Guy's Gyros,35.1,2014-01-17,Edvard Vann,34.0,Security,Perimeter Control
+29,2014-01-18 19:36:00,Abila Zacharo,21.29,2014-01-18,Edvard Vann,34.0,Security,Perimeter Control
+30,2014-01-19 13:23:00,Katerina’s Café,70.22,2014-01-19,Edvard Vann,34.0,Security,Perimeter Control
+31,2014-01-19 15:53:00,Frydos Autosupply n' More,209.76,2014-01-19,Edvard Vann,34.0,Security,Perimeter Control
+32,,Brew've Been Served,12.3,2014-01-08,Edvard Vann,34.0,Security,Perimeter Control
+33,,Brew've Been Served,17.25,2014-01-10,Edvard Vann,34.0,Security,Perimeter Control
+34,,Hippokampos,39.26,2014-01-10,Edvard Vann,34.0,Security,Perimeter Control
+35,,Ouzeri Elian,35.03,2014-01-13,Edvard Vann,34.0,Security,Perimeter Control
+36,,General Grocer,137.65,2014-01-15,Edvard Vann,34.0,Security,Perimeter Control
+37,,Guy's Gyros,19.8,2014-01-15,Edvard Vann,34.0,Security,Perimeter Control
+38,2014-01-06 07:34:00,Hallowed Grounds,52.22,2014-01-06,Hideki Cocinaro,12.0,Security,Site Control
+39,2014-01-06 14:05:00,Abila Zacharo,78.11,2014-01-06,Hideki Cocinaro,12.0,Security,Site Control
+40,2014-01-06 20:28:00,Guy's Gyros,95.29,2014-01-06,Hideki Cocinaro,12.0,Security,Site Control
+41,2014-01-07 07:48:00,Hallowed Grounds,18.97,2014-01-07,Hideki Cocinaro,12.0,Security,Site Control
+42,2014-01-07 13:46:00,Kalami Kafenion,22.14,2014-01-07,Hideki Cocinaro,12.0,Security,Site Control
+43,2014-01-08 07:39:00,Hallowed Grounds,12.19,2014-01-08,Hideki Cocinaro,12.0,Security,Site Control
+44,2014-01-08 14:06:00,Katerina’s Café,22.94,2014-01-08,Hideki Cocinaro,12.0,Security,Site Control
+45,2014-01-08 21:00:00,General Grocer,265.84,2014-01-08,Hideki Cocinaro,12.0,Security,Site Control
+46,2014-01-09 07:42:00,Hallowed Grounds,56.77,2014-01-09,Hideki Cocinaro,12.0,Security,Site Control
+47,2014-01-09 14:04:00,Ouzeri Elian,32.89,2014-01-09,Hideki Cocinaro,12.0,Security,Site Control
+48,2014-01-10 07:50:00,Hallowed Grounds,10.76,2014-01-10,Hideki Cocinaro,12.0,Security,Site Control
+49,2014-01-10 14:08:00,Katerina’s Café,77.62,2014-01-10,Hideki Cocinaro,12.0,Security,Site Control
+50,2014-01-10 20:20:00,Guy's Gyros,35.54,2014-01-10,Hideki Cocinaro,12.0,Security,Site Control
+51,2014-01-11 14:16:00,Kalami Kafenion,39.36,2014-01-11,Hideki Cocinaro,12.0,Security,Site Control
+52,2014-01-11 20:30:00,Kalami Kafenion,46.78,2014-01-11,Hideki Cocinaro,12.0,Security,Site Control
+53,2014-01-12 19:26:00,Guy's Gyros,42.32,2014-01-12,Hideki Cocinaro,12.0,Security,Site Control
+54,2014-01-13 07:54:00,Hallowed Grounds,19.18,2014-01-13,Hideki Cocinaro,12.0,Security,Site Control
+55,2014-01-13 20:59:00,Guy's Gyros,37.5,2014-01-13,Hideki Cocinaro,12.0,Security,Site Control
+56,2014-01-14 07:45:00,Hallowed Grounds,13.0,2014-01-14,Hideki Cocinaro,12.0,Security,Site Control
+57,2014-01-14 13:51:00,Ouzeri Elian,62.3,2014-01-14,Hideki Cocinaro,12.0,Security,Site Control
+58,2014-01-14 19:59:00,Guy's Gyros,94.26,2014-01-14,Hideki Cocinaro,12.0,Security,Site Control
+59,2014-01-15 07:44:00,Hallowed Grounds,12.17,2014-01-15,Hideki Cocinaro,12.0,Security,Site Control
+60,2014-01-15 13:42:00,Ouzeri Elian,22.86,2014-01-15,Hideki Cocinaro,12.0,Security,Site Control
+61,2014-01-16 07:30:00,Kronos Mart,298.83,2014-01-16,Hideki Cocinaro,12.0,Security,Site Control
+62,2014-01-16 07:44:00,Hallowed Grounds,18.2,2014-01-16,Hideki Cocinaro,12.0,Security,Site Control
+63,2014-01-16 13:47:00,Abila Zacharo,36.02,2014-01-16,Hideki Cocinaro,12.0,Security,Site Control
+64,2014-01-16 20:35:00,Guy's Gyros,11.31,2014-01-16,Hideki Cocinaro,12.0,Security,Site Control
+65,2014-01-17 13:58:00,Kalami Kafenion,27.73,2014-01-17,Hideki Cocinaro,12.0,Security,Site Control
+66,2014-01-17 20:41:00,General Grocer,98.03,2014-01-17,Hideki Cocinaro,12.0,Security,Site Control
+67,2014-01-19 20:14:00,Guy's Gyros,36.87,2014-01-19,Hideki Cocinaro,12.0,Security,Site Control
+68,,Abila Zacharo,18.11,2014-01-06,Hideki Cocinaro,12.0,Security,Site Control
+69,,Guy's Gyros,15.29,2014-01-06,Hideki Cocinaro,12.0,Security,Site Control
+70,,Hallowed Grounds,12.22,2014-01-06,Hideki Cocinaro,12.0,Security,Site Control
+71,,Hallowed Grounds,16.77,2014-01-09,Hideki Cocinaro,12.0,Security,Site Control
+72,,Katerina’s Café,37.62,2014-01-10,Hideki Cocinaro,12.0,Security,Site Control
+73,,Guy's Gyros,33.48,2014-01-13,Hideki Cocinaro,12.0,Security,Site Control
+74,,Guy's Gyros,34.26,2014-01-14,Hideki Cocinaro,12.0,Security,Site Control
+75,,Ouzeri Elian,22.3,2014-01-14,Hideki Cocinaro,12.0,Security,Site Control
+76,,Kronos Mart,258.83,2014-01-15,Hideki Cocinaro,12.0,Security,Site Control
+77,,General Grocer,78.03,2014-01-17,Hideki Cocinaro,12.0,Security,Site Control
+78,2014-01-06 07:35:00,Brew've Been Served,8.33,2014-01-06,Stenig Fusil,20.0,Security,Building Control
+79,2014-01-06 13:37:00,Ouzeri Elian,20.56,2014-01-06,Stenig Fusil,20.0,Security,Building Control
+80,2014-01-06 20:15:00,Guy's Gyros,117.82,2014-01-06,Stenig Fusil,20.0,Security,Building Control
+81,2014-01-07 07:45:00,Brew've Been Served,19.6,2014-01-07,Stenig Fusil,20.0,Security,Building Control
+82,2014-01-07 13:33:00,Guy's Gyros,11.31,2014-01-07,Stenig Fusil,20.0,Security,Building Control
+83,2014-01-08 07:48:00,Brew've Been Served,8.27,2014-01-08,Stenig Fusil,20.0,Security,Building Control
+84,2014-01-08 13:52:00,Kalami Kafenion,14.77,2014-01-08,Stenig Fusil,20.0,Security,Building Control
+85,2014-01-09 13:23:00,Ouzeri Elian,22.4,2014-01-09,Stenig Fusil,20.0,Security,Building Control
+86,2014-01-09 19:52:00,Guy's Gyros,29.96,2014-01-09,Stenig Fusil,20.0,Security,Building Control
+87,2014-01-10 07:35:00,Brew've Been Served,15.85,2014-01-10,Stenig Fusil,20.0,Security,Building Control
+88,2014-01-10 13:25:00,Guy's Gyros,26.76,2014-01-10,Stenig Fusil,20.0,Security,Building Control
+89,2014-01-10 19:45:00,Guy's Gyros,23.61,2014-01-10,Stenig Fusil,20.0,Security,Building Control
+90,2014-01-11 19:34:00,Guy's Gyros,55.36,2014-01-11,Stenig Fusil,20.0,Security,Building Control
+91,2014-01-13 07:43:00,Brew've Been Served,24.18,2014-01-13,Stenig Fusil,20.0,Security,Building Control
+92,2014-01-13 08:01:00,Kronos Mart,159.06,2014-01-13,Stenig Fusil,20.0,Security,Building Control
+93,2014-01-13 13:20:00,Abila Zacharo,79.95,2014-01-13,Stenig Fusil,20.0,Security,Building Control
+94,2014-01-14 07:53:00,Brew've Been Served,3.66,2014-01-14,Stenig Fusil,20.0,Security,Building Control
+95,2014-01-14 13:38:00,Abila Zacharo,8.41,2014-01-14,Stenig Fusil,20.0,Security,Building Control
+96,2014-01-14 15:49:00,Octavio's Office Supplies,131.73,2014-01-14,Stenig Fusil,20.0,Security,Building Control
+97,2014-01-14 20:15:00,Guy's Gyros,18.11,2014-01-14,Stenig Fusil,20.0,Security,Building Control
+98,2014-01-15 07:36:00,Brew've Been Served,15.5,2014-01-15,Stenig Fusil,20.0,Security,Building Control
+99,2014-01-15 20:08:00,Guy's Gyros,36.35,2014-01-15,Stenig Fusil,20.0,Security,Building Control
+100,2014-01-16 07:55:00,Brew've Been Served,12.83,2014-01-16,Stenig Fusil,20.0,Security,Building Control
+101,2014-01-16 13:44:00,Guy's Gyros,13.48,2014-01-16,Stenig Fusil,20.0,Security,Building Control
+102,2014-01-16 20:17:00,Guy's Gyros,30.76,2014-01-16,Stenig Fusil,20.0,Security,Building Control
+103,2014-01-17 07:52:00,Coffee Cameleon,9.16,2014-01-17,Stenig Fusil,20.0,Security,Building Control
+104,2014-01-17 13:31:00,Hippokampos,15.77,2014-01-17,Stenig Fusil,20.0,Security,Building Control
+105,2014-01-17 19:29:00,Guy's Gyros,19.68,2014-01-17,Stenig Fusil,20.0,Security,Building Control
+106,2014-01-18 19:39:00,Guy's Gyros,78.36,2014-01-18,Stenig Fusil,20.0,Security,Building Control
+107,2014-01-19 19:49:00,Guy's Gyros,100.36,2014-01-19,Stenig Fusil,20.0,Security,Building Control
+108,,Guy's Gyros,37.82,2014-01-06,Stenig Fusil,20.0,Security,Building Control
+109,,Brew've Been Served,15.82,2014-01-09,Stenig Fusil,20.0,Security,Building Control
+110,,Guy's Gyros,55.69,2014-01-11,Stenig Fusil,20.0,Security,Building Control
+111,,Kronos Mart,159.06,2014-01-12,Stenig Fusil,20.0,Security,Building Control
+112,,Abila Zacharo,39.95,2014-01-13,Stenig Fusil,20.0,Security,Building Control
+113,,Brew've Been Served,4.18,2014-01-13,Stenig Fusil,20.0,Security,Building Control
+114,,Guy's Gyros,40.36,2014-01-19,Stenig Fusil,20.0,Security,Building Control
+115,2014-01-06 07:36:00,Hallowed Grounds,16.72,2014-01-06,Birgitta Frente,18.0,Engineering,Geologist
+116,2014-01-06 13:50:00,Katerina’s Café,32.64,2014-01-06,Birgitta Frente,18.0,Engineering,Geologist
+117,2014-01-06 21:03:00,Katerina’s Café,10.72,2014-01-06,Birgitta Frente,18.0,Engineering,Geologist
+118,2014-01-07 08:01:00,Hallowed Grounds,9.92,2014-01-07,Birgitta Frente,18.0,Engineering,Geologist
+119,2014-01-07 14:09:00,Guy's Gyros,12.57,2014-01-07,Birgitta Frente,18.0,Engineering,Geologist
+120,2014-01-07 20:33:00,Katerina’s Café,17.26,2014-01-07,Birgitta Frente,18.0,Engineering,Geologist
+121,2014-01-08 07:43:00,Hallowed Grounds,3.4,2014-01-08,Birgitta Frente,18.0,Engineering,Geologist
+122,2014-01-08 13:53:00,Abila Zacharo,16.2,2014-01-08,Birgitta Frente,18.0,Engineering,Geologist
+123,2014-01-09 07:57:00,Hallowed Grounds,18.48,2014-01-09,Birgitta Frente,18.0,Engineering,Geologist
+124,2014-01-09 13:44:00,Guy's Gyros,15.0,2014-01-09,Birgitta Frente,18.0,Engineering,Geologist
+125,2014-01-10 07:41:00,Hallowed Grounds,8.34,2014-01-10,Birgitta Frente,18.0,Engineering,Geologist
+126,2014-01-10 14:07:00,Ouzeri Elian,30.93,2014-01-10,Birgitta Frente,18.0,Engineering,Geologist
+127,2014-01-11 13:35:00,Gelatogalore,17.31,2014-01-11,Birgitta Frente,18.0,Engineering,Geologist
+128,2014-01-11 15:15:00,Shoppers' Delight,157.45,2014-01-11,Birgitta Frente,18.0,Engineering,Geologist
+129,2014-01-11 19:08:00,Katerina’s Café,55.67,2014-01-11,Birgitta Frente,18.0,Engineering,Geologist
+130,2014-01-13 12:00:00,Bean There Done That,15.24,2014-01-13,Birgitta Frente,18.0,Engineering,Geologist
+131,2014-01-13 14:04:00,Hippokampos,25.09,2014-01-13,Birgitta Frente,18.0,Engineering,Geologist
+132,2014-01-14 07:54:00,Hallowed Grounds,50.21,2014-01-14,Birgitta Frente,18.0,Engineering,Geologist
+133,2014-01-14 13:49:00,Guy's Gyros,38.26,2014-01-14,Birgitta Frente,18.0,Engineering,Geologist
+134,2014-01-14 21:10:00,Katerina’s Café,18.35,2014-01-14,Birgitta Frente,18.0,Engineering,Geologist
+135,2014-01-15 07:36:00,Hallowed Grounds,5.28,2014-01-15,Birgitta Frente,18.0,Engineering,Geologist
+136,2014-01-15 14:00:00,Guy's Gyros,25.58,2014-01-15,Birgitta Frente,18.0,Engineering,Geologist
+137,2014-01-15 20:05:00,Katerina’s Café,11.45,2014-01-15,Birgitta Frente,18.0,Engineering,Geologist
+138,2014-01-16 07:51:00,Hallowed Grounds,44.98,2014-01-16,Birgitta Frente,18.0,Engineering,Geologist
+139,2014-01-16 13:48:00,Hippokampos,29.93,2014-01-16,Birgitta Frente,18.0,Engineering,Geologist
+140,2014-01-16 20:23:00,Katerina’s Café,13.91,2014-01-16,Birgitta Frente,18.0,Engineering,Geologist
+141,2014-01-17 07:39:00,Hallowed Grounds,15.98,2014-01-17,Birgitta Frente,18.0,Engineering,Geologist
+142,2014-01-17 13:52:00,Hippokampos,108.35,2014-01-17,Birgitta Frente,18.0,Engineering,Geologist
+143,2014-01-18 14:05:00,Guy's Gyros,47.89,2014-01-18,Birgitta Frente,18.0,Engineering,Geologist
+144,2014-01-18 19:20:00,Roberts and Sons,266.69,2014-01-18,Birgitta Frente,18.0,Engineering,Geologist
+145,2014-01-19 20:22:00,Katerina’s Café,38.9,2014-01-19,Birgitta Frente,18.0,Engineering,Geologist
+146,,Katerina’s Café,26.0,2014-01-09,Birgitta Frente,18.0,Engineering,Geologist
+147,,Hallowed Grounds,10.21,2014-01-14,Birgitta Frente,18.0,Engineering,Geologist
+148,,Hallowed Grounds,4.98,2014-01-16,Birgitta Frente,18.0,Engineering,Geologist
+149,,Hippokampos,28.35,2014-01-17,Birgitta Frente,18.0,Engineering,Geologist
+150,2014-01-06 07:37:00,Brew've Been Served,4.24,2014-01-06,Sven Flecha,17.0,Information Technology,IT Technician
+151,2014-01-06 13:30:00,Guy's Gyros,16.92,2014-01-06,Sven Flecha,17.0,Information Technology,IT Technician
+152,2014-01-06 19:18:00,Guy's Gyros,39.29,2014-01-06,Sven Flecha,17.0,Information Technology,IT Technician
+153,2014-01-07 07:27:00,Brew've Been Served,5.08,2014-01-07,Sven Flecha,17.0,Information Technology,IT Technician
+154,2014-01-07 20:10:00,Guy's Gyros,42.25,2014-01-07,Sven Flecha,17.0,Information Technology,IT Technician
+155,2014-01-08 08:01:00,Brew've Been Served,3.42,2014-01-08,Sven Flecha,17.0,Information Technology,IT Technician
+156,2014-01-08 13:32:00,Guy's Gyros,30.12,2014-01-08,Sven Flecha,17.0,Information Technology,IT Technician
+157,2014-01-08 20:07:00,Guy's Gyros,28.81,2014-01-08,Sven Flecha,17.0,Information Technology,IT Technician
+158,2014-01-09 07:48:00,Brew've Been Served,5.3,2014-01-09,Sven Flecha,17.0,Information Technology,IT Technician
+159,2014-01-09 13:38:00,Kalami Kafenion,18.14,2014-01-09,Sven Flecha,17.0,Information Technology,IT Technician
+160,2014-01-09 20:39:00,Guy's Gyros,35.05,2014-01-09,Sven Flecha,17.0,Information Technology,IT Technician
+161,2014-01-10 07:54:00,Brew've Been Served,83.44,2014-01-10,Sven Flecha,17.0,Information Technology,IT Technician
+162,2014-01-10 13:38:00,Guy's Gyros,26.68,2014-01-10,Sven Flecha,17.0,Information Technology,IT Technician
+163,2014-01-10 20:15:00,Frydos Autosupply n' More,237.08,2014-01-10,Sven Flecha,17.0,Information Technology,IT Technician
+164,2014-01-11 20:06:00,Guy's Gyros,33.65,2014-01-11,Sven Flecha,17.0,Information Technology,IT Technician
+165,2014-01-12 19:26:00,Shoppers' Delight,211.03,2014-01-12,Sven Flecha,17.0,Information Technology,IT Technician
+166,2014-01-13 07:38:00,Brew've Been Served,8.04,2014-01-13,Sven Flecha,17.0,Information Technology,IT Technician
+167,2014-01-13 13:50:00,Hippokampos,91.97,2014-01-13,Sven Flecha,17.0,Information Technology,IT Technician
+168,2014-01-13 20:15:00,Guy's Gyros,36.89,2014-01-13,Sven Flecha,17.0,Information Technology,IT Technician
+169,2014-01-14 07:53:00,Brew've Been Served,8.24,2014-01-14,Sven Flecha,17.0,Information Technology,IT Technician
+170,2014-01-14 13:32:00,Gelatogalore,27.26,2014-01-14,Sven Flecha,17.0,Information Technology,IT Technician
+171,2014-01-14 20:19:00,Guy's Gyros,12.96,2014-01-14,Sven Flecha,17.0,Information Technology,IT Technician
+172,2014-01-15 07:34:00,Brew've Been Served,3.71,2014-01-15,Sven Flecha,17.0,Information Technology,IT Technician
+173,2014-01-15 13:47:00,Abila Zacharo,20.44,2014-01-15,Sven Flecha,17.0,Information Technology,IT Technician
+174,2014-01-16 07:50:00,Brew've Been Served,7.31,2014-01-16,Sven Flecha,17.0,Information Technology,IT Technician
+175,2014-01-16 13:49:00,Kalami Kafenion,8.86,2014-01-16,Sven Flecha,17.0,Information Technology,IT Technician
+176,2014-01-16 19:04:00,Guy's Gyros,25.57,2014-01-16,Sven Flecha,17.0,Information Technology,IT Technician
+177,2014-01-17 07:29:00,Brew've Been Served,52.56,2014-01-17,Sven Flecha,17.0,Information Technology,IT Technician
+178,2014-01-17 20:05:00,Shoppers' Delight,155.01,2014-01-17,Sven Flecha,17.0,Information Technology,IT Technician
+179,2014-01-18 13:27:00,Guy's Gyros,55.21,2014-01-18,Sven Flecha,17.0,Information Technology,IT Technician
+180,2014-01-18 14:55:00,Ahaggo Museum,120.2,2014-01-18,Sven Flecha,17.0,Information Technology,IT Technician
+181,2014-01-19 14:08:00,Ouzeri Elian,45.32,2014-01-19,Sven Flecha,17.0,Information Technology,IT Technician
+182,2014-01-19 19:45:00,Guy's Gyros,65.21,2014-01-19,Sven Flecha,17.0,Information Technology,IT Technician
+183,,Guy's Gyros,22.25,2014-01-07,Sven Flecha,17.0,Information Technology,IT Technician
+184,,Kalami Kafenion,25.9,2014-01-07,Sven Flecha,17.0,Information Technology,IT Technician
+185,,Brew've Been Served,3.44,2014-01-10,Sven Flecha,17.0,Information Technology,IT Technician
+186,,Frydos Autosupply n' More,217.08,2014-01-10,Sven Flecha,17.0,Information Technology,IT Technician
+187,,Hippokampos,31.97,2014-01-13,Sven Flecha,17.0,Information Technology,IT Technician
+188,,Brew've Been Served,12.56,2014-01-17,Sven Flecha,17.0,Information Technology,IT Technician
+189,,Guy's Gyros,31.48,2014-01-18,Sven Flecha,17.0,Information Technology,IT Technician
+190,2014-01-06 07:38:00,Brew've Been Served,4.17,2014-01-06,Cornelia Lais,,,
+191,2014-01-06 13:48:00,Ouzeri Elian,20.74,2014-01-06,Cornelia Lais,,,
+192,2014-01-06 20:15:00,Frydos Autosupply n' More,175.87,2014-01-06,Cornelia Lais,,,
+193,2014-01-07 07:31:00,Brew've Been Served,12.74,2014-01-07,Cornelia Lais,,,
+194,2014-01-07 13:42:00,Ouzeri Elian,97.71,2014-01-07,Cornelia Lais,,,
+195,2014-01-07 20:34:00,Guy's Gyros,23.12,2014-01-07,Cornelia Lais,,,
+196,2014-01-08 07:57:00,Brew've Been Served,74.88,2014-01-08,Cornelia Lais,,,
+197,2014-01-08 13:47:00,Ouzeri Elian,104.92,2014-01-08,Cornelia Lais,,,
+198,2014-01-08 20:08:00,Guy's Gyros,33.02,2014-01-08,Cornelia Lais,,,
+199,2014-01-09 07:43:00,Brew've Been Served,5.43,2014-01-09,Cornelia Lais,,,
+200,2014-01-09 13:41:00,Hippokampos,39.22,2014-01-09,Cornelia Lais,,,
+201,2014-01-09 20:38:00,Guy's Gyros,8.23,2014-01-09,Cornelia Lais,,,
+202,2014-01-10 07:55:00,Brew've Been Served,85.91,2014-01-10,Cornelia Lais,,,
+203,2014-01-10 13:57:00,Ouzeri Elian,24.74,2014-01-10,Cornelia Lais,,,
+204,2014-01-10 21:13:00,Guy's Gyros,25.81,2014-01-10,Cornelia Lais,,,
+205,2014-01-11 19:57:00,Guy's Gyros,36.2,2014-01-11,Cornelia Lais,,,
+206,2014-01-12 19:52:00,Frydos Autosupply n' More,88.93,2014-01-12,Cornelia Lais,,,
+207,2014-01-13 07:36:00,Brew've Been Served,16.39,2014-01-13,Cornelia Lais,,,
+208,2014-01-13 13:55:00,Kalami Kafenion,20.33,2014-01-13,Cornelia Lais,,,
+209,2014-01-13 21:08:00,Guy's Gyros,19.77,2014-01-13,Cornelia Lais,,,
+210,2014-01-14 07:27:00,Brew've Been Served,14.67,2014-01-14,Cornelia Lais,,,
+211,2014-01-14 13:57:00,Gelatogalore,35.97,2014-01-14,Cornelia Lais,,,
+212,2014-01-14 20:17:00,Guy's Gyros,35.12,2014-01-14,Cornelia Lais,,,
+213,2014-01-15 08:00:00,Brew've Been Served,8.42,2014-01-15,Cornelia Lais,,,
+214,2014-01-15 13:40:00,Ouzeri Elian,25.7,2014-01-15,Cornelia Lais,,,
+215,2014-01-15 20:06:00,Guy's Gyros,44.91,2014-01-15,Cornelia Lais,,,
+216,2014-01-16 07:33:00,Brew've Been Served,25.05,2014-01-16,Cornelia Lais,,,
+217,2014-01-16 13:43:00,Katerina’s Café,38.32,2014-01-16,Cornelia Lais,,,
+218,2014-01-16 15:58:00,Octavio's Office Supplies,131.01,2014-01-16,Cornelia Lais,,,
+219,2014-01-17 07:36:00,Brew've Been Served,11.69,2014-01-17,Cornelia Lais,,,
+220,2014-01-17 14:06:00,Abila Zacharo,51.95,2014-01-17,Cornelia Lais,,,
+221,2014-01-17 21:15:00,Frydos Autosupply n' More,67.29,2014-01-17,Cornelia Lais,,,
+222,2014-01-18 13:19:00,Kalami Kafenion,30.12,2014-01-18,Cornelia Lais,,,
+223,2014-01-18 15:31:00,Frydos Autosupply n' More,103.41,2014-01-18,Cornelia Lais,,,
+224,2014-01-18 19:21:00,Guy's Gyros,28.07,2014-01-18,Cornelia Lais,,,
+225,,Ouzeri Elian,17.71,2014-01-07,Cornelia Lais,,,
+226,,Brew've Been Served,14.88,2014-01-08,Cornelia Lais,,,
+227,,Ouzeri Elian,24.92,2014-01-08,Cornelia Lais,,,
+228,,Hippokampos,19.22,2014-01-09,Cornelia Lais,,,
+229,,Brew've Been Served,5.91,2014-01-10,Cornelia Lais,,,
+230,,Guy's Gyros,24.91,2014-01-15,Cornelia Lais,,,
+231,,Brew've Been Served,5.05,2014-01-16,Cornelia Lais,,,
+232,,Abila Zacharo,11.95,2014-01-17,Cornelia Lais,,,
+233,2014-01-06 07:42:00,Coffee Cameleon,28.73,2014-01-06,Linnea Bergen,6.0,Information Technology,IT Group Manager
+234,2014-01-06 13:19:00,Gelatogalore,12.74,2014-01-06,Linnea Bergen,6.0,Information Technology,IT Group Manager
+235,2014-01-06 20:07:00,Katerina’s Café,23.63,2014-01-06,Linnea Bergen,6.0,Information Technology,IT Group Manager
+236,2014-01-07 07:49:00,Coffee Cameleon,27.66,2014-01-07,Linnea Bergen,6.0,Information Technology,IT Group Manager
+237,2014-01-07 13:33:00,Gelatogalore,34.04,2014-01-07,Linnea Bergen,6.0,Information Technology,IT Group Manager
+238,2014-01-07 20:09:00,Katerina’s Café,19.49,2014-01-07,Linnea Bergen,6.0,Information Technology,IT Group Manager
+239,2014-01-08 07:51:00,Coffee Cameleon,6.59,2014-01-08,Linnea Bergen,6.0,Information Technology,IT Group Manager
+240,2014-01-08 13:26:00,Hippokampos,16.59,2014-01-08,Linnea Bergen,6.0,Information Technology,IT Group Manager
+241,2014-01-09 07:35:00,Coffee Cameleon,12.47,2014-01-09,Linnea Bergen,6.0,Information Technology,IT Group Manager
+242,2014-01-09 13:03:00,Katerina’s Café,17.02,2014-01-09,Linnea Bergen,6.0,Information Technology,IT Group Manager
+243,2014-01-09 20:29:00,Guy's Gyros,23.34,2014-01-09,Linnea Bergen,6.0,Information Technology,IT Group Manager
+244,2014-01-10 07:40:00,Coffee Cameleon,8.51,2014-01-10,Linnea Bergen,6.0,Information Technology,IT Group Manager
+245,2014-01-10 13:27:00,Guy's Gyros,15.93,2014-01-10,Linnea Bergen,6.0,Information Technology,IT Group Manager
+246,2014-01-10 16:07:00,Octavio's Office Supplies,64.51,2014-01-10,Linnea Bergen,6.0,Information Technology,IT Group Manager
+247,2014-01-11 13:51:00,Abila Zacharo,32.02,2014-01-11,Linnea Bergen,6.0,Information Technology,IT Group Manager
+248,2014-01-12 19:21:00,Katerina’s Café,11.81,2014-01-12,Linnea Bergen,6.0,Information Technology,IT Group Manager
+249,2014-01-13 08:02:00,Coffee Cameleon,4.88,2014-01-13,Linnea Bergen,6.0,Information Technology,IT Group Manager
+250,2014-01-13 13:24:00,Hippokampos,35.73,2014-01-13,Linnea Bergen,6.0,Information Technology,IT Group Manager
+251,2014-01-13 20:47:00,Katerina’s Café,22.24,2014-01-13,Linnea Bergen,6.0,Information Technology,IT Group Manager
+252,2014-01-14 07:53:00,Coffee Cameleon,15.63,2014-01-14,Linnea Bergen,6.0,Information Technology,IT Group Manager
+253,2014-01-14 13:17:00,Hippokampos,36.01,2014-01-14,Linnea Bergen,6.0,Information Technology,IT Group Manager
+254,2014-01-15 07:56:00,Coffee Cameleon,5.49,2014-01-15,Linnea Bergen,6.0,Information Technology,IT Group Manager
+255,2014-01-15 13:10:00,Ouzeri Elian,8.93,2014-01-15,Linnea Bergen,6.0,Information Technology,IT Group Manager
+256,2014-01-15 21:05:00,Katerina’s Café,13.77,2014-01-15,Linnea Bergen,6.0,Information Technology,IT Group Manager
+257,2014-01-16 13:30:00,Hippokampos,16.53,2014-01-16,Linnea Bergen,6.0,Information Technology,IT Group Manager
+258,2014-01-17 07:51:00,Coffee Cameleon,6.81,2014-01-17,Linnea Bergen,6.0,Information Technology,IT Group Manager
+259,2014-01-17 13:16:00,Kalami Kafenion,140.78,2014-01-17,Linnea Bergen,6.0,Information Technology,IT Group Manager
+260,2014-01-17 20:20:00,Katerina’s Café,19.09,2014-01-17,Linnea Bergen,6.0,Information Technology,IT Group Manager
+261,2014-01-18 13:25:00,Abila Zacharo,18.45,2014-01-18,Linnea Bergen,6.0,Information Technology,IT Group Manager
+262,2014-01-18 15:41:00,Roberts and Sons,62.47,2014-01-18,Linnea Bergen,6.0,Information Technology,IT Group Manager
+263,,Coffee Cameleon,8.73,2014-01-06,Linnea Bergen,6.0,Information Technology,IT Group Manager
+264,,Coffee Cameleon,7.66,2014-01-07,Linnea Bergen,6.0,Information Technology,IT Group Manager
+265,,Katerina’s Café,19.12,2014-01-08,Linnea Bergen,6.0,Information Technology,IT Group Manager
+266,,Katerina’s Café,29.17,2014-01-11,Linnea Bergen,6.0,Information Technology,IT Group Manager
+267,,Coffee Cameleon,5.2,2014-01-16,Linnea Bergen,6.0,Information Technology,IT Group Manager
+268,,Katerina’s Café,36.32,2014-01-16,Linnea Bergen,6.0,Information Technology,IT Group Manager
+269,2014-01-06 07:43:00,Brew've Been Served,9.6,2014-01-06,Mat Bramar,,,
+270,2014-01-06 14:04:00,Hippokampos,30.88,2014-01-06,Mat Bramar,,,
+271,2014-01-06 21:12:00,Katerina’s Café,26.51,2014-01-06,Mat Bramar,,,
+272,2014-01-07 08:00:00,Brew've Been Served,11.91,2014-01-07,Mat Bramar,,,
+273,2014-01-07 13:32:00,Ouzeri Elian,28.37,2014-01-07,Mat Bramar,,,
+274,2014-01-08 07:42:00,Brew've Been Served,3.09,2014-01-08,Mat Bramar,,,
+275,2014-01-08 14:17:00,Gelatogalore,39.94,2014-01-08,Mat Bramar,,,
+276,2014-01-08 21:02:00,Katerina’s Café,28.86,2014-01-08,Mat Bramar,,,
+277,2014-01-09 07:46:00,Brew've Been Served,4.4,2014-01-09,Mat Bramar,,,
+278,2014-01-09 13:56:00,Kalami Kafenion,19.84,2014-01-09,Mat Bramar,,,
+279,2014-01-09 20:06:00,Katerina’s Café,26.6,2014-01-09,Mat Bramar,,,
+280,2014-01-10 07:47:00,Brew've Been Served,44.88,2014-01-10,Mat Bramar,,,
+281,2014-01-10 14:20:00,Hippokampos,10.16,2014-01-10,Mat Bramar,,,
+282,2014-01-11 20:00:00,Katerina’s Café,25.76,2014-01-11,Mat Bramar,,,
+283,2014-01-12 20:35:00,Katerina’s Café,40.25,2014-01-12,Mat Bramar,,,
+284,2014-01-13 07:56:00,Brew've Been Served,9.53,2014-01-13,Mat Bramar,,,
+285,2014-01-13 14:21:00,Hippokampos,26.96,2014-01-13,Mat Bramar,,,
+286,2014-01-14 07:45:00,Brew've Been Served,14.04,2014-01-14,Mat Bramar,,,
+287,2014-01-14 13:50:00,Kalami Kafenion,27.65,2014-01-14,Mat Bramar,,,
+288,2014-01-14 21:28:00,Frydos Autosupply n' More,49.21,2014-01-14,Mat Bramar,,,
+289,2014-01-15 07:58:00,Brew've Been Served,3.14,2014-01-15,Mat Bramar,,,
+290,2014-01-15 14:04:00,Abila Zacharo,46.82,2014-01-15,Mat Bramar,,,
+291,2014-01-15 20:57:00,Frydos Autosupply n' More,276.88,2014-01-15,Mat Bramar,,,
+292,2014-01-16 07:54:00,Brew've Been Served,83.84,2014-01-16,Mat Bramar,,,
+293,2014-01-16 13:48:00,Abila Zacharo,24.38,2014-01-16,Mat Bramar,,,
+294,2014-01-16 20:54:00,Frydos Autosupply n' More,130.01,2014-01-16,Mat Bramar,,,
+295,2014-01-17 07:50:00,Brew've Been Served,8.07,2014-01-17,Mat Bramar,,,
+296,2014-01-17 14:15:00,Katerina’s Café,70.72,2014-01-17,Mat Bramar,,,
+297,2014-01-17 19:57:00,Frydos Autosupply n' More,124.52,2014-01-17,Mat Bramar,,,
+298,2014-01-18 19:47:00,Katerina’s Café,16.48,2014-01-18,Mat Bramar,,,
+299,,Brew've Been Served,4.88,2014-01-10,Mat Bramar,,,
+300,,Abila Zacharo,26.82,2014-01-15,Mat Bramar,,,
+301,,Brew've Been Served,3.84,2014-01-16,Mat Bramar,,,
+302,,Katerina’s Café,30.72,2014-01-17,Mat Bramar,,,
+303,2014-01-06 07:43:00,Brew've Been Served,16.9,2014-01-06,Brand Tempestad,33.0,Engineering,Drill Technician
+304,2014-01-07 07:56:00,Brew've Been Served,98.53,2014-01-07,Brand Tempestad,33.0,Engineering,Drill Technician
+305,2014-01-07 13:41:00,Abila Zacharo,17.81,2014-01-07,Brand Tempestad,33.0,Engineering,Drill Technician
+306,2014-01-07 20:11:00,Guy's Gyros,76.71,2014-01-07,Brand Tempestad,33.0,Engineering,Drill Technician
+307,2014-01-08 07:48:00,Brew've Been Served,19.17,2014-01-08,Brand Tempestad,33.0,Engineering,Drill Technician
+308,2014-01-08 13:19:00,Chostus Hotel,111.89,2014-01-08,Brand Tempestad,33.0,Engineering,Drill Technician
+309,2014-01-08 20:17:00,Guy's Gyros,18.24,2014-01-08,Brand Tempestad,33.0,Engineering,Drill Technician
+310,2014-01-09 07:36:00,Brew've Been Served,70.71,2014-01-09,Brand Tempestad,33.0,Engineering,Drill Technician
+311,2014-01-09 13:36:00,Hippokampos,27.93,2014-01-09,Brand Tempestad,33.0,Engineering,Drill Technician
+312,2014-01-10 07:49:00,Brew've Been Served,89.93,2014-01-10,Brand Tempestad,33.0,Engineering,Drill Technician
+313,2014-01-10 13:08:00,Chostus Hotel,133.25,2014-01-10,Brand Tempestad,33.0,Engineering,Drill Technician
+314,2014-01-11 17:16:00,Ahaggo Museum,52.14,2014-01-11,Brand Tempestad,33.0,Engineering,Drill Technician
+315,2014-01-11 19:27:00,Hippokampos,32.63,2014-01-11,Brand Tempestad,33.0,Engineering,Drill Technician
+316,2014-01-12 13:45:00,Abila Zacharo,11.2,2014-01-12,Brand Tempestad,33.0,Engineering,Drill Technician
+317,2014-01-13 07:40:00,Brew've Been Served,8.0,2014-01-13,Brand Tempestad,33.0,Engineering,Drill Technician
+318,2014-01-13 13:27:00,Abila Zacharo,8.72,2014-01-13,Brand Tempestad,33.0,Engineering,Drill Technician
+319,2014-01-13 20:44:00,Guy's Gyros,15.55,2014-01-13,Brand Tempestad,33.0,Engineering,Drill Technician
+320,2014-01-14 07:40:00,Brew've Been Served,5.87,2014-01-14,Brand Tempestad,33.0,Engineering,Drill Technician
+321,2014-01-14 13:21:00,Chostus Hotel,113.08,2014-01-14,Brand Tempestad,33.0,Engineering,Drill Technician
+322,2014-01-15 07:40:00,Brew've Been Served,19.87,2014-01-15,Brand Tempestad,33.0,Engineering,Drill Technician
+323,2014-01-15 13:12:00,Hippokampos,118.89,2014-01-15,Brand Tempestad,33.0,Engineering,Drill Technician
+324,2014-01-15 20:04:00,Frydos Autosupply n' More,235.27,2014-01-15,Brand Tempestad,33.0,Engineering,Drill Technician
+325,2014-01-16 07:56:00,Brew've Been Served,4.33,2014-01-16,Brand Tempestad,33.0,Engineering,Drill Technician
+326,2014-01-16 13:17:00,Katerina’s Café,11.08,2014-01-16,Brand Tempestad,33.0,Engineering,Drill Technician
+327,2014-01-16 20:14:00,Guy's Gyros,111.31,2014-01-16,Brand Tempestad,33.0,Engineering,Drill Technician
+328,2014-01-17 13:49:00,Chostus Hotel,114.22,2014-01-17,Brand Tempestad,33.0,Engineering,Drill Technician
+329,2014-01-17 20:59:00,Guy's Gyros,29.71,2014-01-17,Brand Tempestad,33.0,Engineering,Drill Technician
+330,2014-01-19 20:16:00,Guy's Gyros,37.48,2014-01-19,Brand Tempestad,33.0,Engineering,Drill Technician
+331,,Ouzeri Elian,34.71,2014-01-06,Brand Tempestad,33.0,Engineering,Drill Technician
+332,,Brew've Been Served,18.53,2014-01-07,Brand Tempestad,33.0,Engineering,Drill Technician
+333,,Brew've Been Served,10.71,2014-01-09,Brand Tempestad,33.0,Engineering,Drill Technician
+334,,Chostus Hotel,113.25,2014-01-10,Brand Tempestad,33.0,Engineering,Drill Technician
+335,,Ahaggo Museum,32.14,2014-01-11,Brand Tempestad,33.0,Engineering,Drill Technician
+336,,Hippokampos,38.89,2014-01-15,Brand Tempestad,33.0,Engineering,Drill Technician
+337,,Guy's Gyros,31.31,2014-01-16,Brand Tempestad,33.0,Engineering,Drill Technician
+338,,Brew've Been Served,12.3,2014-01-17,Brand Tempestad,33.0,Engineering,Drill Technician
+339,2014-01-06 07:47:00,Hallowed Grounds,16.53,2014-01-06,Emile Arpa,,,
+340,2014-01-06 14:15:00,Kalami Kafenion,27.4,2014-01-06,Emile Arpa,,,
+341,2014-01-06 19:08:00,Katerina’s Café,26.46,2014-01-06,Emile Arpa,,,
+342,2014-01-07 07:37:00,Hallowed Grounds,8.91,2014-01-07,Emile Arpa,,,
+343,2014-01-07 14:11:00,Hippokampos,37.57,2014-01-07,Emile Arpa,,,
+344,2014-01-08 07:40:00,Hallowed Grounds,5.85,2014-01-08,Emile Arpa,,,
+345,2014-01-08 14:19:00,Kalami Kafenion,31.43,2014-01-08,Emile Arpa,,,
+346,2014-01-09 07:46:00,Hallowed Grounds,75.24,2014-01-09,Emile Arpa,,,
+347,2014-01-09 14:04:00,Kalami Kafenion,10.94,2014-01-09,Emile Arpa,,,
+348,2014-01-09 19:25:00,Katerina’s Café,35.92,2014-01-09,Emile Arpa,,,
+349,2014-01-10 07:34:00,Hallowed Grounds,16.75,2014-01-10,Emile Arpa,,,
+350,2014-01-10 13:57:00,Guy's Gyros,16.34,2014-01-10,Emile Arpa,,,
+351,2014-01-10 19:50:00,Katerina’s Café,19.57,2014-01-10,Emile Arpa,,,
+352,2014-01-11 13:40:00,Ouzeri Elian,19.11,2014-01-11,Emile Arpa,,,
+353,2014-01-11 15:31:00,General Grocer,78.02,2014-01-11,Emile Arpa,,,
+354,2014-01-11 20:22:00,Frydos Autosupply n' More,236.25,2014-01-11,Emile Arpa,,,
+355,2014-01-12 14:16:00,Guy's Gyros,30.47,2014-01-12,Emile Arpa,,,
+356,2014-01-12 20:04:00,Katerina’s Café,39.3,2014-01-12,Emile Arpa,,,
+357,2014-01-13 14:33:00,Guy's Gyros,116.87,2014-01-13,Emile Arpa,,,
+358,2014-01-13 19:41:00,Frydos Autosupply n' More,188.57,2014-01-13,Emile Arpa,,,
+359,2014-01-14 07:44:00,Hallowed Grounds,16.67,2014-01-14,Emile Arpa,,,
+360,2014-01-14 14:03:00,Gelatogalore,102.03,2014-01-14,Emile Arpa,,,
+361,2014-01-14 20:15:00,Katerina’s Café,27.67,2014-01-14,Emile Arpa,,,
+362,2014-01-15 07:39:00,Hallowed Grounds,5.95,2014-01-15,Emile Arpa,,,
+363,2014-01-15 13:51:00,Ouzeri Elian,26.61,2014-01-15,Emile Arpa,,,
+364,2014-01-15 19:59:00,Katerina’s Café,25.08,2014-01-15,Emile Arpa,,,
+365,2014-01-16 07:45:00,Hallowed Grounds,17.92,2014-01-16,Emile Arpa,,,
+366,2014-01-16 20:09:00,Katerina’s Café,18.79,2014-01-16,Emile Arpa,,,
+367,2014-01-17 07:41:00,Hallowed Grounds,10.52,2014-01-17,Emile Arpa,,,
+368,2014-01-17 14:32:00,Ouzeri Elian,26.1,2014-01-17,Emile Arpa,,,
+369,2014-01-17 19:57:00,Katerina’s Café,34.93,2014-01-17,Emile Arpa,,,
+370,2014-01-18 19:17:00,Katerina’s Café,21.63,2014-01-18,Emile Arpa,,,
+371,,Hallowed Grounds,15.24,2014-01-09,Emile Arpa,,,
+372,,Guy's Gyros,36.87,2014-01-13,Emile Arpa,,,
+373,,Gelatogalore,22.03,2014-01-14,Emile Arpa,,,
+374,,Guy's Gyros,36.48,2014-01-16,Emile Arpa,,,
+375,,Katerina’s Café,14.93,2014-01-17,Emile Arpa,,,
+376,2014-01-06 07:48:00,Hallowed Grounds,10.66,2014-01-06,Kare Orilla,27.0,Engineering,Drill Technician
+377,2014-01-06 13:52:00,Gelatogalore,36.33,2014-01-06,Kare Orilla,27.0,Engineering,Drill Technician
+378,2014-01-06 20:59:00,Katerina’s Café,26.1,2014-01-06,Kare Orilla,27.0,Engineering,Drill Technician
+379,2014-01-07 07:50:00,Hallowed Grounds,9.61,2014-01-07,Kare Orilla,27.0,Engineering,Drill Technician
+380,2014-01-07 14:00:00,Hippokampos,76.11,2014-01-07,Kare Orilla,27.0,Engineering,Drill Technician
+381,2014-01-07 20:47:00,Katerina’s Café,32.83,2014-01-07,Kare Orilla,27.0,Engineering,Drill Technician
+382,2014-01-08 07:47:00,Hallowed Grounds,3.11,2014-01-08,Kare Orilla,27.0,Engineering,Drill Technician
+383,2014-01-08 13:45:00,Kalami Kafenion,23.82,2014-01-08,Kare Orilla,27.0,Engineering,Drill Technician
+384,2014-01-09 08:07:00,Hallowed Grounds,65.68,2014-01-09,Kare Orilla,27.0,Engineering,Drill Technician
+385,2014-01-09 20:08:00,Katerina’s Café,19.02,2014-01-09,Kare Orilla,27.0,Engineering,Drill Technician
+386,2014-01-10 07:45:00,Hallowed Grounds,11.38,2014-01-10,Kare Orilla,27.0,Engineering,Drill Technician
+387,2014-01-10 14:01:00,Abila Zacharo,16.12,2014-01-10,Kare Orilla,27.0,Engineering,Drill Technician
+388,2014-01-12 13:55:00,Kalami Kafenion,14.59,2014-01-12,Kare Orilla,27.0,Engineering,Drill Technician
+389,2014-01-12 19:47:00,Katerina’s Café,17.36,2014-01-12,Kare Orilla,27.0,Engineering,Drill Technician
+390,2014-01-13 07:43:00,Hallowed Grounds,13.68,2014-01-13,Kare Orilla,27.0,Engineering,Drill Technician
+391,2014-01-13 13:48:00,Katerina’s Café,24.26,2014-01-13,Kare Orilla,27.0,Engineering,Drill Technician
+392,2014-01-14 08:12:00,Hallowed Grounds,39.52,2014-01-14,Kare Orilla,27.0,Engineering,Drill Technician
+393,2014-01-14 13:42:00,Kalami Kafenion,23.1,2014-01-14,Kare Orilla,27.0,Engineering,Drill Technician
+394,2014-01-14 20:34:00,Katerina’s Café,11.89,2014-01-14,Kare Orilla,27.0,Engineering,Drill Technician
+395,2014-01-15 07:59:00,Hallowed Grounds,14.33,2014-01-15,Kare Orilla,27.0,Engineering,Drill Technician
+396,2014-01-15 14:02:00,Abila Zacharo,24.53,2014-01-15,Kare Orilla,27.0,Engineering,Drill Technician
+397,2014-01-15 19:50:00,Katerina’s Café,39.23,2014-01-15,Kare Orilla,27.0,Engineering,Drill Technician
+398,2014-01-16 07:44:00,Hallowed Grounds,17.74,2014-01-16,Kare Orilla,27.0,Engineering,Drill Technician
+399,2014-01-16 13:48:00,Kalami Kafenion,11.83,2014-01-16,Kare Orilla,27.0,Engineering,Drill Technician
+400,2014-01-16 20:51:00,Katerina’s Café,34.58,2014-01-16,Kare Orilla,27.0,Engineering,Drill Technician
+401,2014-01-17 08:03:00,Hallowed Grounds,38.22,2014-01-17,Kare Orilla,27.0,Engineering,Drill Technician
+402,2014-01-17 13:57:00,Gelatogalore,21.62,2014-01-17,Kare Orilla,27.0,Engineering,Drill Technician
+403,2014-01-17 19:24:00,Katerina’s Café,22.18,2014-01-17,Kare Orilla,27.0,Engineering,Drill Technician
+404,2014-01-19 14:20:00,Katerina’s Café,54.2,2014-01-19,Kare Orilla,27.0,Engineering,Drill Technician
+405,,Hippokampos,16.11,2014-01-07,Kare Orilla,27.0,Engineering,Drill Technician
+406,,Katerina’s Café,27.46,2014-01-11,Kare Orilla,27.0,Engineering,Drill Technician
+407,,Hallowed Grounds,18.22,2014-01-17,Kare Orilla,27.0,Engineering,Drill Technician
+408,2014-01-06 07:49:00,Coffee Cameleon,8.39,2014-01-06,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+409,2014-01-06 13:48:00,Ouzeri Elian,30.87,2014-01-06,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+410,2014-01-06 20:33:00,Katerina’s Café,15.52,2014-01-06,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+411,2014-01-07 07:46:00,Coffee Cameleon,9.1,2014-01-07,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+412,2014-01-07 13:54:00,Gelatogalore,88.97,2014-01-07,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+413,2014-01-07 20:32:00,Katerina’s Café,19.53,2014-01-07,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+414,2014-01-08 07:52:00,Coffee Cameleon,12.26,2014-01-08,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+415,2014-01-08 13:29:00,Kalami Kafenion,24.08,2014-01-08,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+416,2014-01-08 20:42:00,Katerina’s Café,92.83,2014-01-08,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+417,2014-01-09 07:37:00,Coffee Cameleon,19.99,2014-01-09,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+418,2014-01-09 14:13:00,Guy's Gyros,17.44,2014-01-09,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+419,2014-01-09 19:30:00,Katerina’s Café,26.6,2014-01-09,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+420,2014-01-10 07:47:00,Coffee Cameleon,11.54,2014-01-10,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+421,2014-01-10 19:56:00,Katerina’s Café,21.89,2014-01-10,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+422,2014-01-11 20:15:00,Frydos Autosupply n' More,114.98,2014-01-11,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+423,2014-01-12 16:08:00,Shoppers' Delight,51.5,2014-01-12,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+424,2014-01-12 20:11:00,Katerina’s Café,67.14,2014-01-12,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+425,2014-01-13 07:40:00,Coffee Cameleon,19.93,2014-01-13,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+426,2014-01-13 13:52:00,Katerina’s Café,29.55,2014-01-13,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+427,2014-01-13 19:50:00,Katerina’s Café,89.83,2014-01-13,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+428,2014-01-14 07:37:00,Coffee Cameleon,9.8,2014-01-14,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+429,2014-01-14 13:41:00,Katerina’s Café,75.46,2014-01-14,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+430,2014-01-14 20:17:00,Katerina’s Café,36.95,2014-01-14,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+431,2014-01-15 07:51:00,Coffee Cameleon,14.47,2014-01-15,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+432,2014-01-15 13:58:00,Abila Zacharo,33.8,2014-01-15,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+433,2014-01-15 21:21:00,Katerina’s Café,27.48,2014-01-15,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+434,2014-01-16 07:38:00,Coffee Cameleon,67.19,2014-01-16,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+435,2014-01-16 13:27:00,Abila Zacharo,31.31,2014-01-16,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+436,2014-01-16 19:47:00,Katerina’s Café,34.34,2014-01-16,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+437,2014-01-17 07:38:00,Coffee Cameleon,10.27,2014-01-17,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+438,2014-01-17 13:42:00,Katerina’s Café,21.01,2014-01-17,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+439,2014-01-18 13:34:00,Ouzeri Elian,25.75,2014-01-18,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+440,2014-01-18 15:31:00,General Grocer,177.6,2014-01-18,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+441,2014-01-18 19:53:00,Katerina’s Café,76.1,2014-01-18,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+442,2014-01-19 18:54:00,Katerina’s Café,72.25,2014-01-19,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+443,,Gelatogalore,8.97,2014-01-07,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+444,,Katerina’s Café,32.83,2014-01-08,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+445,,Gelatogalore,39.4,2014-01-10,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+446,,Frydos Autosupply n' More,54.98,2014-01-11,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+447,,Katerina’s Café,34.1,2014-01-12,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+448,,Katerina’s Café,29.83,2014-01-13,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+449,,Katerina’s Café,15.46,2014-01-14,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+450,,Coffee Cameleon,7.19,2014-01-16,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+451,,Katerina’s Café,14.34,2014-01-16,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+452,,Ouzeri Elian,53.36,2014-01-18,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+453,,Katerina’s Café,12.25,2014-01-19,Bertrand Ovan,29.0,Facilities,Facilities Group Manager
+454,2014-01-06 07:52:00,Brew've Been Served,32.83,2014-01-06,Hennie Osvaldo,21.0,Security,Perimeter Control
+455,2014-01-06 13:54:00,Abila Zacharo,23.15,2014-01-06,Hennie Osvaldo,21.0,Security,Perimeter Control
+456,2014-01-06 20:29:00,Katerina’s Café,17.92,2014-01-06,Hennie Osvaldo,21.0,Security,Perimeter Control
+457,2014-01-07 08:02:00,Brew've Been Served,14.49,2014-01-07,Hennie Osvaldo,21.0,Security,Perimeter Control
+458,2014-01-07 13:39:00,Gelatogalore,17.21,2014-01-07,Hennie Osvaldo,21.0,Security,Perimeter Control
+459,2014-01-07 21:01:00,Katerina’s Café,33.29,2014-01-07,Hennie Osvaldo,21.0,Security,Perimeter Control
+460,2014-01-08 07:50:00,Brew've Been Served,33.68,2014-01-08,Hennie Osvaldo,21.0,Security,Perimeter Control
+461,2014-01-08 13:28:00,Gelatogalore,20.72,2014-01-08,Hennie Osvaldo,21.0,Security,Perimeter Control
+462,2014-01-09 07:57:00,Hallowed Grounds,50.25,2014-01-09,Hennie Osvaldo,21.0,Security,Perimeter Control
+463,2014-01-09 13:40:00,Gelatogalore,11.94,2014-01-09,Hennie Osvaldo,21.0,Security,Perimeter Control
+464,2014-01-09 20:20:00,Katerina’s Café,91.14,2014-01-09,Hennie Osvaldo,21.0,Security,Perimeter Control
+465,2014-01-10 07:48:00,Brew've Been Served,13.32,2014-01-10,Hennie Osvaldo,21.0,Security,Perimeter Control
+466,2014-01-10 13:44:00,Ouzeri Elian,20.46,2014-01-10,Hennie Osvaldo,21.0,Security,Perimeter Control
+467,2014-01-10 20:08:00,Katerina’s Café,15.76,2014-01-10,Hennie Osvaldo,21.0,Security,Perimeter Control
+468,2014-01-11 20:13:00,Katerina’s Café,9.78,2014-01-11,Hennie Osvaldo,21.0,Security,Perimeter Control
+469,2014-01-12 20:12:00,Katerina’s Café,15.37,2014-01-12,Hennie Osvaldo,21.0,Security,Perimeter Control
+470,2014-01-13 07:44:00,Hallowed Grounds,5.85,2014-01-13,Hennie Osvaldo,21.0,Security,Perimeter Control
+471,2014-01-13 13:36:00,Katerina’s Café,17.21,2014-01-13,Hennie Osvaldo,21.0,Security,Perimeter Control
+472,2014-01-13 21:16:00,Katerina’s Café,33.11,2014-01-13,Hennie Osvaldo,21.0,Security,Perimeter Control
+473,2014-01-14 07:45:00,Brew've Been Served,16.53,2014-01-14,Hennie Osvaldo,21.0,Security,Perimeter Control
+474,2014-01-14 13:35:00,Abila Zacharo,15.26,2014-01-14,Hennie Osvaldo,21.0,Security,Perimeter Control
+475,2014-01-14 21:14:00,Roberts and Sons,223.81,2014-01-14,Hennie Osvaldo,21.0,Security,Perimeter Control
+476,2014-01-15 07:45:00,Brew've Been Served,11.47,2014-01-15,Hennie Osvaldo,21.0,Security,Perimeter Control
+477,2014-01-15 13:39:00,Hippokampos,8.75,2014-01-15,Hennie Osvaldo,21.0,Security,Perimeter Control
+478,2014-01-16 08:03:00,Hallowed Grounds,72.61,2014-01-16,Hennie Osvaldo,21.0,Security,Perimeter Control
+479,2014-01-16 13:37:00,Gelatogalore,22.19,2014-01-16,Hennie Osvaldo,21.0,Security,Perimeter Control
+480,2014-01-16 20:28:00,Katerina’s Café,30.84,2014-01-16,Hennie Osvaldo,21.0,Security,Perimeter Control
+481,2014-01-17 08:04:00,Brew've Been Served,16.62,2014-01-17,Hennie Osvaldo,21.0,Security,Perimeter Control
+482,2014-01-17 13:39:00,Kalami Kafenion,27.7,2014-01-17,Hennie Osvaldo,21.0,Security,Perimeter Control
+483,2014-01-17 21:06:00,Katerina’s Café,27.49,2014-01-17,Hennie Osvaldo,21.0,Security,Perimeter Control
+484,2014-01-18 20:01:00,Katerina’s Café,17.37,2014-01-18,Hennie Osvaldo,21.0,Security,Perimeter Control
+485,2014-01-19 19:45:00,Frydos Autosupply n' More,98.04,2014-01-19,Hennie Osvaldo,21.0,Security,Perimeter Control
+486,,Brew've Been Served,12.83,2014-01-06,Hennie Osvaldo,21.0,Security,Perimeter Control
+487,,Brew've Been Served,13.68,2014-01-08,Hennie Osvaldo,21.0,Security,Perimeter Control
+488,,Hallowed Grounds,10.25,2014-01-09,Hennie Osvaldo,21.0,Security,Perimeter Control
+489,,Roberts and Sons,203.81,2014-01-14,Hennie Osvaldo,21.0,Security,Perimeter Control
+490,,Hallowed Grounds,12.61,2014-01-16,Hennie Osvaldo,21.0,Security,Perimeter Control
+491,,Katerina’s Café,10.84,2014-01-16,Hennie Osvaldo,21.0,Security,Perimeter Control
+492,2014-01-06 07:54:00,Hallowed Grounds,16.88,2014-01-06,Nils Calixto,8.0,Information Technology,IT Technician
+493,2014-01-06 13:41:00,Gelatogalore,22.64,2014-01-06,Nils Calixto,8.0,Information Technology,IT Technician
+494,2014-01-07 07:35:00,Hallowed Grounds,14.05,2014-01-07,Nils Calixto,8.0,Information Technology,IT Technician
+495,2014-01-07 13:33:00,Katerina’s Café,22.27,2014-01-07,Nils Calixto,8.0,Information Technology,IT Technician
+496,2014-01-07 20:13:00,Katerina’s Café,94.75,2014-01-07,Nils Calixto,8.0,Information Technology,IT Technician
+497,2014-01-08 07:55:00,Hallowed Grounds,79.92,2014-01-08,Nils Calixto,8.0,Information Technology,IT Technician
+498,2014-01-08 13:42:00,Gelatogalore,35.29,2014-01-08,Nils Calixto,8.0,Information Technology,IT Technician
+499,2014-01-08 20:31:00,Katerina’s Café,36.6,2014-01-08,Nils Calixto,8.0,Information Technology,IT Technician
+500,2014-01-09 07:51:00,Hallowed Grounds,19.22,2014-01-09,Nils Calixto,8.0,Information Technology,IT Technician
+501,2014-01-09 13:28:00,Guy's Gyros,13.59,2014-01-09,Nils Calixto,8.0,Information Technology,IT Technician
+502,2014-01-09 20:23:00,Guy's Gyros,8.23,2014-01-09,Nils Calixto,8.0,Information Technology,IT Technician
+503,2014-01-10 07:49:00,Hallowed Grounds,10.34,2014-01-10,Nils Calixto,8.0,Information Technology,IT Technician
+504,2014-01-10 18:57:00,Frydos Autosupply n' More,98.39,2014-01-10,Nils Calixto,8.0,Information Technology,IT Technician
+505,2014-01-11 19:50:00,Katerina’s Café,12.55,2014-01-11,Nils Calixto,8.0,Information Technology,IT Technician
+506,2014-01-12 13:54:00,Hippokampos,8.54,2014-01-12,Nils Calixto,8.0,Information Technology,IT Technician
+507,2014-01-12 19:18:00,Katerina’s Café,12.64,2014-01-12,Nils Calixto,8.0,Information Technology,IT Technician
+508,2014-01-13 07:32:00,Hallowed Grounds,9.16,2014-01-13,Nils Calixto,8.0,Information Technology,IT Technician
+509,2014-01-13 20:51:00,Katerina’s Café,55.82,2014-01-13,Nils Calixto,8.0,Information Technology,IT Technician
+510,2014-01-14 07:35:00,Hallowed Grounds,10.75,2014-01-14,Nils Calixto,8.0,Information Technology,IT Technician
+511,2014-01-14 13:42:00,Hippokampos,98.81,2014-01-14,Nils Calixto,8.0,Information Technology,IT Technician
+512,2014-01-14 20:09:00,Katerina’s Café,91.8,2014-01-14,Nils Calixto,8.0,Information Technology,IT Technician
+513,2014-01-15 07:33:00,Hallowed Grounds,11.98,2014-01-15,Nils Calixto,8.0,Information Technology,IT Technician
+514,2014-01-15 13:22:00,Abila Zacharo,31.0,2014-01-15,Nils Calixto,8.0,Information Technology,IT Technician
+515,2014-01-16 07:44:00,Hallowed Grounds,13.84,2014-01-16,Nils Calixto,8.0,Information Technology,IT Technician
+516,2014-01-16 13:23:00,Guy's Gyros,31.48,2014-01-16,Nils Calixto,8.0,Information Technology,IT Technician
+517,2014-01-16 19:39:00,Katerina’s Café,10.93,2014-01-16,Nils Calixto,8.0,Information Technology,IT Technician
+518,2014-01-17 07:33:00,Hallowed Grounds,14.58,2014-01-17,Nils Calixto,8.0,Information Technology,IT Technician
+519,2014-01-17 20:24:00,Katerina’s Café,72.13,2014-01-17,Nils Calixto,8.0,Information Technology,IT Technician
+520,2014-01-18 19:30:00,Katerina’s Café,8.14,2014-01-18,Nils Calixto,8.0,Information Technology,IT Technician
+521,2014-01-19 19:53:00,Katerina’s Café,34.03,2014-01-19,Nils Calixto,8.0,Information Technology,IT Technician
+522,,Katerina’s Café,14.75,2014-01-07,Nils Calixto,8.0,Information Technology,IT Technician
+523,,Hallowed Grounds,19.92,2014-01-08,Nils Calixto,8.0,Information Technology,IT Technician
+524,,Ouzeri Elian,25.98,2014-01-10,Nils Calixto,8.0,Information Technology,IT Technician
+525,,Katerina’s Café,37.88,2014-01-13,Nils Calixto,8.0,Information Technology,IT Technician
+526,,Katerina’s Café,15.82,2014-01-13,Nils Calixto,8.0,Information Technology,IT Technician
+527,,Hippokampos,18.81,2014-01-14,Nils Calixto,8.0,Information Technology,IT Technician
+528,,Katerina’s Café,31.8,2014-01-14,Nils Calixto,8.0,Information Technology,IT Technician
+529,,Katerina’s Café,32.13,2014-01-17,Nils Calixto,8.0,Information Technology,IT Technician
+530,2014-01-06 07:54:00,Coffee Cameleon,11.86,2014-01-06,Adra Nubarron,25.0,Engineering,Geologist
+531,2014-01-06 13:53:00,Katerina’s Café,36.95,2014-01-06,Adra Nubarron,25.0,Engineering,Geologist
+532,2014-01-06 21:23:00,Frydos Autosupply n' More,197.32,2014-01-06,Adra Nubarron,25.0,Engineering,Geologist
+533,2014-01-07 08:00:00,Coffee Cameleon,11.55,2014-01-07,Adra Nubarron,25.0,Engineering,Geologist
+534,2014-01-07 13:29:00,Ouzeri Elian,29.1,2014-01-07,Adra Nubarron,25.0,Engineering,Geologist
+535,2014-01-07 20:11:00,Katerina’s Café,10.07,2014-01-07,Adra Nubarron,25.0,Engineering,Geologist
+536,2014-01-08 07:59:00,Coffee Cameleon,15.71,2014-01-08,Adra Nubarron,25.0,Engineering,Geologist
+537,2014-01-08 13:41:00,Katerina’s Café,26.45,2014-01-08,Adra Nubarron,25.0,Engineering,Geologist
+538,2014-01-08 20:27:00,Katerina’s Café,33.31,2014-01-08,Adra Nubarron,25.0,Engineering,Geologist
+539,2014-01-09 08:03:00,Coffee Cameleon,16.13,2014-01-09,Adra Nubarron,25.0,Engineering,Geologist
+540,2014-01-09 13:53:00,Hippokampos,16.65,2014-01-09,Adra Nubarron,25.0,Engineering,Geologist
+541,2014-01-10 08:11:00,Coffee Cameleon,13.25,2014-01-10,Adra Nubarron,25.0,Engineering,Geologist
+542,2014-01-10 13:47:00,Katerina’s Café,24.33,2014-01-10,Adra Nubarron,25.0,Engineering,Geologist
+543,2014-01-11 14:17:00,Katerina’s Café,26.02,2014-01-11,Adra Nubarron,25.0,Engineering,Geologist
+544,2014-01-11 19:31:00,Katerina’s Café,33.18,2014-01-11,Adra Nubarron,25.0,Engineering,Geologist
+545,2014-01-12 13:25:00,Hippokampos,12.55,2014-01-12,Adra Nubarron,25.0,Engineering,Geologist
+546,2014-01-12 15:49:00,Albert's Fine Clothing,195.81,2014-01-12,Adra Nubarron,25.0,Engineering,Geologist
+547,2014-01-12 20:13:00,Katerina’s Café,39.55,2014-01-12,Adra Nubarron,25.0,Engineering,Geologist
+548,2014-01-13 08:12:00,Coffee Cameleon,17.76,2014-01-13,Adra Nubarron,25.0,Engineering,Geologist
+549,2014-01-13 13:39:00,Guy's Gyros,37.37,2014-01-13,Adra Nubarron,25.0,Engineering,Geologist
+550,2014-01-13 20:24:00,Katerina’s Café,35.7,2014-01-13,Adra Nubarron,25.0,Engineering,Geologist
+551,2014-01-14 07:56:00,Coffee Cameleon,7.84,2014-01-14,Adra Nubarron,25.0,Engineering,Geologist
+552,2014-01-14 13:32:00,Gelatogalore,32.82,2014-01-14,Adra Nubarron,25.0,Engineering,Geologist
+553,2014-01-15 07:45:00,Coffee Cameleon,19.93,2014-01-15,Adra Nubarron,25.0,Engineering,Geologist
+554,2014-01-15 13:44:00,Guy's Gyros,15.89,2014-01-15,Adra Nubarron,25.0,Engineering,Geologist
+555,2014-01-15 20:00:00,Katerina’s Café,29.84,2014-01-15,Adra Nubarron,25.0,Engineering,Geologist
+556,2014-01-16 13:45:00,Ouzeri Elian,18.27,2014-01-16,Adra Nubarron,25.0,Engineering,Geologist
+557,2014-01-16 20:36:00,Katerina’s Café,19.44,2014-01-16,Adra Nubarron,25.0,Engineering,Geologist
+558,2014-01-17 13:41:00,Abila Zacharo,14.51,2014-01-17,Adra Nubarron,25.0,Engineering,Geologist
+559,2014-01-17 20:58:00,Katerina’s Café,38.21,2014-01-17,Adra Nubarron,25.0,Engineering,Geologist
+560,2014-01-19 13:33:00,Hippokampos,64.37,2014-01-19,Adra Nubarron,25.0,Engineering,Geologist
+561,2014-01-19 15:39:00,Albert's Fine Clothing,274.66,2014-01-19,Adra Nubarron,25.0,Engineering,Geologist
+562,2014-01-19 19:56:00,Shoppers' Delight,30.39,2014-01-19,Adra Nubarron,25.0,Engineering,Geologist
+563,,Coffee Cameleon,14.57,2014-01-17,Adra Nubarron,25.0,Engineering,Geologist
+564,2014-01-06 07:54:00,Hallowed Grounds,32.93,2014-01-06,Rachel Pantanal,,,
+565,2014-01-06 13:35:00,Hippokampos,36.54,2014-01-06,Rachel Pantanal,,,
+566,2014-01-07 08:01:00,Hallowed Grounds,68.42,2014-01-07,Rachel Pantanal,,,
+567,2014-01-07 13:49:00,Gelatogalore,36.5,2014-01-07,Rachel Pantanal,,,
+568,2014-01-07 20:49:00,Ouzeri Elian,20.53,2014-01-07,Rachel Pantanal,,,
+569,2014-01-08 07:50:00,Hallowed Grounds,3.9,2014-01-08,Rachel Pantanal,,,
+570,2014-01-08 13:46:00,Abila Zacharo,28.25,2014-01-08,Rachel Pantanal,,,
+571,2014-01-09 08:15:00,Hallowed Grounds,15.33,2014-01-09,Rachel Pantanal,,,
+572,2014-01-09 13:45:00,Gelatogalore,24.68,2014-01-09,Rachel Pantanal,,,
+573,2014-01-09 21:13:00,Shoppers' Delight,258.43,2014-01-09,Rachel Pantanal,,,
+574,2014-01-10 07:46:00,Hallowed Grounds,17.63,2014-01-10,Rachel Pantanal,,,
+575,2014-01-10 13:46:00,Abila Zacharo,31.34,2014-01-10,Rachel Pantanal,,,
+576,2014-01-11 20:04:00,Ouzeri Elian,16.69,2014-01-11,Rachel Pantanal,,,
+577,2014-01-13 08:06:00,Hallowed Grounds,55.96,2014-01-13,Rachel Pantanal,,,
+578,2014-01-13 14:01:00,Gelatogalore,117.17,2014-01-13,Rachel Pantanal,,,
+579,2014-01-13 20:43:00,Ouzeri Elian,21.83,2014-01-13,Rachel Pantanal,,,
+580,2014-01-14 08:12:00,Hallowed Grounds,10.65,2014-01-14,Rachel Pantanal,,,
+581,2014-01-14 13:53:00,Ouzeri Elian,33.67,2014-01-14,Rachel Pantanal,,,
+582,2014-01-14 20:46:00,Ouzeri Elian,80.95,2014-01-14,Rachel Pantanal,,,
+583,2014-01-15 08:13:00,Hallowed Grounds,14.39,2014-01-15,Rachel Pantanal,,,
+584,2014-01-15 13:59:00,Gelatogalore,42.36,2014-01-15,Rachel Pantanal,,,
+585,2014-01-15 21:05:00,Ouzeri Elian,8.57,2014-01-15,Rachel Pantanal,,,
+586,2014-01-16 08:09:00,Hallowed Grounds,4.6,2014-01-16,Rachel Pantanal,,,
+587,2014-01-16 20:25:00,Ouzeri Elian,22.65,2014-01-16,Rachel Pantanal,,,
+588,2014-01-17 08:12:00,Hallowed Grounds,6.39,2014-01-17,Rachel Pantanal,,,
+589,2014-01-17 13:47:00,Gelatogalore,18.1,2014-01-17,Rachel Pantanal,,,
+590,2014-01-17 20:35:00,Ouzeri Elian,26.4,2014-01-17,Rachel Pantanal,,,
+591,2014-01-18 13:58:00,Gelatogalore,84.38,2014-01-18,Rachel Pantanal,,,
+592,2014-01-18 19:46:00,Ouzeri Elian,14.9,2014-01-18,Rachel Pantanal,,,
+593,,Hallowed Grounds,12.93,2014-01-06,Rachel Pantanal,,,
+594,,Hallowed Grounds,8.42,2014-01-07,Rachel Pantanal,,,
+595,,Hallowed Grounds,15.96,2014-01-13,Rachel Pantanal,,,
+596,,Gelatogalore,37.17,2014-01-13,Rachel Pantanal,,,
+597,,Ouzeri Elian,20.95,2014-01-14,Rachel Pantanal,,,
+598,,Gelatogalore,22.36,2014-01-15,Rachel Pantanal,,,
+599,,Ouzeri Elian,31.21,2014-01-16,Rachel Pantanal,,,
+600,,Gelatogalore,24.38,2014-01-18,Rachel Pantanal,,,
+601,2014-01-06 07:55:00,Hallowed Grounds,8.05,2014-01-06,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+602,2014-01-06 13:21:00,Hippokampos,28.23,2014-01-06,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+603,2014-01-06 20:26:00,Albert's Fine Clothing,276.9,2014-01-06,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+604,2014-01-07 07:46:00,Hallowed Grounds,84.44,2014-01-07,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+605,2014-01-07 13:37:00,Gelatogalore,21.52,2014-01-07,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+606,2014-01-08 07:56:00,Hallowed Grounds,12.86,2014-01-08,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+607,2014-01-08 13:43:00,Hippokampos,39.8,2014-01-08,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+608,2014-01-08 21:16:00,Ouzeri Elian,30.81,2014-01-08,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+609,2014-01-09 07:50:00,Hallowed Grounds,34.45,2014-01-09,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+610,2014-01-09 13:41:00,Abila Zacharo,89.41,2014-01-09,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+611,2014-01-10 13:16:00,Ouzeri Elian,30.71,2014-01-10,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+612,2014-01-11 13:37:00,Hippokampos,75.62,2014-01-11,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+613,2014-01-11 19:44:00,Shoppers' Delight,149.2,2014-01-11,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+614,2014-01-12 14:06:00,Hippokampos,71.99,2014-01-12,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+615,2014-01-13 06:04:00,Daily Dealz,2.01,2014-01-13,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+616,2014-01-13 13:18:00,U-Pump,55.25,2014-01-13,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+617,2014-01-13 13:28:00,Hippokampos,30.51,2014-01-13,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+618,2014-01-13 19:20:00,Frydos Autosupply n' More,10000.0,2014-01-13,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+619,2014-01-13 19:30:00,Ouzeri Elian,28.75,2014-01-13,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+620,2014-01-16 08:05:00,Hallowed Grounds,12.19,2014-01-16,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+621,2014-01-16 13:28:00,Guy's Gyros,10.27,2014-01-16,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+622,2014-01-16 20:28:00,Ouzeri Elian,9.91,2014-01-16,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+623,2014-01-17 08:04:00,Hallowed Grounds,9.4,2014-01-17,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+624,2014-01-17 20:28:00,Ouzeri Elian,35.81,2014-01-17,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+625,2014-01-18 13:32:00,Abila Zacharo,16.59,2014-01-18,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+626,2014-01-18 19:26:00,Ouzeri Elian,61.56,2014-01-18,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+627,2014-01-19 03:45:00,Kronos Mart,194.51,2014-01-19,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+628,2014-01-19 19:49:00,Ouzeri Elian,32.77,2014-01-19,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+629,,Hallowed Grounds,4.44,2014-01-07,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+630,,Ouzeri Elian,25.27,2014-01-07,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+631,,Ouzeri Elian,10.81,2014-01-08,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+632,,Abila Zacharo,29.41,2014-01-09,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+633,,Hallowed Grounds,14.45,2014-01-09,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+634,,Hallowed Grounds,6.87,2014-01-10,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+635,,Hippokampos,31.99,2014-01-12,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+636,,Hallowed Grounds,14.11,2014-01-13,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+637,,Kalami Kafenion,16.84,2014-01-14,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+638,,Ouzeri Elian,15.94,2014-01-14,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+639,,Hallowed Grounds,15.86,2014-01-15,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+640,,Ouzeri Elian,24.81,2014-01-15,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+641,,Ouzeri Elian,32.95,2014-01-15,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+642,,Kronos Mart,194.51,2014-01-18,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+643,,Ouzeri Elian,21.56,2014-01-18,Lucas Alcazar,1.0,Information Technology,IT Helpdesk
+644,2014-01-06 07:55:00,Brew've Been Served,3.67,2014-01-06,Varja Lagos,23.0,Security,Badging Office
+645,2014-01-06 13:19:00,Kalami Kafenion,70.1,2014-01-06,Varja Lagos,23.0,Security,Badging Office
+646,2014-01-06 17:28:00,U-Pump,59.51,2014-01-06,Varja Lagos,23.0,Security,Badging Office
+647,2014-01-06 20:13:00,Guy's Gyros,22.57,2014-01-06,Varja Lagos,23.0,Security,Badging Office
+648,2014-01-07 07:55:00,Brew've Been Served,69.06,2014-01-07,Varja Lagos,23.0,Security,Badging Office
+649,2014-01-07 13:41:00,Katerina’s Café,51.41,2014-01-07,Varja Lagos,23.0,Security,Badging Office
+650,2014-01-07 19:48:00,Guy's Gyros,31.23,2014-01-07,Varja Lagos,23.0,Security,Badging Office
+651,2014-01-08 07:55:00,Brew've Been Served,91.87,2014-01-08,Varja Lagos,23.0,Security,Badging Office
+652,2014-01-08 13:39:00,Gelatogalore,119.75,2014-01-08,Varja Lagos,23.0,Security,Badging Office
+653,2014-01-08 20:15:00,Guy's Gyros,99.08,2014-01-08,Varja Lagos,23.0,Security,Badging Office
+654,2014-01-09 08:01:00,Brew've Been Served,92.12,2014-01-09,Varja Lagos,23.0,Security,Badging Office
+655,2014-01-09 13:24:00,Abila Zacharo,8.16,2014-01-09,Varja Lagos,23.0,Security,Badging Office
+656,2014-01-09 19:32:00,Frydos Autosupply n' More,138.02,2014-01-09,Varja Lagos,23.0,Security,Badging Office
+657,2014-01-10 07:45:00,Brew've Been Served,5.01,2014-01-10,Varja Lagos,23.0,Security,Badging Office
+658,2014-01-10 13:30:00,Kalami Kafenion,35.69,2014-01-10,Varja Lagos,23.0,Security,Badging Office
+659,2014-01-11 13:43:00,Katerina’s Café,71.65,2014-01-11,Varja Lagos,23.0,Security,Badging Office
+660,2014-01-13 07:57:00,Brew've Been Served,78.23,2014-01-13,Varja Lagos,23.0,Security,Badging Office
+661,2014-01-14 07:45:00,Brew've Been Served,10.96,2014-01-14,Varja Lagos,23.0,Security,Badging Office
+662,2014-01-14 13:40:00,Ouzeri Elian,107.32,2014-01-14,Varja Lagos,23.0,Security,Badging Office
+663,2014-01-14 20:05:00,Albert's Fine Clothing,50.77,2014-01-14,Varja Lagos,23.0,Security,Badging Office
+664,2014-01-15 07:58:00,Brew've Been Served,14.06,2014-01-15,Varja Lagos,23.0,Security,Badging Office
+665,2014-01-15 13:22:00,Ouzeri Elian,12.9,2014-01-15,Varja Lagos,23.0,Security,Badging Office
+666,2014-01-15 19:53:00,Guy's Gyros,98.04,2014-01-15,Varja Lagos,23.0,Security,Badging Office
+667,2014-01-16 07:36:00,Brew've Been Served,19.9,2014-01-16,Varja Lagos,23.0,Security,Badging Office
+668,2014-01-16 13:27:00,Katerina’s Café,34.02,2014-01-16,Varja Lagos,23.0,Security,Badging Office
+669,2014-01-16 19:09:00,Guy's Gyros,8.31,2014-01-16,Varja Lagos,23.0,Security,Badging Office
+670,2014-01-17 08:03:00,Brew've Been Served,13.66,2014-01-17,Varja Lagos,23.0,Security,Badging Office
+671,2014-01-17 13:21:00,Guy's Gyros,22.18,2014-01-17,Varja Lagos,23.0,Security,Badging Office
+672,2014-01-17 20:16:00,Guy's Gyros,37.55,2014-01-17,Varja Lagos,23.0,Security,Badging Office
+673,2014-01-18 13:34:00,Katerina’s Café,19.3,2014-01-18,Varja Lagos,23.0,Security,Badging Office
+674,2014-01-18 19:08:00,Guy's Gyros,39.68,2014-01-18,Varja Lagos,23.0,Security,Badging Office
+675,2014-01-19 03:13:00,Kronos Mart,87.66,2014-01-19,Varja Lagos,23.0,Security,Badging Office
+676,2014-01-19 13:27:00,Ouzeri Elian,23.65,2014-01-19,Varja Lagos,23.0,Security,Badging Office
+677,2014-01-19 15:26:00,Frydos Autosupply n' More,56.09,2014-01-19,Varja Lagos,23.0,Security,Badging Office
+678,2014-01-19 19:45:00,Guy's Gyros,58.35,2014-01-19,Varja Lagos,23.0,Security,Badging Office
+679,,Kalami Kafenion,30.1,2014-01-06,Varja Lagos,23.0,Security,Badging Office
+680,,Brew've Been Served,9.06,2014-01-07,Varja Lagos,23.0,Security,Badging Office
+681,,Katerina’s Café,31.41,2014-01-07,Varja Lagos,23.0,Security,Badging Office
+682,,Brew've Been Served,11.87,2014-01-08,Varja Lagos,23.0,Security,Badging Office
+683,,Gelatogalore,39.75,2014-01-08,Varja Lagos,23.0,Security,Badging Office
+684,,Guy's Gyros,19.08,2014-01-08,Varja Lagos,23.0,Security,Badging Office
+685,,Brew've Been Served,12.12,2014-01-09,Varja Lagos,23.0,Security,Badging Office
+686,,Guy's Gyros,42.78,2014-01-12,Varja Lagos,23.0,Security,Badging Office
+687,,Brew've Been Served,18.23,2014-01-13,Varja Lagos,23.0,Security,Badging Office
+688,,Ouzeri Elian,27.32,2014-01-14,Varja Lagos,23.0,Security,Badging Office
+689,,Guy's Gyros,18.04,2014-01-15,Varja Lagos,23.0,Security,Badging Office
+690,,Kronos Mart,87.66,2014-01-18,Varja Lagos,23.0,Security,Badging Office
+691,2014-01-06 07:59:00,Brew've Been Served,8.88,2014-01-06,Inga Ferro,13.0,Security,Site Control
+692,2014-01-06 14:00:00,Gelatogalore,23.41,2014-01-06,Inga Ferro,13.0,Security,Site Control
+693,2014-01-06 20:24:00,Guy's Gyros,28.94,2014-01-06,Inga Ferro,13.0,Security,Site Control
+694,2014-01-07 08:06:00,Brew've Been Served,3.03,2014-01-07,Inga Ferro,13.0,Security,Site Control
+695,2014-01-07 13:55:00,Abila Zacharo,65.9,2014-01-07,Inga Ferro,13.0,Security,Site Control
+696,2014-01-07 19:45:00,Guy's Gyros,14.87,2014-01-07,Inga Ferro,13.0,Security,Site Control
+697,2014-01-08 08:01:00,Brew've Been Served,17.13,2014-01-08,Inga Ferro,13.0,Security,Site Control
+698,2014-01-08 13:48:00,Gelatogalore,116.72,2014-01-08,Inga Ferro,13.0,Security,Site Control
+699,2014-01-08 20:58:00,Guy's Gyros,22.91,2014-01-08,Inga Ferro,13.0,Security,Site Control
+700,2014-01-09 08:00:00,Brew've Been Served,6.61,2014-01-09,Inga Ferro,13.0,Security,Site Control
+701,2014-01-09 14:15:00,Abila Zacharo,14.37,2014-01-09,Inga Ferro,13.0,Security,Site Control
+702,2014-01-10 08:09:00,Brew've Been Served,3.03,2014-01-10,Inga Ferro,13.0,Security,Site Control
+703,2014-01-10 14:03:00,Abila Zacharo,36.38,2014-01-10,Inga Ferro,13.0,Security,Site Control
+704,2014-01-10 20:17:00,Shoppers' Delight,279.53,2014-01-10,Inga Ferro,13.0,Security,Site Control
+705,2014-01-11 19:17:00,Kalami Kafenion,23.86,2014-01-11,Inga Ferro,13.0,Security,Site Control
+706,2014-01-12 13:28:00,Ouzeri Elian,24.72,2014-01-12,Inga Ferro,13.0,Security,Site Control
+707,2014-01-12 15:32:00,Shoppers' Delight,204.37,2014-01-12,Inga Ferro,13.0,Security,Site Control
+708,2014-01-13 08:22:00,Brew've Been Served,6.69,2014-01-13,Inga Ferro,13.0,Security,Site Control
+709,2014-01-13 13:51:00,Abila Zacharo,17.41,2014-01-13,Inga Ferro,13.0,Security,Site Control
+710,2014-01-13 20:18:00,Guy's Gyros,15.84,2014-01-13,Inga Ferro,13.0,Security,Site Control
+711,2014-01-14 07:58:00,Brew've Been Served,11.94,2014-01-14,Inga Ferro,13.0,Security,Site Control
+712,2014-01-14 13:58:00,Katerina’s Café,33.54,2014-01-14,Inga Ferro,13.0,Security,Site Control
+713,2014-01-14 20:29:00,Guy's Gyros,25.28,2014-01-14,Inga Ferro,13.0,Security,Site Control
+714,2014-01-15 07:48:00,Brew've Been Served,6.58,2014-01-15,Inga Ferro,13.0,Security,Site Control
+715,2014-01-15 13:58:00,Gelatogalore,39.4,2014-01-15,Inga Ferro,13.0,Security,Site Control
+716,2014-01-15 19:56:00,General Grocer,126.2,2014-01-15,Inga Ferro,13.0,Security,Site Control
+717,2014-01-16 08:19:00,Brew've Been Served,16.9,2014-01-16,Inga Ferro,13.0,Security,Site Control
+718,2014-01-16 13:42:00,Guy's Gyros,29.7,2014-01-16,Inga Ferro,13.0,Security,Site Control
+719,2014-01-16 20:25:00,Albert's Fine Clothing,91.71,2014-01-16,Inga Ferro,13.0,Security,Site Control
+720,2014-01-17 08:22:00,Brew've Been Served,15.46,2014-01-17,Inga Ferro,13.0,Security,Site Control
+721,2014-01-17 13:51:00,Gelatogalore,34.59,2014-01-17,Inga Ferro,13.0,Security,Site Control
+722,2014-01-17 20:21:00,Guy's Gyros,8.31,2014-01-17,Inga Ferro,13.0,Security,Site Control
+723,2014-01-18 14:06:00,Katerina’s Café,24.14,2014-01-18,Inga Ferro,13.0,Security,Site Control
+724,2014-01-18 20:15:00,Katerina’s Café,37.21,2014-01-18,Inga Ferro,13.0,Security,Site Control
+725,,Abila Zacharo,25.9,2014-01-07,Inga Ferro,13.0,Security,Site Control
+726,,Gelatogalore,36.72,2014-01-08,Inga Ferro,13.0,Security,Site Control
+727,,General Grocer,106.2,2014-01-15,Inga Ferro,13.0,Security,Site Control
+728,2014-01-06 08:00:00,Brew've Been Served,4.27,2014-01-06,Ruscella Mies Haber,,,
+729,2014-01-06 13:28:00,Kalami Kafenion,8.64,2014-01-06,Ruscella Mies Haber,,,
+730,2014-01-06 20:47:00,Frydos Autosupply n' More,149.3,2014-01-06,Ruscella Mies Haber,,,
+731,2014-01-07 07:50:00,Brew've Been Served,4.39,2014-01-07,Ruscella Mies Haber,,,
+732,2014-01-07 13:24:00,Kalami Kafenion,11.64,2014-01-07,Ruscella Mies Haber,,,
+733,2014-01-08 07:58:00,Brew've Been Served,8.4,2014-01-08,Ruscella Mies Haber,,,
+734,2014-01-08 13:10:00,Abila Zacharo,22.13,2014-01-08,Ruscella Mies Haber,,,
+735,2014-01-08 19:32:00,Katerina’s Café,34.25,2014-01-08,Ruscella Mies Haber,,,
+736,2014-01-09 08:15:00,Brew've Been Served,5.57,2014-01-09,Ruscella Mies Haber,,,
+737,2014-01-09 13:12:00,Gelatogalore,19.2,2014-01-09,Ruscella Mies Haber,,,
+738,2014-01-09 20:27:00,Katerina’s Café,53.78,2014-01-09,Ruscella Mies Haber,,,
+739,2014-01-10 07:51:00,Brew've Been Served,12.77,2014-01-10,Ruscella Mies Haber,,,
+740,2014-01-10 13:45:00,Kalami Kafenion,27.48,2014-01-10,Ruscella Mies Haber,,,
+741,2014-01-10 20:42:00,Katerina’s Café,21.28,2014-01-10,Ruscella Mies Haber,,,
+742,2014-01-11 20:13:00,Frydos Autosupply n' More,211.15,2014-01-11,Ruscella Mies Haber,,,
+743,2014-01-12 13:17:00,Ouzeri Elian,98.45,2014-01-12,Ruscella Mies Haber,,,
+744,2014-01-12 19:43:00,Katerina’s Café,40.94,2014-01-12,Ruscella Mies Haber,,,
+745,2014-01-13 03:00:00,Kronos Mart,147.3,2014-01-13,Ruscella Mies Haber,,,
+746,2014-01-13 07:55:00,Brew've Been Served,6.08,2014-01-13,Ruscella Mies Haber,,,
+747,2014-01-13 20:44:00,Katerina’s Café,93.57,2014-01-13,Ruscella Mies Haber,,,
+748,2014-01-14 08:07:00,Brew've Been Served,16.39,2014-01-14,Ruscella Mies Haber,,,
+749,2014-01-14 13:40:00,Kalami Kafenion,33.13,2014-01-14,Ruscella Mies Haber,,,
+750,2014-01-14 20:19:00,Katerina’s Café,31.94,2014-01-14,Ruscella Mies Haber,,,
+751,2014-01-15 08:05:00,Brew've Been Served,12.39,2014-01-15,Ruscella Mies Haber,,,
+752,2014-01-15 13:37:00,Kalami Kafenion,38.5,2014-01-15,Ruscella Mies Haber,,,
+753,2014-01-16 13:27:00,Katerina’s Café,39.74,2014-01-16,Ruscella Mies Haber,,,
+754,2014-01-16 20:05:00,Katerina’s Café,69.3,2014-01-16,Ruscella Mies Haber,,,
+755,2014-01-17 08:12:00,Brew've Been Served,18.15,2014-01-17,Ruscella Mies Haber,,,
+756,2014-01-17 13:38:00,Kalami Kafenion,39.43,2014-01-17,Ruscella Mies Haber,,,
+757,2014-01-17 21:05:00,Katerina’s Café,33.73,2014-01-17,Ruscella Mies Haber,,,
+758,2014-01-18 18:51:00,Frydos Autosupply n' More,234.53,2014-01-18,Ruscella Mies Haber,,,
+759,,Frydos Autosupply n' More,89.3,2014-01-06,Ruscella Mies Haber,,,
+760,,Katerina’s Café,13.78,2014-01-09,Ruscella Mies Haber,,,
+761,,Kronos Mart,147.3,2014-01-12,Ruscella Mies Haber,,,
+762,,Hippokampos,14.04,2014-01-13,Ruscella Mies Haber,,,
+763,,Katerina’s Café,33.57,2014-01-13,Ruscella Mies Haber,,,
+764,,Katerina’s Café,38.81,2014-01-15,Ruscella Mies Haber,,,
+765,,Katerina’s Café,29.3,2014-01-16,Ruscella Mies Haber,,,
+766,2014-01-06 08:00:00,Hallowed Grounds,9.69,2014-01-06,Anda Ribera,,,
+767,2014-01-06 13:20:00,Hippokampos,34.03,2014-01-06,Anda Ribera,,,
+768,2014-01-06 20:30:00,Katerina’s Café,28.0,2014-01-06,Anda Ribera,,,
+769,2014-01-07 07:57:00,Hallowed Grounds,10.33,2014-01-07,Anda Ribera,,,
+770,2014-01-07 13:57:00,Gelatogalore,15.4,2014-01-07,Anda Ribera,,,
+771,2014-01-07 20:33:00,Katerina’s Café,25.54,2014-01-07,Anda Ribera,,,
+772,2014-01-08 07:57:00,Hallowed Grounds,11.63,2014-01-08,Anda Ribera,,,
+773,2014-01-08 20:28:00,Frydos Autosupply n' More,268.89,2014-01-08,Anda Ribera,,,
+774,2014-01-09 14:03:00,Kalami Kafenion,35.99,2014-01-09,Anda Ribera,,,
+775,2014-01-09 20:09:00,Katerina’s Café,90.97,2014-01-09,Anda Ribera,,,
+776,2014-01-10 08:06:00,Hallowed Grounds,9.34,2014-01-10,Anda Ribera,,,
+777,2014-01-10 14:09:00,Abila Zacharo,9.32,2014-01-10,Anda Ribera,,,
+778,2014-01-11 13:37:00,Hippokampos,82.23,2014-01-11,Anda Ribera,,,
+779,2014-01-11 19:32:00,Katerina’s Café,20.71,2014-01-11,Anda Ribera,,,
+780,2014-01-13 07:57:00,Hallowed Grounds,6.32,2014-01-13,Anda Ribera,,,
+781,2014-01-13 19:59:00,Katerina’s Café,30.84,2014-01-13,Anda Ribera,,,
+782,2014-01-14 08:16:00,Hallowed Grounds,6.16,2014-01-14,Anda Ribera,,,
+783,2014-01-14 13:43:00,Katerina’s Café,31.69,2014-01-14,Anda Ribera,,,
+784,2014-01-15 07:51:00,Hallowed Grounds,78.69,2014-01-15,Anda Ribera,,,
+785,2014-01-15 13:45:00,Guy's Gyros,12.19,2014-01-15,Anda Ribera,,,
+786,2014-01-16 08:07:00,Hallowed Grounds,18.23,2014-01-16,Anda Ribera,,,
+787,2014-01-16 13:35:00,Hippokampos,13.05,2014-01-16,Anda Ribera,,,
+788,2014-01-17 07:59:00,Hallowed Grounds,5.52,2014-01-17,Anda Ribera,,,
+789,2014-01-18 13:15:00,Katerina’s Café,34.54,2014-01-18,Anda Ribera,,,
+790,2014-01-18 15:57:00,Albert's Fine Clothing,189.52,2014-01-18,Anda Ribera,,,
+791,2014-01-18 19:36:00,Katerina’s Café,35.79,2014-01-18,Anda Ribera,,,
+792,,Kalami Kafenion,18.18,2014-01-08,Anda Ribera,,,
+793,,Hallowed Grounds,16.72,2014-01-09,Anda Ribera,,,
+794,,Katerina’s Café,30.97,2014-01-09,Anda Ribera,,,
+795,,Hippokampos,22.23,2014-01-11,Anda Ribera,,,
+796,,Katerina’s Café,28.05,2014-01-14,Anda Ribera,,,
+797,,Hallowed Grounds,18.69,2014-01-15,Anda Ribera,,,
+798,,Katerina’s Café,36.8,2014-01-15,Anda Ribera,,,
+799,,Hippokampos,23.54,2014-01-17,Anda Ribera,,,
+800,2014-01-06 08:01:00,Hallowed Grounds,10.07,2014-01-06,Lidelse Dedos,14.0,Engineering,Engineering Group Manager
+801,2014-01-06 13:50:00,Katerina’s Café,13.59,2014-01-06,Lidelse Dedos,14.0,Engineering,Engineering Group Manager
+802,2014-01-06 20:08:00,Katerina’s Café,12.32,2014-01-06,Lidelse Dedos,14.0,Engineering,Engineering Group Manager
+803,2014-01-07 07:41:00,Hallowed Grounds,19.59,2014-01-07,Lidelse Dedos,14.0,Engineering,Engineering Group Manager
+804,2014-01-07 13:52:00,Gelatogalore,71.77,2014-01-07,Lidelse Dedos,14.0,Engineering,Engineering Group Manager
+805,2014-01-07 20:12:00,Katerina’s Café,55.63,2014-01-07,Lidelse Dedos,14.0,Engineering,Engineering Group Manager
+806,2014-01-08 07:39:00,Hallowed Grounds,8.15,2014-01-08,Lidelse Dedos,14.0,Engineering,Engineering Group Manager
+807,2014-01-08 13:51:00,Guy's Gyros,15.86,2014-01-08,Lidelse Dedos,14.0,Engineering,Engineering Group Manager
+808,2014-01-08 21:09:00,Katerina’s Café,27.87,2014-01-08,Lidelse Dedos,14.0,Engineering,Engineering Group Manager
+809,2014-01-09 13:40:00,Abila Zacharo,20.73,2014-01-09,Lidelse Dedos,14.0,Engineering,Engineering Group Manager
+810,2014-01-10 07:41:00,Hallowed Grounds,12.03,2014-01-10,Lidelse Dedos,14.0,Engineering,Engineering Group Manager
+811,2014-01-10 13:59:00,Abila Zacharo,8.22,2014-01-10,Lidelse Dedos,14.0,Engineering,Engineering Group Manager
+812,2014-01-11 20:46:00,Katerina’s Café,57.6,2014-01-11,Lidelse Dedos,14.0,Engineering,Engineering Group Manager
+813,2014-01-12 14:04:00,Hippokampos,12.57,2014-01-12,Lidelse Dedos,14.0,Engineering,Engineering Group Manager
+814,2014-01-12 20:48:00,Katerina’s Café,87.09,2014-01-12,Lidelse Dedos,14.0,Engineering,Engineering Group Manager
+815,2014-01-13 12:00:00,Bean There Done That,10.37,2014-01-13,Lidelse Dedos,14.0,Engineering,Engineering Group Manager
+816,2014-01-13 13:40:00,Katerina’s Café,8.29,2014-01-13,Lidelse Dedos,14.0,Engineering,Engineering Group Manager
+817,2014-01-13 21:00:00,Katerina’s Café,27.59,2014-01-13,Lidelse Dedos,14.0,Engineering,Engineering Group Manager
+818,2014-01-14 07:54:00,Hallowed Grounds,19.99,2014-01-14,Lidelse Dedos,14.0,Engineering,Engineering Group Manager
+819,2014-01-14 13:44:00,Guy's Gyros,16.35,2014-01-14,Lidelse Dedos,14.0,Engineering,Engineering Group Manager
+820,2014-01-14 20:26:00,Katerina’s Café,12.65,2014-01-14,Lidelse Dedos,14.0,Engineering,Engineering Group Manager
+821,2014-01-15 13:35:00,Kalami Kafenion,26.17,2014-01-15,Lidelse Dedos,14.0,Engineering,Engineering Group Manager
+822,2014-01-15 20:33:00,Frydos Autosupply n' More,18.66,2014-01-15,Lidelse Dedos,14.0,Engineering,Engineering Group Manager
+823,2014-01-16 07:54:00,Hallowed Grounds,7.22,2014-01-16,Lidelse Dedos,14.0,Engineering,Engineering Group Manager
+824,2014-01-16 13:48:00,Gelatogalore,32.4,2014-01-16,Lidelse Dedos,14.0,Engineering,Engineering Group Manager
+825,2014-01-16 19:45:00,Frydos Autosupply n' More,53.37,2014-01-16,Lidelse Dedos,14.0,Engineering,Engineering Group Manager
+826,2014-01-17 07:52:00,Hallowed Grounds,18.6,2014-01-17,Lidelse Dedos,14.0,Engineering,Engineering Group Manager
+827,2014-01-17 13:51:00,Kalami Kafenion,20.02,2014-01-17,Lidelse Dedos,14.0,Engineering,Engineering Group Manager
+828,2014-01-18 13:28:00,Guy's Gyros,27.4,2014-01-18,Lidelse Dedos,14.0,Engineering,Engineering Group Manager
+829,2014-01-18 15:32:00,Frydos Autosupply n' More,361.54,2014-01-18,Lidelse Dedos,14.0,Engineering,Engineering Group Manager
+830,2014-01-18 19:31:00,Katerina’s Café,22.74,2014-01-18,Lidelse Dedos,14.0,Engineering,Engineering Group Manager
+831,2014-01-19 20:05:00,Katerina’s Café,33.79,2014-01-19,Lidelse Dedos,14.0,Engineering,Engineering Group Manager
+832,,Gelatogalore,31.77,2014-01-07,Lidelse Dedos,14.0,Engineering,Engineering Group Manager
+833,,Hallowed Grounds,17.84,2014-01-09,Lidelse Dedos,14.0,Engineering,Engineering Group Manager
+834,,Katerina’s Café,17.6,2014-01-11,Lidelse Dedos,14.0,Engineering,Engineering Group Manager
+835,,Katerina’s Café,27.09,2014-01-12,Lidelse Dedos,14.0,Engineering,Engineering Group Manager
+836,,Frydos Autosupply n' More,281.54,2014-01-18,Lidelse Dedos,14.0,Engineering,Engineering Group Manager
+837,2014-01-06 08:06:00,Brew've Been Served,18.24,2014-01-06,Loreto Bodrogi,15.0,Security,Site Control
+838,2014-01-06 13:59:00,Katerina’s Café,39.41,2014-01-06,Loreto Bodrogi,15.0,Security,Site Control
+839,2014-01-07 12:00:00,Brewed Awakenings,64.84,2014-01-07,Loreto Bodrogi,15.0,Security,Site Control
+840,2014-01-07 13:53:00,Hippokampos,51.69,2014-01-07,Loreto Bodrogi,15.0,Security,Site Control
+841,2014-01-07 20:14:00,Guy's Gyros,62.33,2014-01-07,Loreto Bodrogi,15.0,Security,Site Control
+842,2014-01-08 07:48:00,Brew've Been Served,32.92,2014-01-08,Loreto Bodrogi,15.0,Security,Site Control
+843,2014-01-08 12:29:00,Frank's Fuel,65.34,2014-01-08,Loreto Bodrogi,15.0,Security,Site Control
+844,2014-01-08 13:40:00,Guy's Gyros,77.9,2014-01-08,Loreto Bodrogi,15.0,Security,Site Control
+845,2014-01-08 20:17:00,Frydos Autosupply n' More,182.56,2014-01-08,Loreto Bodrogi,15.0,Security,Site Control
+846,2014-01-09 12:00:00,Jack's Magical Beans,6.0,2014-01-09,Loreto Bodrogi,15.0,Security,Site Control
+847,2014-01-09 13:35:00,Katerina’s Café,10.42,2014-01-09,Loreto Bodrogi,15.0,Security,Site Control
+848,2014-01-09 20:45:00,Frydos Autosupply n' More,276.75,2014-01-09,Loreto Bodrogi,15.0,Security,Site Control
+849,2014-01-10 08:09:00,Brew've Been Served,14.45,2014-01-10,Loreto Bodrogi,15.0,Security,Site Control
+850,2014-01-10 13:35:00,Ouzeri Elian,35.24,2014-01-10,Loreto Bodrogi,15.0,Security,Site Control
+851,2014-01-10 20:23:00,Guy's Gyros,37.37,2014-01-10,Loreto Bodrogi,15.0,Security,Site Control
+852,2014-01-11 13:59:00,Gelatogalore,18.74,2014-01-11,Loreto Bodrogi,15.0,Security,Site Control
+853,2014-01-12 19:32:00,Guy's Gyros,34.41,2014-01-12,Loreto Bodrogi,15.0,Security,Site Control
+854,2014-01-13 13:48:00,Abila Zacharo,116.32,2014-01-13,Loreto Bodrogi,15.0,Security,Site Control
+855,2014-01-13 19:27:00,Shoppers' Delight,216.43,2014-01-13,Loreto Bodrogi,15.0,Security,Site Control
+856,2014-01-14 07:48:00,Brew've Been Served,6.45,2014-01-14,Loreto Bodrogi,15.0,Security,Site Control
+857,2014-01-14 13:37:00,Hippokampos,19.07,2014-01-14,Loreto Bodrogi,15.0,Security,Site Control
+858,2014-01-14 20:25:00,Guy's Gyros,10.85,2014-01-14,Loreto Bodrogi,15.0,Security,Site Control
+859,2014-01-15 08:02:00,Brew've Been Served,15.58,2014-01-15,Loreto Bodrogi,15.0,Security,Site Control
+860,2014-01-15 13:55:00,Gelatogalore,31.21,2014-01-15,Loreto Bodrogi,15.0,Security,Site Control
+861,2014-01-15 20:59:00,Guy's Gyros,61.43,2014-01-15,Loreto Bodrogi,15.0,Security,Site Control
+862,2014-01-16 08:02:00,Brew've Been Served,5.82,2014-01-16,Loreto Bodrogi,15.0,Security,Site Control
+863,2014-01-16 13:45:00,Ouzeri Elian,12.47,2014-01-16,Loreto Bodrogi,15.0,Security,Site Control
+864,2014-01-16 20:17:00,Guy's Gyros,25.78,2014-01-16,Loreto Bodrogi,15.0,Security,Site Control
+865,2014-01-17 08:15:00,Brew've Been Served,3.09,2014-01-17,Loreto Bodrogi,15.0,Security,Site Control
+866,2014-01-17 13:38:00,Guy's Gyros,39.14,2014-01-17,Loreto Bodrogi,15.0,Security,Site Control
+867,2014-01-17 20:24:00,Guy's Gyros,8.54,2014-01-17,Loreto Bodrogi,15.0,Security,Site Control
+868,2014-01-18 20:13:00,Katerina’s Café,9.72,2014-01-18,Loreto Bodrogi,15.0,Security,Site Control
+869,2014-01-19 20:25:00,Guy's Gyros,20.94,2014-01-19,Loreto Bodrogi,15.0,Security,Site Control
+870,,Brewed Awakenings,4.84,2014-01-07,Loreto Bodrogi,15.0,Security,Site Control
+871,,Guy's Gyros,22.33,2014-01-07,Loreto Bodrogi,15.0,Security,Site Control
+872,,Hippokampos,31.69,2014-01-07,Loreto Bodrogi,15.0,Security,Site Control
+873,,Brew've Been Served,12.92,2014-01-08,Loreto Bodrogi,15.0,Security,Site Control
+874,,Guy's Gyros,17.9,2014-01-08,Loreto Bodrogi,15.0,Security,Site Control
+875,,Abila Zacharo,36.32,2014-01-13,Loreto Bodrogi,15.0,Security,Site Control
+876,,Brew've Been Served,12.8,2014-01-13,Loreto Bodrogi,15.0,Security,Site Control
+877,,Guy's Gyros,21.43,2014-01-15,Loreto Bodrogi,15.0,Security,Site Control
+878,,Kalami Kafenion,10.48,2014-01-18,Loreto Bodrogi,15.0,Security,Site Control
+879,2014-01-06 08:06:00,Brew've Been Served,15.58,2014-01-06,Minke Mies,24.0,Security,Perimeter Control
+880,2014-01-06 13:52:00,Kalami Kafenion,22.31,2014-01-06,Minke Mies,24.0,Security,Perimeter Control
+881,2014-01-06 21:03:00,Albert's Fine Clothing,121.76,2014-01-06,Minke Mies,24.0,Security,Perimeter Control
+882,2014-01-07 07:52:00,Brew've Been Served,3.0,2014-01-07,Minke Mies,24.0,Security,Perimeter Control
+883,2014-01-07 14:07:00,Katerina’s Café,10.9,2014-01-07,Minke Mies,24.0,Security,Perimeter Control
+884,2014-01-08 08:18:00,Brew've Been Served,6.3,2014-01-08,Minke Mies,24.0,Security,Perimeter Control
+885,2014-01-08 13:57:00,Guy's Gyros,10.34,2014-01-08,Minke Mies,24.0,Security,Perimeter Control
+886,2014-01-08 19:48:00,Guy's Gyros,30.48,2014-01-08,Minke Mies,24.0,Security,Perimeter Control
+887,2014-01-09 08:00:00,Brew've Been Served,6.21,2014-01-09,Minke Mies,24.0,Security,Perimeter Control
+888,2014-01-09 13:56:00,Hippokampos,65.7,2014-01-09,Minke Mies,24.0,Security,Perimeter Control
+889,2014-01-09 21:09:00,Guy's Gyros,31.31,2014-01-09,Minke Mies,24.0,Security,Perimeter Control
+890,2014-01-10 08:17:00,Brew've Been Served,12.64,2014-01-10,Minke Mies,24.0,Security,Perimeter Control
+891,2014-01-10 13:53:00,Kalami Kafenion,24.3,2014-01-10,Minke Mies,24.0,Security,Perimeter Control
+892,2014-01-10 21:28:00,General Grocer,227.28,2014-01-10,Minke Mies,24.0,Security,Perimeter Control
+893,2014-01-11 13:36:00,Hippokampos,103.38,2014-01-11,Minke Mies,24.0,Security,Perimeter Control
+894,2014-01-11 16:01:00,Albert's Fine Clothing,211.47,2014-01-11,Minke Mies,24.0,Security,Perimeter Control
+895,2014-01-13 08:04:00,Brew've Been Served,16.05,2014-01-13,Minke Mies,24.0,Security,Perimeter Control
+896,2014-01-13 12:27:00,Hippokampos,17.17,2014-01-13,Minke Mies,24.0,Security,Perimeter Control
+897,2014-01-14 14:03:00,Abila Zacharo,24.87,2014-01-14,Minke Mies,24.0,Security,Perimeter Control
+898,2014-01-14 20:33:00,Frydos Autosupply n' More,42.72,2014-01-14,Minke Mies,24.0,Security,Perimeter Control
+899,2014-01-15 08:01:00,Brew've Been Served,49.7,2014-01-15,Minke Mies,24.0,Security,Perimeter Control
+900,2014-01-15 14:02:00,Hippokampos,118.23,2014-01-15,Minke Mies,24.0,Security,Perimeter Control
+901,2014-01-15 19:55:00,Guy's Gyros,31.04,2014-01-15,Minke Mies,24.0,Security,Perimeter Control
+902,2014-01-16 08:09:00,Brew've Been Served,17.44,2014-01-16,Minke Mies,24.0,Security,Perimeter Control
+903,2014-01-16 17:07:00,Gelatogalore,10.62,2014-01-16,Minke Mies,24.0,Security,Perimeter Control
+904,2014-01-16 20:25:00,Roberts and Sons,155.76,2014-01-16,Minke Mies,24.0,Security,Perimeter Control
+905,2014-01-17 08:13:00,Coffee Cameleon,14.99,2014-01-17,Minke Mies,24.0,Security,Perimeter Control
+906,2014-01-17 13:53:00,Katerina’s Café,35.52,2014-01-17,Minke Mies,24.0,Security,Perimeter Control
+907,2014-01-17 21:07:00,Guy's Gyros,55.4,2014-01-17,Minke Mies,24.0,Security,Perimeter Control
+908,2014-01-18 19:32:00,Katerina’s Café,33.41,2014-01-18,Minke Mies,24.0,Security,Perimeter Control
+909,2014-01-19 13:53:00,Katerina’s Café,26.76,2014-01-19,Minke Mies,24.0,Security,Perimeter Control
+910,2014-01-19 20:30:00,Guy's Gyros,31.94,2014-01-19,Minke Mies,24.0,Security,Perimeter Control
+911,,Hippokampos,25.7,2014-01-09,Minke Mies,24.0,Security,Perimeter Control
+912,,Hippokampos,23.38,2014-01-11,Minke Mies,24.0,Security,Perimeter Control
+913,,Frydos Autosupply n' More,87.57,2014-01-13,Minke Mies,24.0,Security,Perimeter Control
+914,,Brewed Awakenings,12.74,2014-01-14,Minke Mies,24.0,Security,Perimeter Control
+915,,Brew've Been Served,9.7,2014-01-15,Minke Mies,24.0,Security,Perimeter Control
+916,,Hippokampos,38.23,2014-01-15,Minke Mies,24.0,Security,Perimeter Control
+917,,Guy's Gyros,15.4,2014-01-17,Minke Mies,24.0,Security,Perimeter Control
+918,2014-01-06 08:07:00,Brew've Been Served,5.66,2014-01-06,Felix Resumir,30.0,Security,Security Group Manager
+919,2014-01-06 14:17:00,Katerina’s Café,19.65,2014-01-06,Felix Resumir,30.0,Security,Security Group Manager
+920,2014-01-06 20:09:00,Guy's Gyros,11.94,2014-01-06,Felix Resumir,30.0,Security,Security Group Manager
+921,2014-01-07 08:18:00,Brew've Been Served,47.74,2014-01-07,Felix Resumir,30.0,Security,Security Group Manager
+922,2014-01-07 14:09:00,Ouzeri Elian,59.51,2014-01-07,Felix Resumir,30.0,Security,Security Group Manager
+923,2014-01-07 20:20:00,Frydos Autosupply n' More,312.73,2014-01-07,Felix Resumir,30.0,Security,Security Group Manager
+924,2014-01-08 08:03:00,Brew've Been Served,10.15,2014-01-08,Felix Resumir,30.0,Security,Security Group Manager
+925,2014-01-08 13:51:00,Abila Zacharo,30.85,2014-01-08,Felix Resumir,30.0,Security,Security Group Manager
+926,2014-01-08 20:57:00,Guy's Gyros,10.28,2014-01-08,Felix Resumir,30.0,Security,Security Group Manager
+927,2014-01-09 07:58:00,Brew've Been Served,19.47,2014-01-09,Felix Resumir,30.0,Security,Security Group Manager
+928,2014-01-09 13:56:00,Guy's Gyros,8.87,2014-01-09,Felix Resumir,30.0,Security,Security Group Manager
+929,2014-01-09 20:20:00,Frydos Autosupply n' More,31.24,2014-01-09,Felix Resumir,30.0,Security,Security Group Manager
+930,2014-01-10 08:01:00,Brew've Been Served,5.31,2014-01-10,Felix Resumir,30.0,Security,Security Group Manager
+931,2014-01-10 13:58:00,Hippokampos,39.89,2014-01-10,Felix Resumir,30.0,Security,Security Group Manager
+932,2014-01-10 20:09:00,Guy's Gyros,29.81,2014-01-10,Felix Resumir,30.0,Security,Security Group Manager
+933,2014-01-11 14:19:00,Abila Zacharo,45.2,2014-01-11,Felix Resumir,30.0,Security,Security Group Manager
+934,2014-01-11 20:26:00,Frydos Autosupply n' More,261.0,2014-01-11,Felix Resumir,30.0,Security,Security Group Manager
+935,2014-01-12 13:31:00,Guy's Gyros,34.74,2014-01-12,Felix Resumir,30.0,Security,Security Group Manager
+936,2014-01-12 16:27:00,Ahaggo Museum,120.2,2014-01-12,Felix Resumir,30.0,Security,Security Group Manager
+937,2014-01-13 08:21:00,Brew've Been Served,13.19,2014-01-13,Felix Resumir,30.0,Security,Security Group Manager
+938,2014-01-13 14:13:00,Guy's Gyros,12.76,2014-01-13,Felix Resumir,30.0,Security,Security Group Manager
+939,2014-01-13 20:45:00,Shoppers' Delight,144.4,2014-01-13,Felix Resumir,30.0,Security,Security Group Manager
+940,2014-01-14 08:13:00,Brew've Been Served,12.31,2014-01-14,Felix Resumir,30.0,Security,Security Group Manager
+941,2014-01-14 13:57:00,Hippokampos,17.18,2014-01-14,Felix Resumir,30.0,Security,Security Group Manager
+942,2014-01-14 20:43:00,Frydos Autosupply n' More,146.74,2014-01-14,Felix Resumir,30.0,Security,Security Group Manager
+943,2014-01-15 08:14:00,Brew've Been Served,18.58,2014-01-15,Felix Resumir,30.0,Security,Security Group Manager
+944,2014-01-15 14:13:00,Kalami Kafenion,28.82,2014-01-15,Felix Resumir,30.0,Security,Security Group Manager
+945,2014-01-16 08:03:00,Brew've Been Served,16.67,2014-01-16,Felix Resumir,30.0,Security,Security Group Manager
+946,2014-01-16 13:55:00,Abila Zacharo,8.43,2014-01-16,Felix Resumir,30.0,Security,Security Group Manager
+947,2014-01-16 20:09:00,Guy's Gyros,28.27,2014-01-16,Felix Resumir,30.0,Security,Security Group Manager
+948,2014-01-17 08:17:00,Brew've Been Served,5.29,2014-01-17,Felix Resumir,30.0,Security,Security Group Manager
+949,2014-01-17 13:55:00,Guy's Gyros,32.31,2014-01-17,Felix Resumir,30.0,Security,Security Group Manager
+950,2014-01-17 19:46:00,Guy's Gyros,16.83,2014-01-17,Felix Resumir,30.0,Security,Security Group Manager
+951,2014-01-18 14:17:00,Kalami Kafenion,53.36,2014-01-18,Felix Resumir,30.0,Security,Security Group Manager
+952,2014-01-18 20:07:00,General Grocer,108.49,2014-01-18,Felix Resumir,30.0,Security,Security Group Manager
+953,2014-01-19 14:20:00,Abila Zacharo,47.8,2014-01-19,Felix Resumir,30.0,Security,Security Group Manager
+954,2014-01-19 20:51:00,Guy's Gyros,39.6,2014-01-19,Felix Resumir,30.0,Security,Security Group Manager
+955,,Brew've Been Served,7.74,2014-01-07,Felix Resumir,30.0,Security,Security Group Manager
+956,,Frydos Autosupply n' More,272.73,2014-01-07,Felix Resumir,30.0,Security,Security Group Manager
+957,,Ouzeri Elian,19.51,2014-01-07,Felix Resumir,30.0,Security,Security Group Manager
+958,2014-01-06 08:14:00,Coffee Cameleon,3.2,2014-01-06,Carla Forluniau,,,
+959,2014-01-06 13:18:00,Abila Zacharo,106.93,2014-01-06,Carla Forluniau,,,
+960,2014-01-06 20:19:00,Katerina’s Café,21.66,2014-01-06,Carla Forluniau,,,
+961,2014-01-07 08:01:00,Coffee Cameleon,52.44,2014-01-07,Carla Forluniau,,,
+962,2014-01-07 13:44:00,Abila Zacharo,32.4,2014-01-07,Carla Forluniau,,,
+963,2014-01-08 08:22:00,Coffee Cameleon,16.17,2014-01-08,Carla Forluniau,,,
+964,2014-01-08 13:47:00,Gelatogalore,22.27,2014-01-08,Carla Forluniau,,,
+965,2014-01-08 20:07:00,Frydos Autosupply n' More,214.07,2014-01-08,Carla Forluniau,,,
+966,2014-01-09 13:29:00,Hippokampos,27.47,2014-01-09,Carla Forluniau,,,
+967,2014-01-09 20:38:00,Katerina’s Café,30.69,2014-01-09,Carla Forluniau,,,
+968,2014-01-10 07:54:00,Coffee Cameleon,9.69,2014-01-10,Carla Forluniau,,,
+969,2014-01-10 13:38:00,Katerina’s Café,21.22,2014-01-10,Carla Forluniau,,,
+970,2014-01-11 13:23:00,Katerina’s Café,45.21,2014-01-11,Carla Forluniau,,,
+971,2014-01-11 15:20:00,Shoppers' Delight,238.52,2014-01-11,Carla Forluniau,,,
+972,2014-01-11 20:24:00,Katerina’s Café,94.68,2014-01-11,Carla Forluniau,,,
+973,2014-01-13 07:55:00,Coffee Cameleon,17.49,2014-01-13,Carla Forluniau,,,
+974,2014-01-13 13:23:00,Katerina’s Café,38.98,2014-01-13,Carla Forluniau,,,
+975,2014-01-13 21:11:00,Frydos Autosupply n' More,202.05,2014-01-13,Carla Forluniau,,,
+976,2014-01-14 07:52:00,Coffee Cameleon,11.67,2014-01-14,Carla Forluniau,,,
+977,2014-01-15 08:05:00,Coffee Cameleon,56.31,2014-01-15,Carla Forluniau,,,
+978,2014-01-15 13:17:00,Katerina’s Café,88.56,2014-01-15,Carla Forluniau,,,
+979,2014-01-15 20:29:00,Katerina’s Café,29.66,2014-01-15,Carla Forluniau,,,
+980,2014-01-16 08:03:00,Coffee Cameleon,63.14,2014-01-16,Carla Forluniau,,,
+981,2014-01-16 14:00:00,Ouzeri Elian,8.52,2014-01-16,Carla Forluniau,,,
+982,2014-01-16 20:25:00,Katerina’s Café,35.43,2014-01-16,Carla Forluniau,,,
+983,2014-01-17 08:07:00,Coffee Cameleon,7.49,2014-01-17,Carla Forluniau,,,
+984,2014-01-17 13:16:00,Hippokampos,38.21,2014-01-17,Carla Forluniau,,,
+985,2014-01-18 19:56:00,Katerina’s Café,32.68,2014-01-18,Carla Forluniau,,,
+986,,Abila Zacharo,26.93,2014-01-06,Carla Forluniau,,,
+987,,Coffee Cameleon,12.44,2014-01-07,Carla Forluniau,,,
+988,,Coffee Cameleon,4.88,2014-01-09,Carla Forluniau,,,
+989,,Katerina’s Café,11.26,2014-01-14,Carla Forluniau,,,
+990,,Coffee Cameleon,16.31,2014-01-15,Carla Forluniau,,,
+991,,Katerina’s Café,28.56,2014-01-15,Carla Forluniau,,,
+992,,Coffee Cameleon,3.14,2014-01-16,Carla Forluniau,,,
+993,,Katerina’s Café,21.16,2014-01-17,Carla Forluniau,,,
+994,2014-01-06 08:16:00,Brew've Been Served,14.97,2014-01-06,Kanon Herrero,22.0,Security,Badging Office
+995,2014-01-06 13:27:00,Abila Zacharo,50.14,2014-01-06,Kanon Herrero,22.0,Security,Badging Office
+996,2014-01-07 07:54:00,Brew've Been Served,11.92,2014-01-07,Kanon Herrero,22.0,Security,Badging Office
+997,2014-01-07 13:24:00,Kalami Kafenion,45.05,2014-01-07,Kanon Herrero,22.0,Security,Badging Office
+998,2014-01-08 08:16:00,Brew've Been Served,7.26,2014-01-08,Kanon Herrero,22.0,Security,Badging Office
+999,2014-01-08 13:38:00,Gelatogalore,50.36,2014-01-08,Kanon Herrero,22.0,Security,Badging Office
+1000,2014-01-08 20:12:00,Ouzeri Elian,62.2,2014-01-08,Kanon Herrero,22.0,Security,Badging Office
+1001,2014-01-09 08:14:00,Brew've Been Served,17.64,2014-01-09,Kanon Herrero,22.0,Security,Badging Office
+1002,2014-01-09 13:47:00,Abila Zacharo,48.39,2014-01-09,Kanon Herrero,22.0,Security,Badging Office
+1003,2014-01-09 20:24:00,Guy's Gyros,18.26,2014-01-09,Kanon Herrero,22.0,Security,Badging Office
+1004,2014-01-10 08:01:00,Brew've Been Served,5.89,2014-01-10,Kanon Herrero,22.0,Security,Badging Office
+1005,2014-01-11 20:04:00,Kalami Kafenion,50.2,2014-01-11,Kanon Herrero,22.0,Security,Badging Office
+1006,2014-01-12 13:40:00,Gelatogalore,20.09,2014-01-12,Kanon Herrero,22.0,Security,Badging Office
+1007,2014-01-12 15:24:00,Shoppers' Delight,86.22,2014-01-12,Kanon Herrero,22.0,Security,Badging Office
+1008,2014-01-12 19:50:00,Gelatogalore,36.2,2014-01-12,Kanon Herrero,22.0,Security,Badging Office
+1009,2014-01-13 08:07:00,Brew've Been Served,11.49,2014-01-13,Kanon Herrero,22.0,Security,Badging Office
+1010,2014-01-13 13:21:00,Abila Zacharo,64.5,2014-01-13,Kanon Herrero,22.0,Security,Badging Office
+1011,2014-01-13 20:42:00,Guy's Gyros,88.57,2014-01-13,Kanon Herrero,22.0,Security,Badging Office
+1012,2014-01-14 08:03:00,Brew've Been Served,3.21,2014-01-14,Kanon Herrero,22.0,Security,Badging Office
+1013,2014-01-14 13:59:00,Guy's Gyros,50.4,2014-01-14,Kanon Herrero,22.0,Security,Badging Office
+1014,2014-01-15 07:49:00,Brew've Been Served,11.23,2014-01-15,Kanon Herrero,22.0,Security,Badging Office
+1015,2014-01-15 13:27:00,Katerina’s Café,55.6,2014-01-15,Kanon Herrero,22.0,Security,Badging Office
+1016,2014-01-15 21:05:00,Guy's Gyros,27.01,2014-01-15,Kanon Herrero,22.0,Security,Badging Office
+1017,2014-01-16 07:52:00,Brew've Been Served,12.67,2014-01-16,Kanon Herrero,22.0,Security,Badging Office
+1018,2014-01-16 13:22:00,Abila Zacharo,64.71,2014-01-16,Kanon Herrero,22.0,Security,Badging Office
+1019,2014-01-16 20:50:00,Shoppers' Delight,16.84,2014-01-16,Kanon Herrero,22.0,Security,Badging Office
+1020,2014-01-17 08:23:00,Brew've Been Served,51.04,2014-01-17,Kanon Herrero,22.0,Security,Badging Office
+1021,2014-01-17 13:38:00,Hippokampos,52.31,2014-01-17,Kanon Herrero,22.0,Security,Badging Office
+1022,2014-01-17 20:21:00,Shoppers' Delight,289.33,2014-01-17,Kanon Herrero,22.0,Security,Badging Office
+1023,2014-01-18 14:51:00,Ahaggo Museum,55.55,2014-01-18,Kanon Herrero,22.0,Security,Badging Office
+1024,2014-01-18 20:01:00,Hippokampos,49.21,2014-01-18,Kanon Herrero,22.0,Security,Badging Office
+1025,2014-01-19 19:45:00,Guy's Gyros,23.21,2014-01-19,Kanon Herrero,22.0,Security,Badging Office
+1026,,Guy's Gyros,28.57,2014-01-13,Kanon Herrero,22.0,Security,Badging Office
+1027,,Brew've Been Served,11.04,2014-01-17,Kanon Herrero,22.0,Security,Badging Office
+1028,,Shoppers' Delight,269.33,2014-01-17,Kanon Herrero,22.0,Security,Badging Office
+1029,2014-01-06 08:16:00,Brew've Been Served,11.2,2014-01-06,Linda Lagos,,,
+1030,2014-01-06 13:28:00,Katerina’s Café,33.54,2014-01-06,Linda Lagos,,,
+1031,2014-01-06 18:56:00,Katerina’s Café,78.65,2014-01-06,Linda Lagos,,,
+1032,2014-01-07 08:09:00,Brew've Been Served,15.66,2014-01-07,Linda Lagos,,,
+1033,2014-01-07 13:50:00,Ouzeri Elian,21.85,2014-01-07,Linda Lagos,,,
+1034,2014-01-07 20:18:00,Katerina’s Café,31.6,2014-01-07,Linda Lagos,,,
+1035,2014-01-08 08:09:00,Brew've Been Served,11.48,2014-01-08,Linda Lagos,,,
+1036,2014-01-08 13:27:00,Gelatogalore,32.79,2014-01-08,Linda Lagos,,,
+1037,2014-01-08 20:00:00,Katerina’s Café,13.83,2014-01-08,Linda Lagos,,,
+1038,2014-01-09 07:57:00,Brew've Been Served,5.26,2014-01-09,Linda Lagos,,,
+1039,2014-01-09 13:35:00,Gelatogalore,23.23,2014-01-09,Linda Lagos,,,
+1040,2014-01-10 08:20:00,Brew've Been Served,14.36,2014-01-10,Linda Lagos,,,
+1041,2014-01-10 13:44:00,Guy's Gyros,38.15,2014-01-10,Linda Lagos,,,
+1042,2014-01-10 20:09:00,Katerina’s Café,8.14,2014-01-10,Linda Lagos,,,
+1043,2014-01-11 19:52:00,Katerina’s Café,15.72,2014-01-11,Linda Lagos,,,
+1044,2014-01-12 20:17:00,Katerina’s Café,16.34,2014-01-12,Linda Lagos,,,
+1045,2014-01-13 08:00:00,Brew've Been Served,13.37,2014-01-13,Linda Lagos,,,
+1046,2014-01-13 13:51:00,Guy's Gyros,21.03,2014-01-13,Linda Lagos,,,
+1047,2014-01-13 19:59:00,Frydos Autosupply n' More,64.6,2014-01-13,Linda Lagos,,,
+1048,2014-01-14 08:13:00,Brew've Been Served,11.53,2014-01-14,Linda Lagos,,,
+1049,2014-01-14 13:35:00,Abila Zacharo,31.09,2014-01-14,Linda Lagos,,,
+1050,2014-01-14 20:50:00,Katerina’s Café,25.4,2014-01-14,Linda Lagos,,,
+1051,2014-01-15 07:58:00,Brew've Been Served,5.75,2014-01-15,Linda Lagos,,,
+1052,2014-01-15 13:36:00,Kalami Kafenion,37.15,2014-01-15,Linda Lagos,,,
+1053,2014-01-15 20:17:00,Katerina’s Café,29.33,2014-01-15,Linda Lagos,,,
+1054,2014-01-16 08:23:00,Brew've Been Served,11.21,2014-01-16,Linda Lagos,,,
+1055,2014-01-16 13:55:00,Hippokampos,30.02,2014-01-16,Linda Lagos,,,
+1056,2014-01-16 18:49:00,Katerina’s Café,93.68,2014-01-16,Linda Lagos,,,
+1057,2014-01-17 08:19:00,Brew've Been Served,14.58,2014-01-17,Linda Lagos,,,
+1058,2014-01-17 13:53:00,Kalami Kafenion,24.21,2014-01-17,Linda Lagos,,,
+1059,2014-01-18 14:00:00,Katerina’s Café,37.26,2014-01-18,Linda Lagos,,,
+1060,2014-01-18 20:04:00,Katerina’s Café,45.88,2014-01-18,Linda Lagos,,,
+1061,,Katerina’s Café,38.65,2014-01-06,Linda Lagos,,,
+1062,,Katerina’s Café,13.68,2014-01-16,Linda Lagos,,,
+1063,2014-01-06 08:17:00,Brew've Been Served,15.39,2014-01-06,Dante Coginian,,,
+1064,2014-01-06 13:58:00,Hippokampos,38.25,2014-01-06,Dante Coginian,,,
+1065,2014-01-06 20:12:00,Frydos Autosupply n' More,80.85,2014-01-06,Dante Coginian,,,
+1066,2014-01-07 07:58:00,Brew've Been Served,17.4,2014-01-07,Dante Coginian,,,
+1067,2014-01-07 13:57:00,Katerina’s Café,37.44,2014-01-07,Dante Coginian,,,
+1068,2014-01-07 20:13:00,Katerina’s Café,65.02,2014-01-07,Dante Coginian,,,
+1069,2014-01-08 08:01:00,Brew've Been Served,3.92,2014-01-08,Dante Coginian,,,
+1070,2014-01-08 13:42:00,Kalami Kafenion,22.49,2014-01-08,Dante Coginian,,,
+1071,2014-01-08 20:35:00,Katerina’s Café,16.93,2014-01-08,Dante Coginian,,,
+1072,2014-01-09 07:56:00,Brew've Been Served,98.25,2014-01-09,Dante Coginian,,,
+1073,2014-01-09 14:09:00,Guy's Gyros,27.69,2014-01-09,Dante Coginian,,,
+1074,2014-01-09 20:22:00,Katerina’s Café,29.82,2014-01-09,Dante Coginian,,,
+1075,2014-01-10 08:17:00,Brew've Been Served,8.47,2014-01-10,Dante Coginian,,,
+1076,2014-01-10 14:11:00,Gelatogalore,32.19,2014-01-10,Dante Coginian,,,
+1077,2014-01-10 20:02:00,Frydos Autosupply n' More,43.65,2014-01-10,Dante Coginian,,,
+1078,2014-01-11 20:06:00,Katerina’s Café,52.45,2014-01-11,Dante Coginian,,,
+1079,2014-01-12 20:43:00,Frydos Autosupply n' More,161.96,2014-01-12,Dante Coginian,,,
+1080,2014-01-13 08:23:00,Brew've Been Served,19.89,2014-01-13,Dante Coginian,,,
+1081,2014-01-13 14:00:00,Gelatogalore,36.24,2014-01-13,Dante Coginian,,,
+1082,2014-01-14 07:53:00,Brew've Been Served,9.53,2014-01-14,Dante Coginian,,,
+1083,2014-01-14 14:16:00,Hippokampos,16.73,2014-01-14,Dante Coginian,,,
+1084,2014-01-14 20:42:00,Katerina’s Café,46.61,2014-01-14,Dante Coginian,,,
+1085,2014-01-15 08:06:00,Brew've Been Served,3.47,2014-01-15,Dante Coginian,,,
+1086,2014-01-15 13:46:00,Guy's Gyros,16.58,2014-01-15,Dante Coginian,,,
+1087,2014-01-15 20:26:00,Katerina’s Café,61.61,2014-01-15,Dante Coginian,,,
+1088,2014-01-16 08:08:00,Brew've Been Served,90.33,2014-01-16,Dante Coginian,,,
+1089,2014-01-16 13:45:00,Kalami Kafenion,9.27,2014-01-16,Dante Coginian,,,
+1090,2014-01-16 20:39:00,Katerina’s Café,30.56,2014-01-16,Dante Coginian,,,
+1091,2014-01-17 08:09:00,Brew've Been Served,9.3,2014-01-17,Dante Coginian,,,
+1092,2014-01-17 14:00:00,Guy's Gyros,15.12,2014-01-17,Dante Coginian,,,
+1093,2014-01-17 20:19:00,Katerina’s Café,36.12,2014-01-17,Dante Coginian,,,
+1094,2014-01-18 14:02:00,Kalami Kafenion,42.73,2014-01-18,Dante Coginian,,,
+1095,2014-01-18 19:46:00,Katerina’s Café,11.19,2014-01-18,Dante Coginian,,,
+1096,,Katerina’s Café,25.02,2014-01-07,Dante Coginian,,,
+1097,,Brew've Been Served,18.25,2014-01-09,Dante Coginian,,,
+1098,,Katerina’s Café,26.61,2014-01-14,Dante Coginian,,,
+1099,,Katerina’s Café,21.61,2014-01-15,Dante Coginian,,,
+1100,2014-01-06 08:23:00,Abila Airport,4540.08,2014-01-06,Albina Hafon,101.0,Facilities,Truck Driver
+1101,2014-01-06 09:06:00,Kronos Pipe and Irrigation,242.21,2014-01-06,Albina Hafon,101.0,Facilities,Truck Driver
+1102,2014-01-06 10:18:00,Maximum Iron and Steel,2859.51,2014-01-06,Albina Hafon,101.0,Facilities,Truck Driver
+1103,2014-01-06 11:57:00,Carlyle Chemical Inc.,3959.66,2014-01-06,Albina Hafon,101.0,Facilities,Truck Driver
+1104,2014-01-06 15:14:00,Abila Airport,777.06,2014-01-06,Albina Hafon,101.0,Facilities,Truck Driver
+1105,2014-01-13 08:15:00,Abila Airport,3617.47,2014-01-13,Albina Hafon,101.0,Facilities,Truck Driver
+1106,2014-01-13 08:58:00,Kronos Pipe and Irrigation,2892.74,2014-01-13,Albina Hafon,101.0,Facilities,Truck Driver
+1107,2014-01-13 10:20:00,Maximum Iron and Steel,689.85,2014-01-13,Albina Hafon,101.0,Facilities,Truck Driver
+1108,2014-01-13 12:00:00,Carlyle Chemical Inc.,1718.96,2014-01-13,Albina Hafon,101.0,Facilities,Truck Driver
+1109,2014-01-13 12:55:00,Ouzeri Elian,19.82,2014-01-13,Albina Hafon,101.0,Facilities,Truck Driver
+1110,,Ouzeri Elian,16.84,2014-01-06,Albina Hafon,101.0,Facilities,Truck Driver
+1111,,Kronos Pipe and Irrigation,2852.74,2014-01-13,Albina Hafon,101.0,Facilities,Truck Driver
+1112,2014-01-06 10:02:00,Nationwide Refinery,761.64,2014-01-06,Cecilia Morluniau,107.0,Facilities,Truck Driver
+1113,2014-01-06 11:33:00,Stewart and Sons Fabrication,2144.62,2014-01-06,Cecilia Morluniau,107.0,Facilities,Truck Driver
+1114,2014-01-07 10:11:00,Nationwide Refinery,1347.36,2014-01-07,Cecilia Morluniau,107.0,Facilities,Truck Driver
+1115,2014-01-07 11:31:00,Stewart and Sons Fabrication,1843.33,2014-01-07,Cecilia Morluniau,107.0,Facilities,Truck Driver
+1116,2014-01-08 10:14:00,Nationwide Refinery,3674.32,2014-01-08,Cecilia Morluniau,107.0,Facilities,Truck Driver
+1117,2014-01-08 11:58:00,Stewart and Sons Fabrication,1673.77,2014-01-08,Cecilia Morluniau,107.0,Facilities,Truck Driver
+1118,2014-01-09 10:16:00,Nationwide Refinery,674.28,2014-01-09,Cecilia Morluniau,107.0,Facilities,Truck Driver
+1119,2014-01-09 11:37:00,Stewart and Sons Fabrication,3544.0,2014-01-09,Cecilia Morluniau,107.0,Facilities,Truck Driver
+1120,2014-01-10 10:00:00,Nationwide Refinery,1552.82,2014-01-10,Cecilia Morluniau,107.0,Facilities,Truck Driver
+1121,2014-01-10 11:49:00,Stewart and Sons Fabrication,4074.1,2014-01-10,Cecilia Morluniau,107.0,Facilities,Truck Driver
+1122,2014-01-13 10:12:00,Nationwide Refinery,204.58,2014-01-13,Cecilia Morluniau,107.0,Facilities,Truck Driver
+1123,2014-01-14 10:03:00,Nationwide Refinery,965.72,2014-01-14,Cecilia Morluniau,107.0,Facilities,Truck Driver
+1124,2014-01-14 11:55:00,Stewart and Sons Fabrication,278.52,2014-01-14,Cecilia Morluniau,107.0,Facilities,Truck Driver
+1125,2014-01-15 10:14:00,Nationwide Refinery,1391.24,2014-01-15,Cecilia Morluniau,107.0,Facilities,Truck Driver
+1126,2014-01-15 11:44:00,Stewart and Sons Fabrication,4740.68,2014-01-15,Cecilia Morluniau,107.0,Facilities,Truck Driver
+1127,2014-01-16 10:16:00,Nationwide Refinery,1494.44,2014-01-16,Cecilia Morluniau,107.0,Facilities,Truck Driver
+1128,2014-01-16 11:45:00,Stewart and Sons Fabrication,4543.31,2014-01-16,Cecilia Morluniau,107.0,Facilities,Truck Driver
+1129,2014-01-17 11:32:00,Stewart and Sons Fabrication,1753.17,2014-01-17,Cecilia Morluniau,107.0,Facilities,Truck Driver
+1130,,Stewart and Sons Fabrication,1783.33,2014-01-07,Cecilia Morluniau,107.0,Facilities,Truck Driver
+1131,,Stewart and Sons Fabrication,4071.95,2014-01-13,Cecilia Morluniau,107.0,Facilities,Truck Driver
+1132,2014-01-06 12:00:00,Coffee Shack,51.51,2014-01-06,Varro Awelon,,,
+1133,2014-01-06 14:00:00,Kalami Kafenion,13.08,2014-01-06,Varro Awelon,,,
+1134,2014-01-06 20:46:00,Hippokampos,24.41,2014-01-06,Varro Awelon,,,
+1135,2014-01-07 12:00:00,Coffee Shack,16.63,2014-01-07,Varro Awelon,,,
+1136,2014-01-07 20:10:00,Albert's Fine Clothing,78.91,2014-01-07,Varro Awelon,,,
+1137,2014-01-08 12:00:00,Coffee Shack,13.13,2014-01-08,Varro Awelon,,,
+1138,2014-01-08 14:15:00,Kalami Kafenion,34.98,2014-01-08,Varro Awelon,,,
+1139,2014-01-08 20:28:00,Hippokampos,96.75,2014-01-08,Varro Awelon,,,
+1140,2014-01-09 12:00:00,Coffee Shack,5.01,2014-01-09,Varro Awelon,,,
+1141,2014-01-09 14:18:00,Gelatogalore,36.75,2014-01-09,Varro Awelon,,,
+1142,2014-01-09 20:21:00,Albert's Fine Clothing,224.52,2014-01-09,Varro Awelon,,,
+1143,2014-01-10 14:07:00,Hippokampos,11.61,2014-01-10,Varro Awelon,,,
+1144,2014-01-10 19:56:00,Hippokampos,19.88,2014-01-10,Varro Awelon,,,
+1145,2014-01-11 14:09:00,Kalami Kafenion,35.66,2014-01-11,Varro Awelon,,,
+1146,2014-01-11 20:27:00,Hippokampos,69.8,2014-01-11,Varro Awelon,,,
+1147,2014-01-12 13:35:00,Hippokampos,29.2,2014-01-12,Varro Awelon,,,
+1148,2014-01-12 15:46:00,General Grocer,159.3,2014-01-12,Varro Awelon,,,
+1149,2014-01-13 12:00:00,Coffee Shack,4.09,2014-01-13,Varro Awelon,,,
+1150,2014-01-13 14:00:00,Guy's Gyros,38.07,2014-01-13,Varro Awelon,,,
+1151,2014-01-13 21:13:00,Hippokampos,32.29,2014-01-13,Varro Awelon,,,
+1152,2014-01-14 12:00:00,Coffee Shack,3.63,2014-01-14,Varro Awelon,,,
+1153,2014-01-14 14:01:00,Ouzeri Elian,19.7,2014-01-14,Varro Awelon,,,
+1154,2014-01-15 13:46:00,Gelatogalore,24.96,2014-01-15,Varro Awelon,,,
+1155,2014-01-15 20:46:00,Albert's Fine Clothing,228.15,2014-01-15,Varro Awelon,,,
+1156,2014-01-16 12:00:00,Coffee Shack,10.48,2014-01-16,Varro Awelon,,,
+1157,2014-01-16 14:01:00,Ouzeri Elian,8.47,2014-01-16,Varro Awelon,,,
+1158,2014-01-16 20:08:00,Albert's Fine Clothing,283.38,2014-01-16,Varro Awelon,,,
+1159,2014-01-17 12:00:00,Coffee Shack,19.16,2014-01-17,Varro Awelon,,,
+1160,2014-01-17 14:05:00,Guy's Gyros,21.1,2014-01-17,Varro Awelon,,,
+1161,2014-01-17 19:40:00,Hippokampos,19.76,2014-01-17,Varro Awelon,,,
+1162,2014-01-18 20:26:00,Hippokampos,55.03,2014-01-18,Varro Awelon,,,
+1163,,Coffee Shack,11.51,2014-01-06,Varro Awelon,,,
+1164,,Hippokampos,16.75,2014-01-08,Varro Awelon,,,
+1165,,Coffee Shack,18.17,2014-01-15,Varro Awelon,,,
+1166,2014-01-06 12:00:00,Bean There Done That,10.28,2014-01-06,Lars Azada,2.0,Engineering,Engineer
+1167,2014-01-06 13:24:00,Guy's Gyros,15.44,2014-01-06,Lars Azada,2.0,Engineering,Engineer
+1168,2014-01-06 20:46:00,Hippokampos,21.33,2014-01-06,Lars Azada,2.0,Engineering,Engineer
+1169,2014-01-07 12:00:00,Bean There Done That,51.25,2014-01-07,Lars Azada,2.0,Engineering,Engineer
+1170,2014-01-07 13:20:00,Abila Zacharo,13.52,2014-01-07,Lars Azada,2.0,Engineering,Engineer
+1171,2014-01-07 20:02:00,Hippokampos,11.56,2014-01-07,Lars Azada,2.0,Engineering,Engineer
+1172,2014-01-08 12:00:00,Bean There Done That,17.45,2014-01-08,Lars Azada,2.0,Engineering,Engineer
+1173,2014-01-08 13:34:00,Abila Zacharo,14.41,2014-01-08,Lars Azada,2.0,Engineering,Engineer
+1174,2014-01-08 19:21:00,Hippokampos,10.52,2014-01-08,Lars Azada,2.0,Engineering,Engineer
+1175,2014-01-09 12:00:00,Bean There Done That,13.0,2014-01-09,Lars Azada,2.0,Engineering,Engineer
+1176,2014-01-09 13:43:00,Guy's Gyros,74.91,2014-01-09,Lars Azada,2.0,Engineering,Engineer
+1177,2014-01-10 12:00:00,Bean There Done That,15.39,2014-01-10,Lars Azada,2.0,Engineering,Engineer
+1178,2014-01-10 13:35:00,Gelatogalore,26.15,2014-01-10,Lars Azada,2.0,Engineering,Engineer
+1179,2014-01-10 19:46:00,Hippokampos,48.22,2014-01-10,Lars Azada,2.0,Engineering,Engineer
+1180,2014-01-11 20:23:00,Hippokampos,70.23,2014-01-11,Lars Azada,2.0,Engineering,Engineer
+1181,2014-01-12 19:29:00,Hippokampos,66.63,2014-01-12,Lars Azada,2.0,Engineering,Engineer
+1182,2014-01-13 12:00:00,Bean There Done That,7.93,2014-01-13,Lars Azada,2.0,Engineering,Engineer
+1183,2014-01-13 13:41:00,Gelatogalore,36.93,2014-01-13,Lars Azada,2.0,Engineering,Engineer
+1184,2014-01-13 20:42:00,Hippokampos,31.59,2014-01-13,Lars Azada,2.0,Engineering,Engineer
+1185,2014-01-14 12:00:00,Bean There Done That,7.28,2014-01-14,Lars Azada,2.0,Engineering,Engineer
+1186,2014-01-14 13:36:00,Guy's Gyros,13.27,2014-01-14,Lars Azada,2.0,Engineering,Engineer
+1187,2014-01-14 19:44:00,Hippokampos,39.64,2014-01-14,Lars Azada,2.0,Engineering,Engineer
+1188,2014-01-15 13:22:00,Guy's Gyros,14.37,2014-01-15,Lars Azada,2.0,Engineering,Engineer
+1189,2014-01-15 19:55:00,Hippokampos,13.02,2014-01-15,Lars Azada,2.0,Engineering,Engineer
+1190,2014-01-16 12:00:00,Bean There Done That,19.82,2014-01-16,Lars Azada,2.0,Engineering,Engineer
+1191,2014-01-16 13:36:00,Hippokampos,31.14,2014-01-16,Lars Azada,2.0,Engineering,Engineer
+1192,2014-01-17 08:08:00,Kronos Mart,286.24,2014-01-17,Lars Azada,2.0,Engineering,Engineer
+1193,2014-01-17 12:00:00,Bean There Done That,19.67,2014-01-17,Lars Azada,2.0,Engineering,Engineer
+1194,2014-01-17 13:38:00,Ouzeri Elian,14.01,2014-01-17,Lars Azada,2.0,Engineering,Engineer
+1195,2014-01-18 20:11:00,Hippokampos,72.5,2014-01-18,Lars Azada,2.0,Engineering,Engineer
+1196,2014-01-19 20:16:00,Hippokampos,78.96,2014-01-19,Lars Azada,2.0,Engineering,Engineer
+1197,,Bean There Done That,11.25,2014-01-07,Lars Azada,2.0,Engineering,Engineer
+1198,,Guy's Gyros,14.91,2014-01-09,Lars Azada,2.0,Engineering,Engineer
+1199,,Hippokampos,28.22,2014-01-10,Lars Azada,2.0,Engineering,Engineer
+1200,,Kronos Mart,286.24,2014-01-16,Lars Azada,2.0,Engineering,Engineer
+1201,2014-01-06 12:00:00,Bean There Done That,16.09,2014-01-06,Felix Balas,3.0,Engineering,Engineer
+1202,2014-01-06 13:46:00,Guy's Gyros,30.82,2014-01-06,Felix Balas,3.0,Engineering,Engineer
+1203,2014-01-07 13:46:00,Guy's Gyros,10.11,2014-01-07,Felix Balas,3.0,Engineering,Engineer
+1204,2014-01-08 12:00:00,Bean There Done That,12.07,2014-01-08,Felix Balas,3.0,Engineering,Engineer
+1205,2014-01-08 13:48:00,Hippokampos,28.79,2014-01-08,Felix Balas,3.0,Engineering,Engineer
+1206,2014-01-08 20:45:00,Albert's Fine Clothing,136.01,2014-01-08,Felix Balas,3.0,Engineering,Engineer
+1207,2014-01-09 13:41:00,Hippokampos,8.43,2014-01-09,Felix Balas,3.0,Engineering,Engineer
+1208,2014-01-09 21:38:00,Hippokampos,10.12,2014-01-09,Felix Balas,3.0,Engineering,Engineer
+1209,2014-01-10 12:00:00,Bean There Done That,3.92,2014-01-10,Felix Balas,3.0,Engineering,Engineer
+1210,2014-01-10 13:47:00,Guy's Gyros,31.5,2014-01-10,Felix Balas,3.0,Engineering,Engineer
+1211,2014-01-11 19:53:00,Hippokampos,67.37,2014-01-11,Felix Balas,3.0,Engineering,Engineer
+1212,2014-01-12 20:05:00,Hippokampos,78.21,2014-01-12,Felix Balas,3.0,Engineering,Engineer
+1213,2014-01-13 12:00:00,Bean There Done That,98.02,2014-01-13,Felix Balas,3.0,Engineering,Engineer
+1214,2014-01-13 13:42:00,Abila Zacharo,11.99,2014-01-13,Felix Balas,3.0,Engineering,Engineer
+1215,2014-01-14 12:00:00,Bean There Done That,19.37,2014-01-14,Felix Balas,3.0,Engineering,Engineer
+1216,2014-01-14 13:24:00,Kalami Kafenion,17.38,2014-01-14,Felix Balas,3.0,Engineering,Engineer
+1217,2014-01-14 20:50:00,Albert's Fine Clothing,228.72,2014-01-14,Felix Balas,3.0,Engineering,Engineer
+1218,2014-01-15 12:00:00,Bean There Done That,5.34,2014-01-15,Felix Balas,3.0,Engineering,Engineer
+1219,2014-01-15 13:45:00,Abila Zacharo,88.83,2014-01-15,Felix Balas,3.0,Engineering,Engineer
+1220,2014-01-15 20:10:00,Hippokampos,35.12,2014-01-15,Felix Balas,3.0,Engineering,Engineer
+1221,2014-01-16 12:00:00,Bean There Done That,12.33,2014-01-16,Felix Balas,3.0,Engineering,Engineer
+1222,2014-01-16 13:48:00,Kalami Kafenion,91.38,2014-01-16,Felix Balas,3.0,Engineering,Engineer
+1223,2014-01-17 12:00:00,Bean There Done That,8.21,2014-01-17,Felix Balas,3.0,Engineering,Engineer
+1224,2014-01-17 13:33:00,Gelatogalore,23.23,2014-01-17,Felix Balas,3.0,Engineering,Engineer
+1225,2014-01-17 21:58:00,Hippokampos,12.86,2014-01-17,Felix Balas,3.0,Engineering,Engineer
+1226,2014-01-18 18:39:00,Frank's Fuel,52.66,2014-01-18,Felix Balas,3.0,Engineering,Engineer
+1227,2014-01-18 19:39:00,Kalami Kafenion,71.14,2014-01-18,Felix Balas,3.0,Engineering,Engineer
+1228,2014-01-19 19:43:00,Hippokampos,101.25,2014-01-19,Felix Balas,3.0,Engineering,Engineer
+1229,,Bean There Done That,18.02,2014-01-13,Felix Balas,3.0,Engineering,Engineer
+1230,,Abila Zacharo,8.83,2014-01-15,Felix Balas,3.0,Engineering,Engineer
+1231,,Hippokampos,10.55,2014-01-16,Felix Balas,3.0,Engineering,Engineer
+1232,,Kalami Kafenion,31.38,2014-01-16,Felix Balas,3.0,Engineering,Engineer
+1233,,Kalami Kafenion,11.14,2014-01-18,Felix Balas,3.0,Engineering,Engineer
+1234,2014-01-06 12:00:00,Brewed Awakenings,5.72,2014-01-06,Ingrid Barranco,4.0,Executive,SVP/CFO
+1235,2014-01-06 13:27:00,Abila Zacharo,30.08,2014-01-06,Ingrid Barranco,4.0,Executive,SVP/CFO
+1236,2014-01-06 20:52:00,Hippokampos,17.27,2014-01-06,Ingrid Barranco,4.0,Executive,SVP/CFO
+1237,2014-01-07 12:00:00,Brewed Awakenings,12.17,2014-01-07,Ingrid Barranco,4.0,Executive,SVP/CFO
+1238,2014-01-07 13:33:00,Abila Zacharo,52.72,2014-01-07,Ingrid Barranco,4.0,Executive,SVP/CFO
+1239,2014-01-07 21:21:00,Hippokampos,35.85,2014-01-07,Ingrid Barranco,4.0,Executive,SVP/CFO
+1240,2014-01-08 12:00:00,Brewed Awakenings,11.73,2014-01-08,Ingrid Barranco,4.0,Executive,SVP/CFO
+1241,2014-01-08 20:53:00,Hippokampos,26.31,2014-01-08,Ingrid Barranco,4.0,Executive,SVP/CFO
+1242,2014-01-09 12:00:00,Brewed Awakenings,11.76,2014-01-09,Ingrid Barranco,4.0,Executive,SVP/CFO
+1243,2014-01-09 13:21:00,Ouzeri Elian,26.09,2014-01-09,Ingrid Barranco,4.0,Executive,SVP/CFO
+1244,2014-01-10 09:30:00,Kronos Mart,203.91,2014-01-10,Ingrid Barranco,4.0,Executive,SVP/CFO
+1245,2014-01-10 12:00:00,Brewed Awakenings,13.82,2014-01-10,Ingrid Barranco,4.0,Executive,SVP/CFO
+1246,2014-01-10 13:30:00,Katerina’s Café,34.76,2014-01-10,Ingrid Barranco,4.0,Executive,SVP/CFO
+1247,2014-01-10 20:09:00,Hippokampos,70.48,2014-01-10,Ingrid Barranco,4.0,Executive,SVP/CFO
+1248,2014-01-11 13:47:00,Hippokampos,31.1,2014-01-11,Ingrid Barranco,4.0,Executive,SVP/CFO
+1249,2014-01-11 16:09:00,Frydos Autosupply n' More,52.73,2014-01-11,Ingrid Barranco,4.0,Executive,SVP/CFO
+1250,2014-01-11 19:26:00,Hippokampos,66.21,2014-01-11,Ingrid Barranco,4.0,Executive,SVP/CFO
+1251,2014-01-12 14:13:00,Desafio Golf Course,220.77,2014-01-12,Ingrid Barranco,4.0,Executive,SVP/CFO
+1252,2014-01-12 20:38:00,Hippokampos,63.32,2014-01-12,Ingrid Barranco,4.0,Executive,SVP/CFO
+1253,2014-01-13 12:00:00,Brewed Awakenings,12.69,2014-01-13,Ingrid Barranco,4.0,Executive,SVP/CFO
+1254,2014-01-13 20:35:00,Albert's Fine Clothing,288.0,2014-01-13,Ingrid Barranco,4.0,Executive,SVP/CFO
+1255,2014-01-14 12:00:00,Brewed Awakenings,17.14,2014-01-14,Ingrid Barranco,4.0,Executive,SVP/CFO
+1256,2014-01-14 13:25:00,Hippokampos,23.69,2014-01-14,Ingrid Barranco,4.0,Executive,SVP/CFO
+1257,2014-01-15 13:26:00,Abila Zacharo,23.51,2014-01-15,Ingrid Barranco,4.0,Executive,SVP/CFO
+1258,2014-01-15 20:16:00,Hippokampos,11.8,2014-01-15,Ingrid Barranco,4.0,Executive,SVP/CFO
+1259,2014-01-16 12:00:00,Brewed Awakenings,17.91,2014-01-16,Ingrid Barranco,4.0,Executive,SVP/CFO
+1260,2014-01-16 13:19:00,Katerina’s Café,27.82,2014-01-16,Ingrid Barranco,4.0,Executive,SVP/CFO
+1261,2014-01-16 21:13:00,Hippokampos,20.84,2014-01-16,Ingrid Barranco,4.0,Executive,SVP/CFO
+1262,2014-01-17 12:00:00,Brewed Awakenings,8.16,2014-01-17,Ingrid Barranco,4.0,Executive,SVP/CFO
+1263,2014-01-17 13:18:00,Guy's Gyros,8.64,2014-01-17,Ingrid Barranco,4.0,Executive,SVP/CFO
+1264,2014-01-17 20:54:00,Hippokampos,11.93,2014-01-17,Ingrid Barranco,4.0,Executive,SVP/CFO
+1265,2014-01-18 14:03:00,Katerina’s Café,96.36,2014-01-18,Ingrid Barranco,4.0,Executive,SVP/CFO
+1266,2014-01-18 19:46:00,Roberts and Sons,125.35,2014-01-18,Ingrid Barranco,4.0,Executive,SVP/CFO
+1267,2014-01-19 12:57:00,Desafio Golf Course,145.72,2014-01-19,Ingrid Barranco,4.0,Executive,SVP/CFO
+1268,,Abila Zacharo,12.72,2014-01-07,Ingrid Barranco,4.0,Executive,SVP/CFO
+1269,,Hippokampos,15.85,2014-01-07,Ingrid Barranco,4.0,Executive,SVP/CFO
+1270,,Ouzeri Elian,32.61,2014-01-08,Ingrid Barranco,4.0,Executive,SVP/CFO
+1271,,Kronos Mart,203.91,2014-01-09,Ingrid Barranco,4.0,Executive,SVP/CFO
+1272,,Hippokampos,10.48,2014-01-10,Ingrid Barranco,4.0,Executive,SVP/CFO
+1273,,Hippokampos,20.87,2014-01-11,Ingrid Barranco,4.0,Executive,SVP/CFO
+1274,,Desafio Golf Course,160.77,2014-01-12,Ingrid Barranco,4.0,Executive,SVP/CFO
+1275,,Abila Zacharo,36.14,2014-01-13,Ingrid Barranco,4.0,Executive,SVP/CFO
+1276,,Brewed Awakenings,15.75,2014-01-15,Ingrid Barranco,4.0,Executive,SVP/CFO
+1277,2014-01-06 12:00:00,Jack's Magical Beans,11.03,2014-01-06,Isak Baza,5.0,Information Technology,IT Technician
+1278,2014-01-06 13:46:00,Katerina’s Café,18.56,2014-01-06,Isak Baza,5.0,Information Technology,IT Technician
+1279,2014-01-07 12:00:00,Jack's Magical Beans,23.68,2014-01-07,Isak Baza,5.0,Information Technology,IT Technician
+1280,2014-01-07 13:25:00,Abila Zacharo,82.25,2014-01-07,Isak Baza,5.0,Information Technology,IT Technician
+1281,2014-01-08 12:00:00,Jack's Magical Beans,3.96,2014-01-08,Isak Baza,5.0,Information Technology,IT Technician
+1282,2014-01-08 13:28:00,Katerina’s Café,8.53,2014-01-08,Isak Baza,5.0,Information Technology,IT Technician
+1283,2014-01-08 21:17:00,Ouzeri Elian,29.85,2014-01-08,Isak Baza,5.0,Information Technology,IT Technician
+1284,2014-01-09 12:00:00,Jack's Magical Beans,10.11,2014-01-09,Isak Baza,5.0,Information Technology,IT Technician
+1285,2014-01-09 13:23:00,Gelatogalore,8.6,2014-01-09,Isak Baza,5.0,Information Technology,IT Technician
+1286,2014-01-09 19:42:00,Ouzeri Elian,27.08,2014-01-09,Isak Baza,5.0,Information Technology,IT Technician
+1287,2014-01-10 12:00:00,Jack's Magical Beans,15.69,2014-01-10,Isak Baza,5.0,Information Technology,IT Technician
+1288,2014-01-10 13:29:00,Abila Zacharo,113.33,2014-01-10,Isak Baza,5.0,Information Technology,IT Technician
+1289,2014-01-10 18:52:00,Ouzeri Elian,19.92,2014-01-10,Isak Baza,5.0,Information Technology,IT Technician
+1290,2014-01-11 19:21:00,Ouzeri Elian,69.36,2014-01-11,Isak Baza,5.0,Information Technology,IT Technician
+1291,2014-01-12 19:59:00,Ouzeri Elian,55.55,2014-01-12,Isak Baza,5.0,Information Technology,IT Technician
+1292,2014-01-13 12:00:00,Jack's Magical Beans,18.31,2014-01-13,Isak Baza,5.0,Information Technology,IT Technician
+1293,2014-01-13 13:34:00,Katerina’s Café,26.15,2014-01-13,Isak Baza,5.0,Information Technology,IT Technician
+1294,2014-01-14 08:20:00,Kronos Mart,58.85,2014-01-14,Isak Baza,5.0,Information Technology,IT Technician
+1295,2014-01-14 13:41:00,Ouzeri Elian,79.58,2014-01-14,Isak Baza,5.0,Information Technology,IT Technician
+1296,2014-01-14 20:32:00,Ouzeri Elian,11.86,2014-01-14,Isak Baza,5.0,Information Technology,IT Technician
+1297,2014-01-15 12:00:00,Jack's Magical Beans,11.15,2014-01-15,Isak Baza,5.0,Information Technology,IT Technician
+1298,2014-01-15 13:24:00,Hippokampos,13.0,2014-01-15,Isak Baza,5.0,Information Technology,IT Technician
+1299,2014-01-15 20:29:00,Ouzeri Elian,23.18,2014-01-15,Isak Baza,5.0,Information Technology,IT Technician
+1300,2014-01-16 12:00:00,Jack's Magical Beans,9.12,2014-01-16,Isak Baza,5.0,Information Technology,IT Technician
+1301,2014-01-16 13:26:00,Hippokampos,36.17,2014-01-16,Isak Baza,5.0,Information Technology,IT Technician
+1302,2014-01-16 20:25:00,Ouzeri Elian,23.89,2014-01-16,Isak Baza,5.0,Information Technology,IT Technician
+1303,2014-01-17 12:00:00,Jack's Magical Beans,7.57,2014-01-17,Isak Baza,5.0,Information Technology,IT Technician
+1304,2014-01-17 19:40:00,Ouzeri Elian,38.6,2014-01-17,Isak Baza,5.0,Information Technology,IT Technician
+1305,2014-01-18 19:21:00,Ouzeri Elian,57.63,2014-01-18,Isak Baza,5.0,Information Technology,IT Technician
+1306,2014-01-19 19:48:00,Ouzeri Elian,67.98,2014-01-19,Isak Baza,5.0,Information Technology,IT Technician
+1307,,Abila Zacharo,22.25,2014-01-07,Isak Baza,5.0,Information Technology,IT Technician
+1308,,Jack's Magical Beans,3.68,2014-01-07,Isak Baza,5.0,Information Technology,IT Technician
+1309,,Abila Zacharo,33.33,2014-01-10,Isak Baza,5.0,Information Technology,IT Technician
+1310,,Jack's Magical Beans,13.32,2014-01-14,Isak Baza,5.0,Information Technology,IT Technician
+1311,2014-01-06 12:00:00,Brewed Awakenings,16.89,2014-01-06,Isande Borrasca,7.0,Engineering,Drill Technician
+1312,2014-01-06 13:22:00,Ouzeri Elian,38.9,2014-01-06,Isande Borrasca,7.0,Engineering,Drill Technician
+1313,2014-01-07 12:00:00,Brewed Awakenings,71.59,2014-01-07,Isande Borrasca,7.0,Engineering,Drill Technician
+1314,2014-01-07 21:03:00,Hippokampos,21.2,2014-01-07,Isande Borrasca,7.0,Engineering,Drill Technician
+1315,2014-01-08 12:00:00,Brewed Awakenings,12.32,2014-01-08,Isande Borrasca,7.0,Engineering,Drill Technician
+1316,2014-01-08 12:56:00,Chostus Hotel,107.51,2014-01-08,Isande Borrasca,7.0,Engineering,Drill Technician
+1317,2014-01-08 19:28:00,Hippokampos,16.54,2014-01-08,Isande Borrasca,7.0,Engineering,Drill Technician
+1318,2014-01-09 12:00:00,Brewed Awakenings,13.16,2014-01-09,Isande Borrasca,7.0,Engineering,Drill Technician
+1319,2014-01-09 13:23:00,Gelatogalore,56.74,2014-01-09,Isande Borrasca,7.0,Engineering,Drill Technician
+1320,2014-01-09 20:05:00,Hippokampos,15.02,2014-01-09,Isande Borrasca,7.0,Engineering,Drill Technician
+1321,2014-01-10 12:00:00,Brewed Awakenings,6.17,2014-01-10,Isande Borrasca,7.0,Engineering,Drill Technician
+1322,2014-01-10 13:11:00,Chostus Hotel,197.41,2014-01-10,Isande Borrasca,7.0,Engineering,Drill Technician
+1323,2014-01-11 13:33:00,Abila Zacharo,89.54,2014-01-11,Isande Borrasca,7.0,Engineering,Drill Technician
+1324,2014-01-11 19:40:00,Katerina’s Café,57.36,2014-01-11,Isande Borrasca,7.0,Engineering,Drill Technician
+1325,2014-01-12 13:52:00,Kalami Kafenion,54.36,2014-01-12,Isande Borrasca,7.0,Engineering,Drill Technician
+1326,2014-01-12 20:15:00,Hippokampos,69.41,2014-01-12,Isande Borrasca,7.0,Engineering,Drill Technician
+1327,2014-01-13 12:00:00,Brewed Awakenings,56.4,2014-01-13,Isande Borrasca,7.0,Engineering,Drill Technician
+1328,2014-01-13 13:33:00,Guy's Gyros,27.49,2014-01-13,Isande Borrasca,7.0,Engineering,Drill Technician
+1329,2014-01-14 12:00:00,Brewed Awakenings,8.3,2014-01-14,Isande Borrasca,7.0,Engineering,Drill Technician
+1330,2014-01-14 13:17:00,Chostus Hotel,109.54,2014-01-14,Isande Borrasca,7.0,Engineering,Drill Technician
+1331,2014-01-14 21:31:00,Hippokampos,22.13,2014-01-14,Isande Borrasca,7.0,Engineering,Drill Technician
+1332,2014-01-15 12:00:00,Brewed Awakenings,91.62,2014-01-15,Isande Borrasca,7.0,Engineering,Drill Technician
+1333,2014-01-15 13:41:00,Hippokampos,82.61,2014-01-15,Isande Borrasca,7.0,Engineering,Drill Technician
+1334,2014-01-15 19:52:00,Frydos Autosupply n' More,18.91,2014-01-15,Isande Borrasca,7.0,Engineering,Drill Technician
+1335,2014-01-16 12:00:00,Brewed Awakenings,6.53,2014-01-16,Isande Borrasca,7.0,Engineering,Drill Technician
+1336,2014-01-16 13:30:00,Hippokampos,10.38,2014-01-16,Isande Borrasca,7.0,Engineering,Drill Technician
+1337,2014-01-17 12:00:00,Brewed Awakenings,88.69,2014-01-17,Isande Borrasca,7.0,Engineering,Drill Technician
+1338,2014-01-17 13:54:00,Chostus Hotel,159.62,2014-01-17,Isande Borrasca,7.0,Engineering,Drill Technician
+1339,2014-01-17 20:03:00,Hippokampos,8.92,2014-01-17,Isande Borrasca,7.0,Engineering,Drill Technician
+1340,2014-01-18 13:05:00,Abila Zacharo,25.59,2014-01-18,Isande Borrasca,7.0,Engineering,Drill Technician
+1341,2014-01-19 20:02:00,Albert's Fine Clothing,254.29,2014-01-19,Isande Borrasca,7.0,Engineering,Drill Technician
+1342,,Brewed Awakenings,11.59,2014-01-07,Isande Borrasca,7.0,Engineering,Drill Technician
+1343,,Guy's Gyros,34.09,2014-01-07,Isande Borrasca,7.0,Engineering,Drill Technician
+1344,,Gelatogalore,16.74,2014-01-09,Isande Borrasca,7.0,Engineering,Drill Technician
+1345,,Hippokampos,29.41,2014-01-12,Isande Borrasca,7.0,Engineering,Drill Technician
+1346,,Kalami Kafenion,26.04,2014-01-12,Isande Borrasca,7.0,Engineering,Drill Technician
+1347,,Brewed Awakenings,16.4,2014-01-13,Isande Borrasca,7.0,Engineering,Drill Technician
+1348,,Brewed Awakenings,11.62,2014-01-15,Isande Borrasca,7.0,Engineering,Drill Technician
+1349,,Hippokampos,22.61,2014-01-15,Isande Borrasca,7.0,Engineering,Drill Technician
+1350,,Brewed Awakenings,8.69,2014-01-17,Isande Borrasca,7.0,Engineering,Drill Technician
+1351,,Chostus Hotel,119.62,2014-01-17,Isande Borrasca,7.0,Engineering,Drill Technician
+1352,,Abila Zacharo,73.25,2014-01-18,Isande Borrasca,7.0,Engineering,Drill Technician
+1353,,Roberts and Sons,239.65,2014-01-18,Isande Borrasca,7.0,Engineering,Drill Technician
+1354,2014-01-06 12:00:00,Bean There Done That,8.54,2014-01-06,Axel Calzas,9.0,Engineering,Drill Technician
+1355,2014-01-06 13:57:00,Hippokampos,8.64,2014-01-06,Axel Calzas,9.0,Engineering,Drill Technician
+1356,2014-01-06 20:36:00,Hippokampos,26.8,2014-01-06,Axel Calzas,9.0,Engineering,Drill Technician
+1357,2014-01-07 12:00:00,Bean There Done That,53.89,2014-01-07,Axel Calzas,9.0,Engineering,Drill Technician
+1358,2014-01-07 13:45:00,Kalami Kafenion,22.83,2014-01-07,Axel Calzas,9.0,Engineering,Drill Technician
+1359,2014-01-07 20:01:00,Hippokampos,20.17,2014-01-07,Axel Calzas,9.0,Engineering,Drill Technician
+1360,2014-01-08 12:00:00,Bean There Done That,8.06,2014-01-08,Axel Calzas,9.0,Engineering,Drill Technician
+1361,2014-01-08 13:47:00,Katerina’s Café,27.05,2014-01-08,Axel Calzas,9.0,Engineering,Drill Technician
+1362,2014-01-09 12:00:00,Bean There Done That,4.06,2014-01-09,Axel Calzas,9.0,Engineering,Drill Technician
+1363,2014-01-09 14:06:00,Katerina’s Café,8.01,2014-01-09,Axel Calzas,9.0,Engineering,Drill Technician
+1364,2014-01-09 20:15:00,Hippokampos,70.68,2014-01-09,Axel Calzas,9.0,Engineering,Drill Technician
+1365,2014-01-10 12:00:00,Bean There Done That,13.41,2014-01-10,Axel Calzas,9.0,Engineering,Drill Technician
+1366,2014-01-10 13:50:00,Ouzeri Elian,15.25,2014-01-10,Axel Calzas,9.0,Engineering,Drill Technician
+1367,2014-01-11 19:33:00,Hippokampos,11.13,2014-01-11,Axel Calzas,9.0,Engineering,Drill Technician
+1368,2014-01-12 19:58:00,Albert's Fine Clothing,63.36,2014-01-12,Axel Calzas,9.0,Engineering,Drill Technician
+1369,2014-01-13 12:00:00,Bean There Done That,19.56,2014-01-13,Axel Calzas,9.0,Engineering,Drill Technician
+1370,2014-01-13 14:06:00,Ouzeri Elian,29.75,2014-01-13,Axel Calzas,9.0,Engineering,Drill Technician
+1371,2014-01-14 12:00:00,Bean There Done That,14.56,2014-01-14,Axel Calzas,9.0,Engineering,Drill Technician
+1372,2014-01-14 13:49:00,Gelatogalore,70.98,2014-01-14,Axel Calzas,9.0,Engineering,Drill Technician
+1373,2014-01-15 12:00:00,Bean There Done That,93.13,2014-01-15,Axel Calzas,9.0,Engineering,Drill Technician
+1374,2014-01-15 13:42:00,Hippokampos,32.4,2014-01-15,Axel Calzas,9.0,Engineering,Drill Technician
+1375,2014-01-15 20:24:00,Hippokampos,16.37,2014-01-15,Axel Calzas,9.0,Engineering,Drill Technician
+1376,2014-01-16 12:00:00,Bean There Done That,5.56,2014-01-16,Axel Calzas,9.0,Engineering,Drill Technician
+1377,2014-01-16 14:05:00,Guy's Gyros,32.8,2014-01-16,Axel Calzas,9.0,Engineering,Drill Technician
+1378,2014-01-16 20:45:00,Shoppers' Delight,160.69,2014-01-16,Axel Calzas,9.0,Engineering,Drill Technician
+1379,2014-01-17 12:00:00,Bean There Done That,19.56,2014-01-17,Axel Calzas,9.0,Engineering,Drill Technician
+1380,2014-01-17 13:58:00,Hippokampos,21.81,2014-01-17,Axel Calzas,9.0,Engineering,Drill Technician
+1381,2014-01-18 13:21:00,Hippokampos,100.11,2014-01-18,Axel Calzas,9.0,Engineering,Drill Technician
+1382,2014-01-18 15:51:00,Frydos Autosupply n' More,103.55,2014-01-18,Axel Calzas,9.0,Engineering,Drill Technician
+1383,2014-01-18 20:23:00,Hippokampos,29.21,2014-01-18,Axel Calzas,9.0,Engineering,Drill Technician
+1384,,Bean There Done That,13.89,2014-01-07,Axel Calzas,9.0,Engineering,Drill Technician
+1385,,Hippokampos,12.62,2014-01-08,Axel Calzas,9.0,Engineering,Drill Technician
+1386,,Gelatogalore,10.98,2014-01-14,Axel Calzas,9.0,Engineering,Drill Technician
+1387,,Hippokampos,10.71,2014-01-14,Axel Calzas,9.0,Engineering,Drill Technician
+1388,,Bean There Done That,13.13,2014-01-15,Axel Calzas,9.0,Engineering,Drill Technician
+1389,,Shoppers' Delight,100.69,2014-01-16,Axel Calzas,9.0,Engineering,Drill Technician
+1390,,Hippokampos,10.14,2014-01-17,Axel Calzas,9.0,Engineering,Drill Technician
+1391,,Hippokampos,20.11,2014-01-18,Axel Calzas,9.0,Engineering,Drill Technician
+1392,,Hippokampos,11.56,2014-01-19,Axel Calzas,9.0,Engineering,Drill Technician
+1393,2014-01-06 12:00:00,Brewed Awakenings,4.35,2014-01-06,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1394,2014-01-06 12:56:00,Katerina’s Café,13.68,2014-01-06,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1395,2014-01-06 21:52:00,Hippokampos,20.61,2014-01-06,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1396,2014-01-07 12:00:00,Brewed Awakenings,6.72,2014-01-07,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1397,2014-01-07 13:20:00,Gelatogalore,35.06,2014-01-07,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1398,2014-01-07 21:51:00,Hippokampos,22.18,2014-01-07,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1399,2014-01-08 12:00:00,Brewed Awakenings,15.03,2014-01-08,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1400,2014-01-08 13:12:00,Hippokampos,26.55,2014-01-08,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1401,2014-01-08 20:49:00,Hippokampos,15.64,2014-01-08,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1402,2014-01-09 12:00:00,Brewed Awakenings,17.66,2014-01-09,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1403,2014-01-09 12:59:00,Ouzeri Elian,31.03,2014-01-09,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1404,2014-01-09 21:27:00,Albert's Fine Clothing,229.98,2014-01-09,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1405,2014-01-10 12:00:00,Brewed Awakenings,13.9,2014-01-10,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1406,2014-01-10 20:50:00,Hippokampos,17.21,2014-01-10,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1407,2014-01-11 19:45:00,Hippokampos,63.21,2014-01-11,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1408,2014-01-12 13:03:00,Ouzeri Elian,38.55,2014-01-12,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1409,2014-01-12 14:14:00,Desafio Golf Course,198.46,2014-01-12,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1410,2014-01-12 19:44:00,Hippokampos,26.79,2014-01-12,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1411,2014-01-13 12:00:00,Brewed Awakenings,16.25,2014-01-13,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1412,2014-01-13 13:19:00,Gelatogalore,46.45,2014-01-13,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1413,2014-01-13 21:12:00,Hippokampos,31.47,2014-01-13,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1414,2014-01-14 12:00:00,Brewed Awakenings,11.35,2014-01-14,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1415,2014-01-14 13:24:00,Kalami Kafenion,15.15,2014-01-14,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1416,2014-01-14 20:48:00,Hippokampos,43.56,2014-01-14,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1417,2014-01-15 12:00:00,Brewed Awakenings,3.62,2014-01-15,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1418,2014-01-15 13:12:00,Hippokampos,36.7,2014-01-15,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1419,2014-01-15 20:10:00,Shoppers' Delight,162.0,2014-01-15,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1420,2014-01-16 12:00:00,Brewed Awakenings,6.39,2014-01-16,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1421,2014-01-16 13:19:00,Hippokampos,17.66,2014-01-16,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1422,2014-01-16 20:58:00,Hippokampos,12.47,2014-01-16,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1423,2014-01-17 12:00:00,Brewed Awakenings,6.0,2014-01-17,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1424,2014-01-17 13:11:00,Abila Zacharo,68.78,2014-01-17,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1425,2014-01-18 19:42:00,Hippokampos,63.21,2014-01-18,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1426,2014-01-19 03:48:00,Kronos Mart,150.36,2014-01-19,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1427,2014-01-19 13:51:00,Desafio Golf Course,190.91,2014-01-19,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1428,2014-01-19 19:43:00,Hippokampos,48.23,2014-01-19,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1429,,Hippokampos,30.63,2014-01-10,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1430,,Gelatogalore,26.45,2014-01-13,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1431,,Hippokampos,23.56,2014-01-14,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1432,,Shoppers' Delight,102.0,2014-01-15,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1433,,Abila Zacharo,8.78,2014-01-17,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1434,,Hippokampos,14.93,2014-01-17,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1435,,Kalami Kafenion,42.36,2014-01-18,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1436,,Kronos Mart,150.36,2014-01-18,Ada Campo-Corrente,10.0,Executive,SVP/CIO
+1437,2014-01-06 12:00:00,Bean There Done That,5.24,2014-01-06,Gustav Cazar,11.0,Engineering,Hydraulic Technician
+1438,2014-01-06 13:47:00,Kalami Kafenion,22.13,2014-01-06,Gustav Cazar,11.0,Engineering,Hydraulic Technician
+1439,2014-01-06 20:20:00,Hippokampos,35.34,2014-01-06,Gustav Cazar,11.0,Engineering,Hydraulic Technician
+1440,2014-01-07 12:00:00,Bean There Done That,8.03,2014-01-07,Gustav Cazar,11.0,Engineering,Hydraulic Technician
+1441,2014-01-07 13:56:00,Ouzeri Elian,16.2,2014-01-07,Gustav Cazar,11.0,Engineering,Hydraulic Technician
+1442,2014-01-07 20:34:00,Hippokampos,70.19,2014-01-07,Gustav Cazar,11.0,Engineering,Hydraulic Technician
+1443,2014-01-08 12:00:00,Bean There Done That,94.96,2014-01-08,Gustav Cazar,11.0,Engineering,Hydraulic Technician
+1444,2014-01-08 13:31:00,Hippokampos,37.89,2014-01-08,Gustav Cazar,11.0,Engineering,Hydraulic Technician
+1445,2014-01-09 12:00:00,Bean There Done That,15.53,2014-01-09,Gustav Cazar,11.0,Engineering,Hydraulic Technician
+1446,2014-01-09 13:37:00,Hippokampos,9.12,2014-01-09,Gustav Cazar,11.0,Engineering,Hydraulic Technician
+1447,2014-01-09 20:21:00,Frydos Autosupply n' More,120.65,2014-01-09,Gustav Cazar,11.0,Engineering,Hydraulic Technician
+1448,2014-01-10 12:00:00,Bean There Done That,18.67,2014-01-10,Gustav Cazar,11.0,Engineering,Hydraulic Technician
+1449,2014-01-10 13:52:00,Guy's Gyros,31.05,2014-01-10,Gustav Cazar,11.0,Engineering,Hydraulic Technician
+1450,2014-01-11 13:50:00,Katerina’s Café,23.45,2014-01-11,Gustav Cazar,11.0,Engineering,Hydraulic Technician
+1451,2014-01-12 19:22:00,Hippokampos,27.15,2014-01-12,Gustav Cazar,11.0,Engineering,Hydraulic Technician
+1452,2014-01-13 12:00:00,Bean There Done That,5.54,2014-01-13,Gustav Cazar,11.0,Engineering,Hydraulic Technician
+1453,2014-01-13 13:34:00,Abila Zacharo,27.3,2014-01-13,Gustav Cazar,11.0,Engineering,Hydraulic Technician
+1454,2014-01-13 20:42:00,Albert's Fine Clothing,49.48,2014-01-13,Gustav Cazar,11.0,Engineering,Hydraulic Technician
+1455,2014-01-14 12:00:00,Bean There Done That,67.82,2014-01-14,Gustav Cazar,11.0,Engineering,Hydraulic Technician
+1456,2014-01-14 13:51:00,Kalami Kafenion,15.27,2014-01-14,Gustav Cazar,11.0,Engineering,Hydraulic Technician
+1457,2014-01-15 12:00:00,Bean There Done That,18.96,2014-01-15,Gustav Cazar,11.0,Engineering,Hydraulic Technician
+1458,2014-01-15 13:31:00,Ouzeri Elian,36.47,2014-01-15,Gustav Cazar,11.0,Engineering,Hydraulic Technician
+1459,2014-01-15 20:23:00,Hippokampos,10.35,2014-01-15,Gustav Cazar,11.0,Engineering,Hydraulic Technician
+1460,2014-01-16 12:00:00,Bean There Done That,98.34,2014-01-16,Gustav Cazar,11.0,Engineering,Hydraulic Technician
+1461,2014-01-16 13:43:00,Hippokampos,14.89,2014-01-16,Gustav Cazar,11.0,Engineering,Hydraulic Technician
+1462,2014-01-16 20:13:00,Hippokampos,29.13,2014-01-16,Gustav Cazar,11.0,Engineering,Hydraulic Technician
+1463,2014-01-17 12:00:00,Bean There Done That,18.72,2014-01-17,Gustav Cazar,11.0,Engineering,Hydraulic Technician
+1464,2014-01-17 13:48:00,Katerina’s Café,13.11,2014-01-17,Gustav Cazar,11.0,Engineering,Hydraulic Technician
+1465,2014-01-17 19:44:00,Albert's Fine Clothing,39.41,2014-01-17,Gustav Cazar,11.0,Engineering,Hydraulic Technician
+1466,2014-01-18 13:58:00,Kalami Kafenion,24.14,2014-01-18,Gustav Cazar,11.0,Engineering,Hydraulic Technician
+1467,2014-01-18 19:21:00,Hippokampos,21.34,2014-01-18,Gustav Cazar,11.0,Engineering,Hydraulic Technician
+1468,2014-01-19 19:44:00,Hippokampos,88.27,2014-01-19,Gustav Cazar,11.0,Engineering,Hydraulic Technician
+1469,,Hippokampos,10.19,2014-01-07,Gustav Cazar,11.0,Engineering,Hydraulic Technician
+1470,,Bean There Done That,14.96,2014-01-08,Gustav Cazar,11.0,Engineering,Hydraulic Technician
+1471,,Frydos Autosupply n' More,60.65,2014-01-09,Gustav Cazar,11.0,Engineering,Hydraulic Technician
+1472,,Bean There Done That,7.82,2014-01-14,Gustav Cazar,11.0,Engineering,Hydraulic Technician
+1473,2014-01-06 12:00:00,Bean There Done That,4.27,2014-01-06,Vira Frente,19.0,Engineering,Hydraulic Technician
+1474,2014-01-06 13:42:00,Ouzeri Elian,20.4,2014-01-06,Vira Frente,19.0,Engineering,Hydraulic Technician
+1475,2014-01-06 20:29:00,Hippokampos,85.5,2014-01-06,Vira Frente,19.0,Engineering,Hydraulic Technician
+1476,2014-01-07 12:00:00,Bean There Done That,46.25,2014-01-07,Vira Frente,19.0,Engineering,Hydraulic Technician
+1477,2014-01-07 13:34:00,Ouzeri Elian,64.84,2014-01-07,Vira Frente,19.0,Engineering,Hydraulic Technician
+1478,2014-01-07 20:04:00,Albert's Fine Clothing,308.36,2014-01-07,Vira Frente,19.0,Engineering,Hydraulic Technician
+1479,2014-01-08 13:42:00,Katerina’s Café,57.04,2014-01-08,Vira Frente,19.0,Engineering,Hydraulic Technician
+1480,2014-01-08 20:02:00,Hippokampos,32.66,2014-01-08,Vira Frente,19.0,Engineering,Hydraulic Technician
+1481,2014-01-09 13:27:00,Kalami Kafenion,110.76,2014-01-09,Vira Frente,19.0,Engineering,Hydraulic Technician
+1482,2014-01-09 21:01:00,Hippokampos,24.96,2014-01-09,Vira Frente,19.0,Engineering,Hydraulic Technician
+1483,2014-01-10 12:00:00,Bean There Done That,9.3,2014-01-10,Vira Frente,19.0,Engineering,Hydraulic Technician
+1484,2014-01-10 13:47:00,Katerina’s Café,25.62,2014-01-10,Vira Frente,19.0,Engineering,Hydraulic Technician
+1485,2014-01-10 20:11:00,Albert's Fine Clothing,126.13,2014-01-10,Vira Frente,19.0,Engineering,Hydraulic Technician
+1486,2014-01-11 13:32:00,Katerina’s Café,29.1,2014-01-11,Vira Frente,19.0,Engineering,Hydraulic Technician
+1487,2014-01-12 19:35:00,Hippokampos,49.23,2014-01-12,Vira Frente,19.0,Engineering,Hydraulic Technician
+1488,2014-01-13 12:00:00,Bean There Done That,18.59,2014-01-13,Vira Frente,19.0,Engineering,Hydraulic Technician
+1489,2014-01-14 12:00:00,Bean There Done That,5.9,2014-01-14,Vira Frente,19.0,Engineering,Hydraulic Technician
+1490,2014-01-14 13:22:00,Katerina’s Café,10.03,2014-01-14,Vira Frente,19.0,Engineering,Hydraulic Technician
+1491,2014-01-14 21:04:00,Hippokampos,28.45,2014-01-14,Vira Frente,19.0,Engineering,Hydraulic Technician
+1492,2014-01-15 12:00:00,Bean There Done That,15.24,2014-01-15,Vira Frente,19.0,Engineering,Hydraulic Technician
+1493,2014-01-15 13:45:00,Kalami Kafenion,47.86,2014-01-15,Vira Frente,19.0,Engineering,Hydraulic Technician
+1494,2014-01-15 21:08:00,Hippokampos,101.14,2014-01-15,Vira Frente,19.0,Engineering,Hydraulic Technician
+1495,2014-01-16 12:00:00,Bean There Done That,17.4,2014-01-16,Vira Frente,19.0,Engineering,Hydraulic Technician
+1496,2014-01-16 20:42:00,Hippokampos,114.0,2014-01-16,Vira Frente,19.0,Engineering,Hydraulic Technician
+1497,2014-01-17 12:00:00,Bean There Done That,5.77,2014-01-17,Vira Frente,19.0,Engineering,Hydraulic Technician
+1498,2014-01-18 13:18:00,Ouzeri Elian,33.57,2014-01-18,Vira Frente,19.0,Engineering,Hydraulic Technician
+1499,2014-01-18 15:20:00,Albert's Fine Clothing,35.66,2014-01-18,Vira Frente,19.0,Engineering,Hydraulic Technician
+1500,2014-01-18 19:35:00,Hippokampos,27.21,2014-01-18,Vira Frente,19.0,Engineering,Hydraulic Technician
+1501,2014-01-19 13:09:00,Gelatogalore,22.36,2014-01-19,Vira Frente,19.0,Engineering,Hydraulic Technician
+1502,2014-01-19 15:03:00,General Grocer,70.22,2014-01-19,Vira Frente,19.0,Engineering,Hydraulic Technician
+1503,2014-01-19 19:44:00,Hippokampos,46.32,2014-01-19,Vira Frente,19.0,Engineering,Hydraulic Technician
+1504,,Hippokampos,25.5,2014-01-06,Vira Frente,19.0,Engineering,Hydraulic Technician
+1505,,Albert's Fine Clothing,228.36,2014-01-07,Vira Frente,19.0,Engineering,Hydraulic Technician
+1506,,Bean There Done That,6.25,2014-01-07,Vira Frente,19.0,Engineering,Hydraulic Technician
+1507,,Ouzeri Elian,24.84,2014-01-07,Vira Frente,19.0,Engineering,Hydraulic Technician
+1508,,Bean There Done That,16.18,2014-01-08,Vira Frente,19.0,Engineering,Hydraulic Technician
+1509,,Katerina’s Café,37.04,2014-01-08,Vira Frente,19.0,Engineering,Hydraulic Technician
+1510,,Bean There Done That,4.05,2014-01-09,Vira Frente,19.0,Engineering,Hydraulic Technician
+1511,,Kalami Kafenion,30.76,2014-01-09,Vira Frente,19.0,Engineering,Hydraulic Technician
+1512,,Abila Zacharo,23.03,2014-01-13,Vira Frente,19.0,Engineering,Hydraulic Technician
+1513,,Hippokampos,21.14,2014-01-15,Vira Frente,19.0,Engineering,Hydraulic Technician
+1514,,Kalami Kafenion,27.86,2014-01-15,Vira Frente,19.0,Engineering,Hydraulic Technician
+1515,,Hippokampos,34.0,2014-01-16,Vira Frente,19.0,Engineering,Hydraulic Technician
+1516,,Kalami Kafenion,26.32,2014-01-16,Vira Frente,19.0,Engineering,Hydraulic Technician
+1517,,Abila Zacharo,21.21,2014-01-17,Vira Frente,19.0,Engineering,Hydraulic Technician
+1518,2014-01-06 12:00:00,Jack's Magical Beans,18.59,2014-01-06,Elsa Orilla,28.0,Engineering,Drill Technician
+1519,2014-01-06 19:50:00,Frydos Autosupply n' More,273.87,2014-01-06,Elsa Orilla,28.0,Engineering,Drill Technician
+1520,2014-01-07 12:00:00,Jack's Magical Beans,18.77,2014-01-07,Elsa Orilla,28.0,Engineering,Drill Technician
+1521,2014-01-07 20:15:00,Ouzeri Elian,11.41,2014-01-07,Elsa Orilla,28.0,Engineering,Drill Technician
+1522,2014-01-08 12:00:00,Jack's Magical Beans,18.78,2014-01-08,Elsa Orilla,28.0,Engineering,Drill Technician
+1523,2014-01-09 12:00:00,Jack's Magical Beans,12.13,2014-01-09,Elsa Orilla,28.0,Engineering,Drill Technician
+1524,2014-01-09 19:43:00,Ouzeri Elian,31.07,2014-01-09,Elsa Orilla,28.0,Engineering,Drill Technician
+1525,2014-01-10 12:00:00,Jack's Magical Beans,16.29,2014-01-10,Elsa Orilla,28.0,Engineering,Drill Technician
+1526,2014-01-10 13:35:00,Kalami Kafenion,101.5,2014-01-10,Elsa Orilla,28.0,Engineering,Drill Technician
+1527,2014-01-13 12:00:00,Jack's Magical Beans,5.22,2014-01-13,Elsa Orilla,28.0,Engineering,Drill Technician
+1528,2014-01-14 12:00:00,Jack's Magical Beans,63.36,2014-01-14,Elsa Orilla,28.0,Engineering,Drill Technician
+1529,2014-01-14 20:41:00,Ouzeri Elian,24.06,2014-01-14,Elsa Orilla,28.0,Engineering,Drill Technician
+1530,2014-01-15 12:00:00,Jack's Magical Beans,5.3,2014-01-15,Elsa Orilla,28.0,Engineering,Drill Technician
+1531,2014-01-15 19:18:00,Ouzeri Elian,28.86,2014-01-15,Elsa Orilla,28.0,Engineering,Drill Technician
+1532,2014-01-16 12:00:00,Jack's Magical Beans,14.86,2014-01-16,Elsa Orilla,28.0,Engineering,Drill Technician
+1533,2014-01-16 21:16:00,Ouzeri Elian,29.99,2014-01-16,Elsa Orilla,28.0,Engineering,Drill Technician
+1534,2014-01-17 12:00:00,Jack's Magical Beans,19.11,2014-01-17,Elsa Orilla,28.0,Engineering,Drill Technician
+1535,2014-01-17 20:07:00,Ouzeri Elian,70.21,2014-01-17,Elsa Orilla,28.0,Engineering,Drill Technician
+1536,2014-01-19 13:26:00,Ahaggo Museum,26.91,2014-01-19,Elsa Orilla,28.0,Engineering,Drill Technician
+1537,,Abila Zacharo,50.14,2014-01-06,Elsa Orilla,28.0,Engineering,Drill Technician
+1538,,Frydos Autosupply n' More,253.87,2014-01-06,Elsa Orilla,28.0,Engineering,Drill Technician
+1539,,Kalami Kafenion,45.05,2014-01-07,Elsa Orilla,28.0,Engineering,Drill Technician
+1540,,Gelatogalore,50.36,2014-01-08,Elsa Orilla,28.0,Engineering,Drill Technician
+1541,,Ouzeri Elian,62.2,2014-01-08,Elsa Orilla,28.0,Engineering,Drill Technician
+1542,,Abila Zacharo,48.39,2014-01-09,Elsa Orilla,28.0,Engineering,Drill Technician
+1543,,Kalami Kafenion,50.2,2014-01-11,Elsa Orilla,28.0,Engineering,Drill Technician
+1544,,Gelatogalore,36.2,2014-01-12,Elsa Orilla,28.0,Engineering,Drill Technician
+1545,,Abila Zacharo,64.5,2014-01-13,Elsa Orilla,28.0,Engineering,Drill Technician
+1546,,Guy's Gyros,50.4,2014-01-14,Elsa Orilla,28.0,Engineering,Drill Technician
+1547,,Jack's Magical Beans,3.36,2014-01-14,Elsa Orilla,28.0,Engineering,Drill Technician
+1548,,Katerina’s Café,55.6,2014-01-15,Elsa Orilla,28.0,Engineering,Drill Technician
+1549,,Abila Zacharo,64.71,2014-01-16,Elsa Orilla,28.0,Engineering,Drill Technician
+1550,,Hippokampos,52.31,2014-01-17,Elsa Orilla,28.0,Engineering,Drill Technician
+1551,,Ouzeri Elian,10.21,2014-01-17,Elsa Orilla,28.0,Engineering,Drill Technician
+1552,,Ahaggo Museum,55.55,2014-01-18,Elsa Orilla,28.0,Engineering,Drill Technician
+1553,,Hippokampos,49.21,2014-01-18,Elsa Orilla,28.0,Engineering,Drill Technician
+1554,,Guy's Gyros,23.21,2014-01-19,Elsa Orilla,28.0,Engineering,Drill Technician
+1555,2014-01-06 12:00:00,Jack's Magical Beans,27.84,2014-01-06,Orhan Strum,32.0,Executive,SVP/COO
+1556,2014-01-06 12:57:00,Hippokampos,9.16,2014-01-06,Orhan Strum,32.0,Executive,SVP/COO
+1557,2014-01-06 21:11:00,Hippokampos,28.14,2014-01-06,Orhan Strum,32.0,Executive,SVP/COO
+1558,2014-01-07 12:00:00,Jack's Magical Beans,19.61,2014-01-07,Orhan Strum,32.0,Executive,SVP/COO
+1559,2014-01-07 13:13:00,Guy's Gyros,29.57,2014-01-07,Orhan Strum,32.0,Executive,SVP/COO
+1560,2014-01-07 20:51:00,Hippokampos,32.99,2014-01-07,Orhan Strum,32.0,Executive,SVP/COO
+1561,2014-01-08 12:00:00,Jack's Magical Beans,12.37,2014-01-08,Orhan Strum,32.0,Executive,SVP/COO
+1562,2014-01-08 13:21:00,Ouzeri Elian,109.73,2014-01-08,Orhan Strum,32.0,Executive,SVP/COO
+1563,2014-01-09 12:00:00,Jack's Magical Beans,15.55,2014-01-09,Orhan Strum,32.0,Executive,SVP/COO
+1564,2014-01-09 13:27:00,Katerina’s Café,25.85,2014-01-09,Orhan Strum,32.0,Executive,SVP/COO
+1565,2014-01-09 21:12:00,Hippokampos,23.66,2014-01-09,Orhan Strum,32.0,Executive,SVP/COO
+1566,2014-01-10 12:00:00,Jack's Magical Beans,5.46,2014-01-10,Orhan Strum,32.0,Executive,SVP/COO
+1567,2014-01-10 13:12:00,Guy's Gyros,36.44,2014-01-10,Orhan Strum,32.0,Executive,SVP/COO
+1568,2014-01-10 21:17:00,Hippokampos,27.0,2014-01-10,Orhan Strum,32.0,Executive,SVP/COO
+1569,2014-01-11 13:19:00,Katerina’s Café,45.22,2014-01-11,Orhan Strum,32.0,Executive,SVP/COO
+1570,2014-01-11 19:27:00,Albert's Fine Clothing,105.33,2014-01-11,Orhan Strum,32.0,Executive,SVP/COO
+1571,2014-01-12 03:39:00,Kronos Mart,277.26,2014-01-12,Orhan Strum,32.0,Executive,SVP/COO
+1572,2014-01-12 13:32:00,Ouzeri Elian,117.22,2014-01-12,Orhan Strum,32.0,Executive,SVP/COO
+1573,2014-01-12 19:51:00,Hippokampos,52.21,2014-01-12,Orhan Strum,32.0,Executive,SVP/COO
+1574,2014-01-13 12:00:00,Jack's Magical Beans,9.64,2014-01-13,Orhan Strum,32.0,Executive,SVP/COO
+1575,2014-01-13 13:03:00,Gelatogalore,32.83,2014-01-13,Orhan Strum,32.0,Executive,SVP/COO
+1576,2014-01-13 21:27:00,Hippokampos,99.63,2014-01-13,Orhan Strum,32.0,Executive,SVP/COO
+1577,2014-01-14 12:00:00,Jack's Magical Beans,95.7,2014-01-14,Orhan Strum,32.0,Executive,SVP/COO
+1578,2014-01-14 13:14:00,Katerina’s Café,29.12,2014-01-14,Orhan Strum,32.0,Executive,SVP/COO
+1579,2014-01-15 12:00:00,Jack's Magical Beans,84.06,2014-01-15,Orhan Strum,32.0,Executive,SVP/COO
+1580,2014-01-15 13:08:00,Kalami Kafenion,22.39,2014-01-15,Orhan Strum,32.0,Executive,SVP/COO
+1581,2014-01-15 21:42:00,Hippokampos,37.16,2014-01-15,Orhan Strum,32.0,Executive,SVP/COO
+1582,2014-01-16 12:00:00,Jack's Magical Beans,12.56,2014-01-16,Orhan Strum,32.0,Executive,SVP/COO
+1583,2014-01-16 13:22:00,Hippokampos,26.15,2014-01-16,Orhan Strum,32.0,Executive,SVP/COO
+1584,2014-01-17 13:17:00,Gelatogalore,15.84,2014-01-17,Orhan Strum,32.0,Executive,SVP/COO
+1585,2014-01-18 13:04:00,Abila Zacharo,111.93,2014-01-18,Orhan Strum,32.0,Executive,SVP/COO
+1586,2014-01-18 15:40:00,Shoppers' Delight,258.33,2014-01-18,Orhan Strum,32.0,Executive,SVP/COO
+1587,2014-01-18 18:59:00,Albert's Fine Clothing,226.49,2014-01-18,Orhan Strum,32.0,Executive,SVP/COO
+1588,2014-01-19 12:41:00,Desafio Golf Course,150.07,2014-01-19,Orhan Strum,32.0,Executive,SVP/COO
+1589,,Jack's Magical Beans,7.84,2014-01-06,Orhan Strum,32.0,Executive,SVP/COO
+1590,,Ouzeri Elian,29.73,2014-01-08,Orhan Strum,32.0,Executive,SVP/COO
+1591,,Hippokampos,39.63,2014-01-13,Orhan Strum,32.0,Executive,SVP/COO
+1592,,Jack's Magical Beans,15.7,2014-01-14,Orhan Strum,32.0,Executive,SVP/COO
+1593,,Jack's Magical Beans,4.06,2014-01-15,Orhan Strum,32.0,Executive,SVP/COO
+1594,,Hippokampos,45.32,2014-01-19,Orhan Strum,32.0,Executive,SVP/COO
+1595,2014-01-06 12:00:00,Jack's Magical Beans,18.1,2014-01-06,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1596,2014-01-06 13:46:00,Guy's Gyros,99.67,2014-01-06,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1597,2014-01-07 12:00:00,Jack's Magical Beans,69.84,2014-01-07,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1598,2014-01-07 13:35:00,Gelatogalore,8.98,2014-01-07,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1599,2014-01-07 21:17:00,Hippokampos,37.88,2014-01-07,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1600,2014-01-08 12:00:00,Jack's Magical Beans,31.25,2014-01-08,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1601,2014-01-08 13:23:00,Abila Zacharo,36.85,2014-01-08,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1602,2014-01-08 21:32:00,Hippokampos,78.99,2014-01-08,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1603,2014-01-09 12:00:00,Jack's Magical Beans,37.43,2014-01-09,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1604,2014-01-09 13:32:00,Abila Zacharo,8.6,2014-01-09,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1605,2014-01-09 20:41:00,Hippokampos,9.13,2014-01-09,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1606,2014-01-10 12:00:00,Jack's Magical Beans,8.22,2014-01-10,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1607,2014-01-10 13:40:00,Hippokampos,32.01,2014-01-10,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1608,2014-01-10 22:21:00,Hippokampos,79.97,2014-01-10,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1609,2014-01-12 13:45:00,Desafio Golf Course,129.33,2014-01-12,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1610,2014-01-13 12:00:00,Jack's Magical Beans,17.52,2014-01-13,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1611,2014-01-13 13:40:00,Guy's Gyros,29.25,2014-01-13,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1612,2014-01-13 20:35:00,Hippokampos,29.22,2014-01-13,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1613,2014-01-14 13:33:00,Gelatogalore,39.17,2014-01-14,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1614,2014-01-14 20:22:00,Hippokampos,9.55,2014-01-14,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1615,2014-01-15 12:00:00,Jack's Magical Beans,19.54,2014-01-15,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1616,2014-01-15 13:39:00,Gelatogalore,9.61,2014-01-15,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1617,2014-01-16 12:00:00,Jack's Magical Beans,6.95,2014-01-16,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1618,2014-01-16 13:33:00,Gelatogalore,12.33,2014-01-16,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1619,2014-01-16 20:43:00,Hippokampos,27.74,2014-01-16,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1620,2014-01-17 13:37:00,Kalami Kafenion,105.32,2014-01-17,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1621,2014-01-17 21:29:00,Hippokampos,38.19,2014-01-17,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1622,2014-01-18 13:28:00,Kalami Kafenion,38.91,2014-01-18,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1623,2014-01-18 15:53:00,Frydos Autosupply n' More,120.67,2014-01-18,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1624,2014-01-18 19:36:00,Hippokampos,53.21,2014-01-18,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1625,2014-01-19 15:15:00,Desafio Golf Course,110.02,2014-01-19,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1626,2014-01-19 19:56:00,Hippokampos,63.17,2014-01-19,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1627,,Guy's Gyros,19.67,2014-01-06,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1628,,Jack's Magical Beans,9.84,2014-01-07,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1629,,Hippokampos,18.99,2014-01-08,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1630,,Jack's Magical Beans,11.25,2014-01-08,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1631,,Jack's Magical Beans,17.43,2014-01-09,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1632,,Hippokampos,39.97,2014-01-10,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1633,,Jack's Magical Beans,18.08,2014-01-14,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1634,,General Grocer,83.11,2014-01-15,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1635,,Kalami Kafenion,25.32,2014-01-17,Willem Vasco-Pais,35.0,Executive,Environmental Safety Advisor
+1636,2014-01-06 12:16:00,Abila Airport,1873.79,2014-01-06,Henk Mies,104.0,Facilities,Truck Driver
+1637,2014-01-06 15:39:00,Abila Airport,612.47,2014-01-06,Henk Mies,104.0,Facilities,Truck Driver
+1638,2014-01-07 12:29:00,Abila Airport,124.89,2014-01-07,Henk Mies,104.0,Facilities,Truck Driver
+1639,2014-01-07 15:41:00,Abila Airport,3411.29,2014-01-07,Henk Mies,104.0,Facilities,Truck Driver
+1640,2014-01-08 12:45:00,Abila Airport,2723.18,2014-01-08,Henk Mies,104.0,Facilities,Truck Driver
+1641,2014-01-08 15:29:00,Abila Airport,2769.12,2014-01-08,Henk Mies,104.0,Facilities,Truck Driver
+1642,2014-01-09 12:13:00,Abila Airport,202.93,2014-01-09,Henk Mies,104.0,Facilities,Truck Driver
+1643,2014-01-09 15:50:00,Abila Airport,4538.52,2014-01-09,Henk Mies,104.0,Facilities,Truck Driver
+1644,2014-01-13 12:11:00,Abila Airport,4417.03,2014-01-13,Henk Mies,104.0,Facilities,Truck Driver
+1645,2014-01-13 16:56:00,Abila Airport,2228.08,2014-01-13,Henk Mies,104.0,Facilities,Truck Driver
+1646,2014-01-14 12:30:00,Abila Airport,228.41,2014-01-14,Henk Mies,104.0,Facilities,Truck Driver
+1647,2014-01-14 15:32:00,Abila Airport,4918.39,2014-01-14,Henk Mies,104.0,Facilities,Truck Driver
+1648,2014-01-15 12:25:00,Abila Airport,3152.41,2014-01-15,Henk Mies,104.0,Facilities,Truck Driver
+1649,2014-01-15 15:40:00,Abila Airport,875.87,2014-01-15,Henk Mies,104.0,Facilities,Truck Driver
+1650,2014-01-16 12:40:00,Abila Airport,3917.3,2014-01-16,Henk Mies,104.0,Facilities,Truck Driver
+1651,,Abila Airport,182.93,2014-01-09,Henk Mies,104.0,Facilities,Truck Driver
+1652,,Abila Airport,4898.39,2014-01-14,Henk Mies,104.0,Facilities,Truck Driver
+1653,,Abila Airport,3032.97,2014-01-16,Henk Mies,104.0,Facilities,Truck Driver
+1654,2014-01-06 13:35:00,Abila Zacharo,92.05,2014-01-06,Isia Vann,16.0,Security,Perimeter Control
+1655,2014-01-06 20:49:00,Shoppers' Delight,293.67,2014-01-06,Isia Vann,16.0,Security,Perimeter Control
+1656,2014-01-07 13:20:00,Guy's Gyros,38.56,2014-01-07,Isia Vann,16.0,Security,Perimeter Control
+1657,2014-01-07 20:19:00,Guy's Gyros,89.76,2014-01-07,Isia Vann,16.0,Security,Perimeter Control
+1658,2014-01-08 07:31:00,Brew've Been Served,15.66,2014-01-08,Isia Vann,16.0,Security,Perimeter Control
+1659,2014-01-08 13:44:00,Kalami Kafenion,31.96,2014-01-08,Isia Vann,16.0,Security,Perimeter Control
+1660,2014-01-08 19:36:00,Guy's Gyros,15.69,2014-01-08,Isia Vann,16.0,Security,Perimeter Control
+1661,2014-01-09 07:48:00,Brew've Been Served,34.85,2014-01-09,Isia Vann,16.0,Security,Perimeter Control
+1662,2014-01-09 13:21:00,Guy's Gyros,105.4,2014-01-09,Isia Vann,16.0,Security,Perimeter Control
+1663,2014-01-09 19:41:00,Guy's Gyros,31.81,2014-01-09,Isia Vann,16.0,Security,Perimeter Control
+1664,2014-01-10 07:56:00,Brew've Been Served,90.72,2014-01-10,Isia Vann,16.0,Security,Perimeter Control
+1665,2014-01-10 13:36:00,Katerina’s Café,25.36,2014-01-10,Isia Vann,16.0,Security,Perimeter Control
+1666,2014-01-10 21:11:00,Roberts and Sons,241.2,2014-01-10,Isia Vann,16.0,Security,Perimeter Control
+1667,2014-01-11 20:09:00,Guy's Gyros,16.33,2014-01-11,Isia Vann,16.0,Security,Perimeter Control
+1668,2014-01-12 19:36:00,Guy's Gyros,12.32,2014-01-12,Isia Vann,16.0,Security,Perimeter Control
+1669,2014-01-13 07:53:00,Brew've Been Served,19.64,2014-01-13,Isia Vann,16.0,Security,Perimeter Control
+1670,2014-01-13 13:34:00,Hippokampos,59.9,2014-01-13,Isia Vann,16.0,Security,Perimeter Control
+1671,2014-01-13 20:09:00,Guy's Gyros,22.34,2014-01-13,Isia Vann,16.0,Security,Perimeter Control
+1672,2014-01-14 07:35:00,Brew've Been Served,7.31,2014-01-14,Isia Vann,16.0,Security,Perimeter Control
+1673,2014-01-14 13:32:00,Katerina’s Café,20.95,2014-01-14,Isia Vann,16.0,Security,Perimeter Control
+1674,2014-01-14 21:31:00,Guy's Gyros,26.14,2014-01-14,Isia Vann,16.0,Security,Perimeter Control
+1675,2014-01-15 07:50:00,Brew've Been Served,19.24,2014-01-15,Isia Vann,16.0,Security,Perimeter Control
+1676,2014-01-15 13:41:00,Guy's Gyros,49.34,2014-01-15,Isia Vann,16.0,Security,Perimeter Control
+1677,2014-01-15 20:02:00,Guy's Gyros,28.75,2014-01-15,Isia Vann,16.0,Security,Perimeter Control
+1678,2014-01-16 07:34:00,Brew've Been Served,8.18,2014-01-16,Isia Vann,16.0,Security,Perimeter Control
+1679,2014-01-16 13:44:00,Hippokampos,18.18,2014-01-16,Isia Vann,16.0,Security,Perimeter Control
+1680,2014-01-16 20:52:00,Roberts and Sons,240.66,2014-01-16,Isia Vann,16.0,Security,Perimeter Control
+1681,2014-01-17 07:57:00,Brew've Been Served,10.52,2014-01-17,Isia Vann,16.0,Security,Perimeter Control
+1682,2014-01-17 13:45:00,Abila Zacharo,79.67,2014-01-17,Isia Vann,16.0,Security,Perimeter Control
+1683,2014-01-17 20:41:00,Frydos Autosupply n' More,260.08,2014-01-17,Isia Vann,16.0,Security,Perimeter Control
+1684,2014-01-18 20:09:00,Katerina’s Café,19.31,2014-01-18,Isia Vann,16.0,Security,Perimeter Control
+1685,2014-01-19 13:00:00,Katerina’s Café,35.01,2014-01-19,Isia Vann,16.0,Security,Perimeter Control
+1686,2014-01-19 20:00:00,Guy's Gyros,18.08,2014-01-19,Isia Vann,16.0,Security,Perimeter Control
+1687,,Abila Zacharo,12.05,2014-01-06,Isia Vann,16.0,Security,Perimeter Control
+1688,,Brew've Been Served,10.68,2014-01-06,Isia Vann,16.0,Security,Perimeter Control
+1689,,Brewed Awakenings,12.59,2014-01-07,Isia Vann,16.0,Security,Perimeter Control
+1690,,Guy's Gyros,9.76,2014-01-07,Isia Vann,16.0,Security,Perimeter Control
+1691,,Brew've Been Served,14.85,2014-01-09,Isia Vann,16.0,Security,Perimeter Control
+1692,,Guy's Gyros,25.4,2014-01-09,Isia Vann,16.0,Security,Perimeter Control
+1693,,Brew've Been Served,10.72,2014-01-10,Isia Vann,16.0,Security,Perimeter Control
+1694,,Hippokampos,39.9,2014-01-13,Isia Vann,16.0,Security,Perimeter Control
+1695,,Guy's Gyros,29.34,2014-01-15,Isia Vann,16.0,Security,Perimeter Control
+1696,,Abila Zacharo,39.67,2014-01-17,Isia Vann,16.0,Security,Perimeter Control
+1697,2014-01-06 13:39:00,Guy's Gyros,11.22,2014-01-06,Marin Onda,26.0,Engineering,Drill Site Manager
+1698,2014-01-06 21:32:00,Frydos Autosupply n' More,314.98,2014-01-06,Marin Onda,26.0,Engineering,Drill Site Manager
+1699,2014-01-07 07:47:00,Hallowed Grounds,7.88,2014-01-07,Marin Onda,26.0,Engineering,Drill Site Manager
+1700,2014-01-07 13:30:00,Gelatogalore,51.64,2014-01-07,Marin Onda,26.0,Engineering,Drill Site Manager
+1701,2014-01-07 21:19:00,Katerina’s Café,18.35,2014-01-07,Marin Onda,26.0,Engineering,Drill Site Manager
+1702,2014-01-08 07:39:00,Hallowed Grounds,8.28,2014-01-08,Marin Onda,26.0,Engineering,Drill Site Manager
+1703,2014-01-08 13:34:00,Katerina’s Café,88.98,2014-01-08,Marin Onda,26.0,Engineering,Drill Site Manager
+1704,2014-01-08 20:08:00,Katerina’s Café,31.59,2014-01-08,Marin Onda,26.0,Engineering,Drill Site Manager
+1705,2014-01-09 07:37:00,Hallowed Grounds,17.56,2014-01-09,Marin Onda,26.0,Engineering,Drill Site Manager
+1706,2014-01-09 13:51:00,Hippokampos,13.84,2014-01-09,Marin Onda,26.0,Engineering,Drill Site Manager
+1707,2014-01-09 21:18:00,Katerina’s Café,8.57,2014-01-09,Marin Onda,26.0,Engineering,Drill Site Manager
+1708,2014-01-10 07:41:00,Hallowed Grounds,11.49,2014-01-10,Marin Onda,26.0,Engineering,Drill Site Manager
+1709,2014-01-10 13:36:00,Abila Zacharo,36.73,2014-01-10,Marin Onda,26.0,Engineering,Drill Site Manager
+1710,2014-01-11 13:32:00,Abila Zacharo,54.82,2014-01-11,Marin Onda,26.0,Engineering,Drill Site Manager
+1711,2014-01-11 16:00:00,Roberts and Sons,256.24,2014-01-11,Marin Onda,26.0,Engineering,Drill Site Manager
+1712,2014-01-11 19:51:00,Katerina’s Café,45.68,2014-01-11,Marin Onda,26.0,Engineering,Drill Site Manager
+1713,2014-01-12 13:30:00,Ouzeri Elian,72.32,2014-01-12,Marin Onda,26.0,Engineering,Drill Site Manager
+1714,2014-01-12 15:10:00,Shoppers' Delight,135.78,2014-01-12,Marin Onda,26.0,Engineering,Drill Site Manager
+1715,2014-01-13 07:42:00,Hallowed Grounds,3.02,2014-01-13,Marin Onda,26.0,Engineering,Drill Site Manager
+1716,2014-01-13 13:48:00,Ouzeri Elian,8.32,2014-01-13,Marin Onda,26.0,Engineering,Drill Site Manager
+1717,2014-01-13 20:33:00,Katerina’s Café,91.36,2014-01-13,Marin Onda,26.0,Engineering,Drill Site Manager
+1718,2014-01-14 07:42:00,Hallowed Grounds,4.59,2014-01-14,Marin Onda,26.0,Engineering,Drill Site Manager
+1719,2014-01-14 13:37:00,Abila Zacharo,10.24,2014-01-14,Marin Onda,26.0,Engineering,Drill Site Manager
+1720,2014-01-15 08:00:00,Hallowed Grounds,15.27,2014-01-15,Marin Onda,26.0,Engineering,Drill Site Manager
+1721,2014-01-15 14:00:00,Katerina’s Café,12.12,2014-01-15,Marin Onda,26.0,Engineering,Drill Site Manager
+1722,2014-01-15 20:23:00,Katerina’s Café,39.63,2014-01-15,Marin Onda,26.0,Engineering,Drill Site Manager
+1723,2014-01-16 07:51:00,Hallowed Grounds,9.6,2014-01-16,Marin Onda,26.0,Engineering,Drill Site Manager
+1724,2014-01-16 13:54:00,Hippokampos,8.07,2014-01-16,Marin Onda,26.0,Engineering,Drill Site Manager
+1725,2014-01-17 07:31:00,Hallowed Grounds,3.25,2014-01-17,Marin Onda,26.0,Engineering,Drill Site Manager
+1726,2014-01-17 13:40:00,Gelatogalore,37.3,2014-01-17,Marin Onda,26.0,Engineering,Drill Site Manager
+1727,2014-01-17 20:07:00,Katerina’s Café,21.22,2014-01-17,Marin Onda,26.0,Engineering,Drill Site Manager
+1728,2014-01-18 19:54:00,Katerina’s Café,33.63,2014-01-18,Marin Onda,26.0,Engineering,Drill Site Manager
+1729,2014-01-19 14:01:00,Katerina’s Café,12.78,2014-01-19,Marin Onda,26.0,Engineering,Drill Site Manager
+1730,,Frydos Autosupply n' More,274.98,2014-01-06,Marin Onda,26.0,Engineering,Drill Site Manager
+1731,,Katerina’s Café,11.36,2014-01-13,Marin Onda,26.0,Engineering,Drill Site Manager
+1732,2014-01-07 09:17:00,Abila Airport,3840.37,2014-01-07,Benito Hawelon,101.0,Facilities,Truck Driver
+1733,2014-01-07 10:05:00,Stewart and Sons Fabrication,1200.9,2014-01-07,Benito Hawelon,101.0,Facilities,Truck Driver
+1734,2014-01-07 12:02:00,Nationwide Refinery,1071.04,2014-01-07,Benito Hawelon,101.0,Facilities,Truck Driver
+1735,2014-01-09 09:26:00,Abila Airport,2358.22,2014-01-09,Benito Hawelon,101.0,Facilities,Truck Driver
+1736,2014-01-09 10:38:00,Stewart and Sons Fabrication,1015.65,2014-01-09,Benito Hawelon,101.0,Facilities,Truck Driver
+1737,2014-01-09 12:49:00,Nationwide Refinery,1440.39,2014-01-09,Benito Hawelon,101.0,Facilities,Truck Driver
+1738,2014-01-14 11:01:00,Stewart and Sons Fabrication,600.19,2014-01-14,Benito Hawelon,101.0,Facilities,Truck Driver
+1739,2014-01-14 13:00:00,Nationwide Refinery,1341.01,2014-01-14,Benito Hawelon,101.0,Facilities,Truck Driver
+1740,2014-01-16 09:18:00,Abila Airport,1676.53,2014-01-16,Benito Hawelon,101.0,Facilities,Truck Driver
+1741,2014-01-16 11:06:00,Stewart and Sons Fabrication,940.3,2014-01-16,Benito Hawelon,101.0,Facilities,Truck Driver
+1742,2014-01-16 12:32:00,Nationwide Refinery,2047.28,2014-01-16,Benito Hawelon,101.0,Facilities,Truck Driver
+1743,,Nationwide Refinery,1420.39,2014-01-09,Benito Hawelon,101.0,Facilities,Truck Driver
+1744,,Abila Airport,2369.56,2014-01-14,Benito Hawelon,101.0,Facilities,Truck Driver
+1745,,Nationwide Refinery,1301.01,2014-01-14,Benito Hawelon,101.0,Facilities,Truck Driver
+1746,,Stewart and Sons Fabrication,540.19,2014-01-14,Benito Hawelon,101.0,Facilities,Truck Driver
+1747,,Stewart and Sons Fabrication,860.3,2014-01-16,Benito Hawelon,101.0,Facilities,Truck Driver
+1748,2014-01-07 11:39:00,Nationwide Refinery,1562.66,2014-01-07,Valeria Morlun,105.0,Facilities,Truck Driver
+1749,2014-01-07 13:08:00,Katerina’s Café,59.07,2014-01-07,Valeria Morlun,105.0,Facilities,Truck Driver
+1750,2014-01-07 14:34:00,Carlyle Chemical Inc.,4803.13,2014-01-07,Valeria Morlun,105.0,Facilities,Truck Driver
+1751,2014-01-08 09:43:00,Carlyle Chemical Inc.,3048.31,2014-01-08,Valeria Morlun,105.0,Facilities,Truck Driver
+1752,2014-01-08 13:19:00,Katerina’s Café,29.26,2014-01-08,Valeria Morlun,105.0,Facilities,Truck Driver
+1753,2014-01-08 14:26:00,Carlyle Chemical Inc.,4901.88,2014-01-08,Valeria Morlun,105.0,Facilities,Truck Driver
+1754,2014-01-09 09:54:00,Carlyle Chemical Inc.,529.47,2014-01-09,Valeria Morlun,105.0,Facilities,Truck Driver
+1755,2014-01-09 11:34:00,Nationwide Refinery,289.3,2014-01-09,Valeria Morlun,105.0,Facilities,Truck Driver
+1756,2014-01-09 13:23:00,Katerina’s Café,16.98,2014-01-09,Valeria Morlun,105.0,Facilities,Truck Driver
+1757,2014-01-09 14:26:00,Carlyle Chemical Inc.,382.43,2014-01-09,Valeria Morlun,105.0,Facilities,Truck Driver
+1758,2014-01-09 16:22:00,Carlyle Chemical Inc.,2176.2,2014-01-09,Valeria Morlun,105.0,Facilities,Truck Driver
+1759,2014-01-14 09:34:00,Carlyle Chemical Inc.,3630.57,2014-01-14,Valeria Morlun,105.0,Facilities,Truck Driver
+1760,2014-01-14 11:45:00,Nationwide Refinery,570.95,2014-01-14,Valeria Morlun,105.0,Facilities,Truck Driver
+1761,2014-01-14 13:21:00,Katerina’s Café,34.45,2014-01-14,Valeria Morlun,105.0,Facilities,Truck Driver
+1762,2014-01-14 14:21:00,Carlyle Chemical Inc.,854.88,2014-01-14,Valeria Morlun,105.0,Facilities,Truck Driver
+1763,2014-01-14 16:16:00,Carlyle Chemical Inc.,3470.99,2014-01-14,Valeria Morlun,105.0,Facilities,Truck Driver
+1764,2014-01-15 09:34:00,Carlyle Chemical Inc.,3608.08,2014-01-15,Valeria Morlun,105.0,Facilities,Truck Driver
+1765,2014-01-15 11:55:00,Nationwide Refinery,3004.98,2014-01-15,Valeria Morlun,105.0,Facilities,Truck Driver
+1766,2014-01-15 13:13:00,Katerina’s Café,24.15,2014-01-15,Valeria Morlun,105.0,Facilities,Truck Driver
+1767,2014-01-15 14:25:00,Carlyle Chemical Inc.,1112.04,2014-01-15,Valeria Morlun,105.0,Facilities,Truck Driver
+1768,2014-01-15 17:01:00,Carlyle Chemical Inc.,1392.73,2014-01-15,Valeria Morlun,105.0,Facilities,Truck Driver
+1769,2014-01-16 09:52:00,Carlyle Chemical Inc.,419.93,2014-01-16,Valeria Morlun,105.0,Facilities,Truck Driver
+1770,2014-01-16 11:25:00,Nationwide Refinery,4742.67,2014-01-16,Valeria Morlun,105.0,Facilities,Truck Driver
+1771,2014-01-16 13:23:00,Katerina’s Café,34.9,2014-01-16,Valeria Morlun,105.0,Facilities,Truck Driver
+1772,2014-01-16 17:17:00,Carlyle Chemical Inc.,1814.24,2014-01-16,Valeria Morlun,105.0,Facilities,Truck Driver
+1773,,Carlyle Chemical Inc.,3827.2,2014-01-07,Valeria Morlun,105.0,Facilities,Truck Driver
+1774,,Katerina’s Café,19.07,2014-01-07,Valeria Morlun,105.0,Facilities,Truck Driver
+1775,,Nationwide Refinery,4367.43,2014-01-08,Valeria Morlun,105.0,Facilities,Truck Driver
+1776,,Carlyle Chemical Inc.,794.88,2014-01-14,Valeria Morlun,105.0,Facilities,Truck Driver
+1777,2014-01-07 14:16:00,Abila Scrapyard,2149.28,2014-01-07,Dylan Scozzese,106.0,Facilities,Truck Driver
+1778,2014-01-07 15:03:00,Stewart and Sons Fabrication,962.2,2014-01-07,Dylan Scozzese,106.0,Facilities,Truck Driver
+1779,2014-01-07 16:24:00,Nationwide Refinery,889.58,2014-01-07,Dylan Scozzese,106.0,Facilities,Truck Driver
+1780,2014-01-09 13:18:00,Abila Airport,4792.5,2014-01-09,Dylan Scozzese,106.0,Facilities,Truck Driver
+1781,2014-01-09 14:12:00,Abila Scrapyard,1158.36,2014-01-09,Dylan Scozzese,106.0,Facilities,Truck Driver
+1782,2014-01-09 15:00:00,Stewart and Sons Fabrication,918.6,2014-01-09,Dylan Scozzese,106.0,Facilities,Truck Driver
+1783,2014-01-09 16:27:00,Nationwide Refinery,1322.5,2014-01-09,Dylan Scozzese,106.0,Facilities,Truck Driver
+1784,2014-01-14 13:06:00,Abila Airport,3379.21,2014-01-14,Dylan Scozzese,106.0,Facilities,Truck Driver
+1785,2014-01-14 14:13:00,Abila Scrapyard,4277.4,2014-01-14,Dylan Scozzese,106.0,Facilities,Truck Driver
+1786,2014-01-14 16:28:00,Nationwide Refinery,4429.76,2014-01-14,Dylan Scozzese,106.0,Facilities,Truck Driver
+1787,2014-01-16 13:22:00,Abila Airport,3138.98,2014-01-16,Dylan Scozzese,106.0,Facilities,Truck Driver
+1788,2014-01-16 16:56:00,Abila Scrapyard,1897.05,2014-01-16,Dylan Scozzese,106.0,Facilities,Truck Driver
+1789,,Abila Airport,1641.96,2014-01-07,Dylan Scozzese,106.0,Facilities,Truck Driver
+1790,,Abila Airport,3339.21,2014-01-14,Dylan Scozzese,106.0,Facilities,Truck Driver
+1791,2014-01-07 14:19:00,Kronos Pipe and Irrigation,3920.82,2014-01-07,Irene Nant,107.0,Facilities,Truck Driver
+1792,2014-01-07 15:20:00,Maximum Iron and Steel,3207.31,2014-01-07,Irene Nant,107.0,Facilities,Truck Driver
+1793,2014-01-08 13:03:00,Carlyle Chemical Inc.,4983.52,2014-01-08,Irene Nant,107.0,Facilities,Truck Driver
+1794,2014-01-08 14:09:00,Kronos Pipe and Irrigation,3615.61,2014-01-08,Irene Nant,107.0,Facilities,Truck Driver
+1795,2014-01-08 15:18:00,Maximum Iron and Steel,3136.01,2014-01-08,Irene Nant,107.0,Facilities,Truck Driver
+1796,2014-01-09 11:21:00,Carlyle Chemical Inc.,732.82,2014-01-09,Irene Nant,107.0,Facilities,Truck Driver
+1797,2014-01-09 14:28:00,Kronos Pipe and Irrigation,423.14,2014-01-09,Irene Nant,107.0,Facilities,Truck Driver
+1798,2014-01-09 15:16:00,Maximum Iron and Steel,1527.14,2014-01-09,Irene Nant,107.0,Facilities,Truck Driver
+1799,2014-01-15 14:12:00,Kronos Pipe and Irrigation,2564.0,2014-01-15,Irene Nant,107.0,Facilities,Truck Driver
+1800,2014-01-15 15:11:00,Maximum Iron and Steel,4788.22,2014-01-15,Irene Nant,107.0,Facilities,Truck Driver
+1801,,Carlyle Chemical Inc.,3489.36,2014-01-10,Irene Nant,107.0,Facilities,Truck Driver
+1802,2014-01-08 09:54:00,Nationwide Refinery,4513.16,2014-01-08,Adan Morlun,106.0,Facilities,Truck Driver
+1803,2014-01-08 11:28:00,Stewart and Sons Fabrication,1738.26,2014-01-08,Adan Morlun,106.0,Facilities,Truck Driver
+1804,2014-01-15 10:00:00,Nationwide Refinery,1903.77,2014-01-15,Adan Morlun,106.0,Facilities,Truck Driver
+1805,2014-01-15 11:18:00,Stewart and Sons Fabrication,4545.38,2014-01-15,Adan Morlun,106.0,Facilities,Truck Driver
+1806,,Stewart and Sons Fabrication,4485.38,2014-01-15,Adan Morlun,106.0,Facilities,Truck Driver
+1807,2014-01-10 07:59:00,Abila Airport,4039.36,2014-01-10,Claudio Hawelon,101.0,Facilities,Truck Driver
+1808,2014-01-10 09:09:00,Carlyle Chemical Inc.,227.81,2014-01-10,Claudio Hawelon,101.0,Facilities,Truck Driver
+1809,2014-01-10 10:40:00,Nationwide Refinery,2302.73,2014-01-10,Claudio Hawelon,101.0,Facilities,Truck Driver
+1810,2014-01-10 12:10:00,Stewart and Sons Fabrication,4195.49,2014-01-10,Claudio Hawelon,101.0,Facilities,Truck Driver
+1811,,Nationwide Refinery,2262.73,2014-01-10,Claudio Hawelon,101.0,Facilities,Truck Driver
+1812,2014-01-17 07:56:00,Hallowed Grounds,9.72,2014-01-17,Sten Sanjorge Jr.,31.0,Executive,President/CEO
+1813,2014-01-17 13:28:00,Abila Zacharo,15.95,2014-01-17,Sten Sanjorge Jr.,31.0,Executive,President/CEO
+1814,2014-01-18 12:03:00,Chostus Hotel,600.0,2014-01-18,Sten Sanjorge Jr.,31.0,Executive,President/CEO
+1815,2014-01-19 15:46:00,Desafio Golf Course,148.22,2014-01-19,Sten Sanjorge Jr.,31.0,Executive,President/CEO
+1816,2014-01-19 19:45:00,Guy's Gyros,25.79,2014-01-19,Sten Sanjorge Jr.,31.0,Executive,President/CEO
+1817,,Katerina’s Café,14.22,2014-01-18,Sten Sanjorge Jr.,31.0,Executive,President/CEO
